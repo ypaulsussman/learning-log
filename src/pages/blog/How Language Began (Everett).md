@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: How Language Began
+title: How Language Began: The Story of Humanity's Greatest Invention (Everett, Daniel L.)
 date: 2017-01-04T15:04:10.000Z
 description: a book i read
 tags:
@@ -9,8 +9,6 @@ tags:
   - kindle
   - nonfiction
 ---
-
-# How Language Began: The Story of Humanity's Greatest Invention (Everett, Daniel L.)
 
 Palaeoanthropologist Ralph Holloway and his colleagues proposed four major stages of hominin brain evolution.
 

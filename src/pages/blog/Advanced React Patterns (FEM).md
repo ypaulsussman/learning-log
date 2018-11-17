@@ -1,6 +1,6 @@
 ---
 templateKey: 'blog-post'
-title: 'ARP @ FEM'
+title: Advanced React Patterns (Dodds)
 date: 2017-01-04T15:04:10.000Z
 description: good stuff; let's see if prism works
 tags:
@@ -9,9 +9,7 @@ tags:
   - etc
 ---
 
-# Advanced React Patterns (FEM)
-
-## .setState() options
+### .setState() options
 You can invoke `this.setState()` with...
 * an updated object as the first param; or 
 * a function with two parameters. (Second parameter is always a callback function.)
@@ -29,7 +27,7 @@ this.setState(
 
 ---
 
-## this.props.children syntax
+### this.props.children syntax
 In JSX, the following are identical: 
 
 ```javascript
@@ -44,7 +42,7 @@ In JSX, the following are identical:
 
 ---
 
-## static class methods
+### static class methods
 
 When a method doesn't use `this`, it doesn't need to be a class method: preface it with `static` when declaring it inside the Component class.
 
@@ -52,7 +50,7 @@ Static method calls are made directly on the class and are not callable on insta
 
 ---
 
-## Render Props
+### Render Props
 
 Sharing code between React components using a prop whose value is a function, e.g. 
 
@@ -120,7 +118,7 @@ And [here’s the intro code](https://github.com/kentcdodds/advanced-react-patte
 
 ---
 
-## Prop Collections and Getters
+### Prop Collections and Getters
 From Kent C. Dodds’ [Advanced React Patterns overview](https://blog.kentcdodds.com/advanced-react-component-patterns-56af2b74bc5f):
 
 Often when using the render prop pattern, there are multiple elements that require the same props applied for accessibility or interactivity purposes. 
@@ -140,7 +138,7 @@ There’s a separate, [in-depth article on prop getters here.](https://blog.kent
 For more examples, see [Exercises 05 and 06](https://github.com/kentcdodds/advanced-react-patterns-v2/tree/master/src/exercises-final) from the original ARP course.
 ________________
 
-## Provider Pattern
+### Provider Pattern
 
 FB’s definition: Context provides a way to pass data through the component tree without having to pass props down manually at every level.
 

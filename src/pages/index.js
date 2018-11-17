@@ -15,6 +15,7 @@ export default class IndexPage extends React.Component {
             <div className="content">
               <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
             </div>
+            {/*use either cards or tiles for the below .map*/}
             {posts
               .map(({ node: post }) => (
                 <div

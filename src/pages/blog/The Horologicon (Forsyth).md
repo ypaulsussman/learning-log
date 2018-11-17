@@ -1,14 +1,12 @@
 ---
 templateKey: blog-post
-title: horologicon
+title: The Horologicon: A Day's Jaunt Through the Lost Words of the English Language (Forsyth, Mark)
 date: 2017-01-04T15:04:10.000Z
 description: another book i read
 tags:
   - stuff
   - nonsenswe
 ---
-
-# The Horologicon: A Day's Jaunt Through the Lost Words of the English Language (Forsyth, Mark)
 
 In medieval times there were books of hours [or **Horologicons**] all over the place. They were filled with prayers so that, at any time of day, the pious priest could whip out his horologicon, flip to the appropriate page and offer up an orison to St. Pantouffle, or whoever happened to be holy at the time.
 

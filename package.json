@@ -2,7 +2,7 @@
   "name": "learning-log",
   "description": "Collection of personal notes, adapted from gatsby-starter-netlify-cms",
   "version": "0.1.0",
-  "author": "Y Paul Sussman, adapting from Austin Green",
+  "author": "Y Sussman, adapting from Austin Green",
   "dependencies": {
     "gatsby": "^2.0.0",
     "gatsby-image": "^2.0.10",
