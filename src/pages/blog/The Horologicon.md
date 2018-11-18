@@ -1,11 +1,17 @@
 ---
 templateKey: blog-post
 title: The Horologicon - A Day's Jaunt Through the Lost Words of the English Language (Forsyth, Mark)
-date: 2017-01-04T15:04:10.000Z
-description: another book i read
+date: 2018-10-28
+description: ...a book of weird words for familiar situations. The Horologicon (or book of hours) contains the most extraordinary words in the English language, arranged according to what hour of the day you might need them. 
 tags:
-  - stuff
-  - nonsenswe
+  - book
+  - kindle
+  - nonfiction
+  - linguistics
+  - philology
+  - history
+  - mark-forsyth
+
 ---
 
 In medieval times there were books of hours [or **Horologicons**] all over the place. They were filled with prayers so that, at any time of day, the pious priest could whip out his horologicon, flip to the appropriate page and offer up an orison to St. Pantouffle, or whoever happened to be holy at the time.

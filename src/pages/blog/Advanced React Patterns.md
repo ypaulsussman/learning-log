@@ -1,12 +1,17 @@
 ---
 templateKey: 'blog-post'
-title: Advanced React Patterns (Dodds)
-date: 2017-01-04T15:04:10.000Z
-description: good stuff; let's see if prism works
+title: Advanced React Patterns (Dodds, Kent)
+date: 2018-05-25
+description: This course teaches you advanced patterns in React that you can use to make components that are simple, flexible, and enjoyable to work with.
 tags:
+  - frontend-masters
+  - live-course
+  - nonfiction
   - react
-  - FEM
-  - etc
+  - components
+  - javascript
+  - kent-c-dodds
+  
 ---
 
 ### .setState() options

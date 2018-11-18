@@ -13,3 +13,7 @@
 
 .taglist
   list-style-type: none
+
+// this is necessary as a result of how Remark transforms nested lists
+li > p
+  display: inline
