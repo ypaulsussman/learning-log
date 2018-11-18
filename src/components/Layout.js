@@ -1,15 +1,25 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-
-import Navbar from '../components/Navbar'
-import './all.sass'
+import React from "react";
+import Helmet from "react-helmet";
+import Navbar from "../components/Navbar";
+import favicon from "../img/favicon.ico";
+import "./all.sass";
 
 const TemplateWrapper = ({ children }) => (
   <div className="column col-sm-12 col-md-11 col-lg-10 col-xl-8 col-5 col-mx-auto">
-    <Helmet title="Home | Learning Log" />
+    <Helmet
+      title="Home | Learning Log"
+      link={[
+        {
+          rel: "shortcut icon",
+          type: "image/png",
+          // sizes:'16x16',
+          href: `${favicon}`
+        }
+      ]}
+    />
     <Navbar />
     <div>{children}</div>
   </div>
-)
+);
 
-export default TemplateWrapper
+export default TemplateWrapper;

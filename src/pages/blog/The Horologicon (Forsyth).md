@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: The Horologicon: A Day's Jaunt Through the Lost Words of the English Language (Forsyth, Mark)
+title: The Horologicon - A Day's Jaunt Through the Lost Words of the English Language (Forsyth, Mark)
 date: 2017-01-04T15:04:10.000Z
 description: another book i read
 tags:

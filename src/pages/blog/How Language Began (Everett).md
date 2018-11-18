@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: How Language Began: The Story of Humanity's Greatest Invention (Everett, Daniel L.)
+title: How Language Began - The Story of Humanity's Greatest Invention (Everett, Daniel)
 date: 2017-01-04T15:04:10.000Z
 description: a book i read
 tags:
@@ -13,20 +13,25 @@ tags:
 Palaeoanthropologist Ralph Holloway and his colleagues proposed four major stages of hominin brain evolution.
 
 1. The foundational stage, beginning with the split between chimpanzees and hominins... roughly 6–8 million years ago. Three characteristics that distinguish them from their descendants. 
-  * First, the lunate sulcus (crescent or moon-shaped groove in the brain) of these creatures is found further towards the front (anterior) portion of the brain. This groove divides the visual cortex from the frontal cortex. Since it is known that the frontal cortex of the brain is required for thinking... the position of the lunate sulcus is indicative of the relative thinking sophistication.
-  * [The] part of the brain dedicated to connecting multiple cerebral components [is less-developed]. This portion is called the ‘posterior association cortex’. This area of the brain links multiple regions simultaneously, enabling faster thinking.
-  * Finally, the brains of the first hominins were small, 350–450cm3 on average. This likely means that their smaller and more simply organised brains would have been incapable of anything like modern human thought.
-
+    * First, the lunate sulcus (crescent or moon-shaped groove in the brain) of these creatures is
+    found further towards the front (anterior) portion of the brain. This groove divides the visual cortex from the frontal cortex. Since it is known that the frontal cortex of the brain is required for thinking... the position of the lunate sulcus is indicative of the relative thinking sophistication.
+    * [The] part of the brain dedicated to connecting multiple cerebral components [is 
+   less-developed]. This portion is called the ‘posterior association cortex’. This area of the brain links multiple regions simultaneously, enabling faster thinking.
+    * Finally, the brains of the first hominins were small, 350–450cm3 on average. This likely 
+   means that their smaller and more simply organised brains would have been incapable of anything like modern human thought.
 2. [The next stage occurred] 3.5 million years ago, with the appearance of _Australopithecus africanus_ and _afarensis._ 
-  * The lunate sulcus in these creatures has moved a bit further back, [and] the posterior association cortex is also larger in australopithecines.
-  * More specialised areas are becoming evident, along with an expansion in size to around 500cm3
-  * [There are also] signs of asymmetry, with the left and right hemispheres taking on different specialisations.
+    * The lunate sulcus in these creatures has moved a bit further back, [and] the posterior 
+   association cortex is also larger in australopithecines.
+    * More specialised areas are becoming evident, along with an expansion in size to around 500cm3
+    * [There are also] signs of asymmetry, with the left and right hemispheres taking on different
+    specialisations.
 
 3. [The] next evolutionary jump occurs about 1.9 million years ago with the appearance of _Homo erectus_. ...[their] brains began to exhibit a prominent region around Broca’s area, important for sequential actions.
 
 4. Holloway’s final stage... occurred about 500,000 years ago, [when] the brain had reached its maximal size and refinement in specialisation for each hemisphere.
 
 Therefore [although] _Homo erectus_ arrived on the scene with brain asymmetries typical of modern humans... it is important to avoid giving the wrong impression. [It] is important to discuss a few of the ways erectus, for all their relative brilliance, were inferior to sapiens.
+    
 * They lacked a modern hyoid (Greek for ‘U-shaped’) bone, the small bone in the pharynx that anchors the larynx. [They] had not yet taken on the shape of _sapiens’_ and _neanderthalensis’_ hyoids (these two being virtually identical).
 * [Because of their] inability to form the same range of vowels that _sapiens_ can produce, in all likelihood their vowels would have been hard to pick up across distances.
 * _Erectus_ faces were more distinguished by prognathism [abnormal protrusion of one or both jaws, especially the lower jaw] than modern humans’,
@@ -36,7 +41,7 @@ Therefore [although] _Homo erectus_ arrived on the scene with brain asymmetries 
 
 ---
 
-There is no convincing evidence to date that there are specifically heritable linguistic deficits. Language deficits are rooted in other physical or mental problems. This may come as a surprise, although it would be perhaps more unexpected to learn that there was tissue or neuronal networks specialised for language...
+There is no convincing evidence to date that there are specifically heritable linguistic deficits. Language deficits are rooted in other physical or mental problems.
 
 **Neuroplasticity**... is in part the ability of neurons to change to better fit the needs of their containing organism. 
 
@@ -56,7 +61,8 @@ The most important question about our brains is not, ‘What in the brain makes 
 
 There were several changes in the environment that pressured human brains to enlarge in order to support greater intelligence.
 
-Robin Dunbar, a British anthropologist, claims that the main force driving hominins to develop greater intelligence was increased social complexity.
+**Robin Dunbar**, a British anthropologist, claims that the main force driving hominins to develop 
+greater intelligence was increased social complexity.
 
 Dunbar’s argument, then, has to do with the exponential growth in the number of social relationships that arises from even the modest increases in overall group size.
 
@@ -147,7 +153,7 @@ The brain is ‘embodied’ – built into an anatomical, chemical, electrical a
 
 ---
 
-Each of the three steps in the creation and transmission and understanding of speech has an entire subfield of phonetics, the science of sounds, dedicated to it. 
+Each of the three steps in the creation and transmission and understanding of speech has an entire subfield of **phonetics**, the science of sounds, dedicated to it. 
 1. The creation of sounds is the domain of the field of ‘articulatory phonetics’. 
 2. The transmission of sounds through the air is ‘acoustic phonetics’. 
 3. And the hearing and interpretation of sounds is ‘auditory phonetics’.

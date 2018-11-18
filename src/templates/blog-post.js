@@ -23,7 +23,7 @@ export const BlogPostTemplate = ({
       {helmet || ""}
       <div className="container">
         <h1 className="title">{title}</h1>
-        <div className="columns">
+        <div className="columns post-overview-wrapper">
           {tags && tags.length ? (
             <div className="card col-5 col-mx-auto">
               <div className="card-header">
@@ -32,7 +32,7 @@ export const BlogPostTemplate = ({
               <div className="card-body">
                 {" "}
                 {tags.map(tag => (
-                  <span class="chip" key={tag + `tag`}>
+                  <span className="chip" key={tag + `tag`}>
                     <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                   </span>
                 ))}
