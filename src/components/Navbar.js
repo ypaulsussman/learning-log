@@ -3,7 +3,9 @@ import { Link } from "gatsby";
 
 const Navbar = () => {
   const getActiveUrl = currentPath => {
-    return document.location.pathname === currentPath ? "active" : null;
+    if (typeof window !== `undefined`) {
+      return document.location.pathname === currentPath ? "active" : null;
+    }
   };
 
   return (
