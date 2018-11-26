@@ -14,6 +14,18 @@
 .taglist
   list-style-type: none
 
+hr
+  margin-bottom: 1.2rem
+
 // this is necessary as a result of how Remark transforms nested lists
 li > p
   display: inline
+  margin-bottom: 0px !important // see comment immediately following. CSS was a mistake
+
+// tentatively overwrites spectre.css typography, because that's clearly a sustainable solution
+p ~ ul, p ~ ol
+  margin-top: .4rem
+
+  p ~ ul, p ~ ol
+    margin-top: .4rem
+

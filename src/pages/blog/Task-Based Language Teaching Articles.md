@@ -2,7 +2,7 @@
 templateKey: 'blog-post'
 title: Task-Based Language Teaching
 date: 2015-01-24
-description: Various notes on on task-based language teaching that I'd read when interested in the topic.
+description: Various notes on task-based language teaching that I'd read when interested in the topic.
 tags:
   - academic-journals
   - education
@@ -34,7 +34,7 @@ tags:
 *   The second is the **degree of learner-involvement that a task elicits.**
     *   This dimension is unproblematic in the sense that we know we should aim at as high a level of task involvement as possible. 
     *   However... it becomes a major challenge as soon as we try to achieve that in a heterogeneous classroom.
-    ![Screen Shot 2015-11-13 at 1.45.16 PM.png](../../../static/img/littlewod_tblt_image1.png)
+    ![Screen Shot 2015-11-13 at 1.45.16 PM.png](../../../static/img/littlewood_tblt_image1.png)
     *   ...more exact to say that they are _properties of the learners as they engage in the tasks._ 
     * For example, even though a teacher may plan and conduct a communicative language practice task with the intention of stimulating learners to work with a balanced focus on form and meaning (centre top in the diagram)...
         *   some learners may focus almost entirely on the forms they are attempting to produce (top left),
