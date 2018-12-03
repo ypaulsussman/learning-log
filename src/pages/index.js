@@ -11,7 +11,7 @@ export default class IndexPage extends React.Component {
     return (
       <Layout>
         <section className="section">
-          <h1 className="">Latest Posts</h1>
+          <h1 className="">Latest Notes</h1>
           {posts.map(({ node: post }) => (
             <div className="card latest-posts" key={post.id}>
               <span className="card-header">
