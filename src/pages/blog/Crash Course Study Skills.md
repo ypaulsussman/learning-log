@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Crash Course Study Skills
 date: 2015-11-11
 description: Over the next 10 weeks, Thomas Frank is going to help you learn to be a better student. We'll go over study tips, note taking, getting organized, and so much more!
+postType: 'notes'
 tags:
   - PBS
   - video

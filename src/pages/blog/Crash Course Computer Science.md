@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Crash Course Computer Science
 date: 2017-10-01
 description: In this series, we're going to trace the origins of our modern computers, take a closer look at the ideas that gave us our current hardware and software, discuss how and why our smart devices just keep getting smarter, and even look towards the future!
+postType: 'notes'
 tags:
   - PBS
   - video

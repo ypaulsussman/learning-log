@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: React Quickly (Mardan, Azat)
 date: 2018-01-27
 description: Following carefully chosen and clearly explained examples, you'll learn React development using your existing JavaScript and web dev skills. You'll explore a host of different projects as you learn about web components, forms, and data.
+postType: 'notes'
 tags:
   - book
   - nonfiction

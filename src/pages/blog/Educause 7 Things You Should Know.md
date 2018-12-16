@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Educause's "7 Things You Should Know About..." Series
 date: 2018-08-31
 description: EDUCAUSE Learning Initiative's 7 Things You Should Know About...™ series provides concise information on emerging learning technologies and related practices. Each brief focuses on a single technology or practice.
+postType: 'notes'
 tags:
   - education
   - nonfiction

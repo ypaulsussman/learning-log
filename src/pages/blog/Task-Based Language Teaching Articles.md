@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Task-Based Language Teaching
 date: 2015-01-24
 description: Various notes on task-based language teaching that I'd read when interested in the topic.
+postType: 'notes'
 tags:
   - academic-journals
   - education

@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title:  JavaScript - The Hard (and New Hard) Parts (Sentance, Will)
 date: 2018-05-21
 description: In this course, you will develop an intuitive understanding of the new features of JavaScript in ES6+ - iterators, generators, promises, and async/await. 
+postType: 'notes'
 tags:
   - frontend-masters
   - live-course

@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Improving Adult Literacy Instruction - Options for Practice and Research
 date: 2017-10-29
 description: Improving Adult Literacy Instruction synthesizes the research on literacy and learning to improve literacy instruction in the United States and to recommend a more systemic approach to research, practice, and policy.
+postType: 'notes'
 tags:
   - education
   - nonfiction

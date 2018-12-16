@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Advanced React Patterns (Dodds, Kent)
 date: 2018-05-25
 description: This course teaches you advanced patterns in React that you can use to make components that are simple, flexible, and enjoyable to work with.
+postType: 'notes'
 tags:
   - frontend-masters
   - live-course

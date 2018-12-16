@@ -3,6 +3,7 @@ templateKey: blog-post
 title: How Language Began - The Story of Humanity's Greatest Invention (Everett, Daniel)
 date: 2018-11-15
 description: Tracing crucial shifts and developments across the ages, Everett breaks down every component of speech. Moving on from biology to execution, Everett explores why elements such as grammar and storytelling are not nearly as critical to language as one might suspect.
+postType: 'notes'
 tags:
   - book
   - kindle

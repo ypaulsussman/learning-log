@@ -3,6 +3,7 @@ templateKey: blog-post
 title: The Horologicon - A Day's Jaunt Through the Lost Words of the English Language (Forsyth, Mark)
 date: 2018-10-28
 description: ...a book of weird words for familiar situations. The Horologicon (or book of hours) contains the most extraordinary words in the English language, arranged according to what hour of the day you might need them. 
+postType: 'notes'
 tags:
   - book
   - kindle

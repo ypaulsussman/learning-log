@@ -12,12 +12,17 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="nav-section">
         <Link className={`navbar-item ${getActiveUrl("/")}`} to="/">
-          By Date
+          About
         </Link>
       </div>
       <div className="nav-section">
-        <Link className={`navbar-item ${getActiveUrl("/about")}`} to="/about">
-          About
+        <Link className={`navbar-item ${getActiveUrl("/notes")}`} to="/notes">
+          Notes
+        </Link>
+      </div>
+      <div className="nav-section">
+        <Link className={`navbar-item ${getActiveUrl("/ideas")}`} to="/ideas">
+          Ideas
         </Link>
       </div>
       <div className="nav-section">

@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Full Stack for Front-Ends Part 2 (Young, Jem)
 date: 2018-02-14
 description: Use the full stack to setup and deploy modern and secure web applications with Nginx and Node.js. You'll setup your web server through the command line -- package node.js modules with NPM, setup SSH, firewall and server security, use advanced shell scripting, configure server updates, caching and optimize nginx performance using gzip compression and HTTP2. By using these practices, you’ll deliver richer experiences, using less bandwidth all while being more secure!
+postType: 'notes'
 tags:
   - frontend-masters
   - live-course

@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Event and Meetup Notes
 date: 2017-12-06
 description: Notes from various events I've attended. My infrequency of participation leads me to compile them all into one document; if needed, I'll disaggregate later.  
+postType: 'notes'
 tags:
   - event
   - meetup

@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Full Stack for Front-Ends Part 1 (Young, Jem)
 date: 2017-10-10
 description: Become a Full Stack Engineer and gain the confidence to master the command line and server. You’ll gain practical knowledge of everything from building a web presence, to setting up a virtual server, to publishing on your custom domain -- all from the command line.
+postType: 'notes'
 tags:
   - frontend-masters
   - live-course

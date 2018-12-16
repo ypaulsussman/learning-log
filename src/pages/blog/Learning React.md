@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Learning React (Banks, Alex)
 date: 2018-09-03
 description: This book will show you how to create UIs with this small JavaScript library that can deftly display data changes on large-scale, data-driven websites without page reloads. Along the way, you’ll learn how to work with functional programming and the latest ECMAScript features.
+postType: 'notes'
 tags:
   - book
   - nonfiction

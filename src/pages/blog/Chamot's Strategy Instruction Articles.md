@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Language Learning Strategies
 date: 2015-11-11
 description: Two articles on language-learning strategies that I'd read when interested in the topic.
+postType: 'notes'
 tags:
   - academic-journals
   - education

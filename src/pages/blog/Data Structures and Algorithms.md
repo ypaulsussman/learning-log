@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Data Structures and Algorithms (Gandolfo, Bianca)
 date: 2018-06-27
 description: This is a practical class is for students who are very comfortable with the JavaScript language but want to level up on their data structures and algorithms for interviews.
+postType: 'notes'
 tags:
   - frontend-masters
   - live-course

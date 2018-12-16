@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Go Figure - The Economist Explains
 date: 2018-11-27
 description: The news cycle moves fast, and underlying causes often go unexplored.  That's when the two most popular blogs on The Economist's website - the Economist Explains and the Daily Chart - provide answers to the questions, quirky and serious, that puzzle anyone interested in the world around them.
+postType: 'notes'
 tags:
   - book
   - kindle

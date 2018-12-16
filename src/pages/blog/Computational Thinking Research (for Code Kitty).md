@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Computational Thinking Research (for Code Kitty)
 date: 2017-09-04
 description: A review of the (available) literature (mostly via freely-available white papers, and a few academic journals) on computational thinking, conducted in order to get some background on what the Code Kitty nonprofit aims to inculcate.
+postType: 'notes'
 tags:
   - academic-journals
   - education

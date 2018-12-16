@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: JS Data Structures and Algorithms (Groner, Loiane)
 date: 2017-12-05
 description: This book is an accessible route deeper into JavaScript. You will gain an in-depth knowledge of how hash tables and set data structure functions, as well as how trees and hash maps can be used to search files in a HD or represent a database. Graphs being one of the most complex data structures you’ll encounter, we’ll also give you a better understanding of why and how graphs are largely used in GPS navigation systems in social networks. 
+postType: 'notes'
 tags:
   - packt
   - book

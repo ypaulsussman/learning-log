@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Beautiful JavaScript (Various Authors)
 date: 2018-09-24
 description: This guide gives you a rare glimpse into JavaScript from people intimately familiar with it. Chapters contributed by domain experts such as Jacob Thornton, Ariya Hidayat, and Sara Chipps show what they love about their favorite language—whether it’s turning the most feared features into useful tools, or how JavaScript can be used for self-expression.
+postType: 'notes'
 tags:
   - book
   - kindle

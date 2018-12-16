@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 title: Learn Ruby (Various Authors)
 date: 2017-12-28
 description: In this course, you will gain familiarity with Ruby and basic programming concepts—including variables, loops, control flow, and most importantly, object-oriented programming.
+postType: 'notes'
 tags:
   - website
   - codecademy

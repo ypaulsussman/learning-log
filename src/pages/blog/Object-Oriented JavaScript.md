@@ -3,6 +3,7 @@ templateKey: "blog-post"
 title: Object-Oriented JavaScript (Stefanov, Stoyan)
 date: 2018-01-01
 description: The book begins with the basics of object-oriented programming in JavaScript and then gradually progresses to cover functions, objects, and prototypes, and how these concepts can be used to make your programs cleaner, more maintainable, faster, and compatible with other programs/libraries.
+postType: 'notes'
 tags:
   - book
   - packt
