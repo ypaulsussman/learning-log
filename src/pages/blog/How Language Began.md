@@ -9,7 +9,7 @@ tags:
   - kindle
   - nonfiction
   - linguistics
-  - archaeology
+  - neuroscience
   - history
   - daniel-everett
 ---

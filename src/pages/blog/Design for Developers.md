@@ -16,18 +16,6 @@ tags:
   
 ---
 
-@ahripak: e.io access?  (Also: any e.io @ rails?)
-
-HCL Overdrive: design/layout books?
-
-Idea: triad-composition on landing page for daily_ua, for three different exercises? (BBC headline translation, SRS, video?) --> daily_ua as electron app?
-
-LnLg -- Google Fonts' Inconsolata for text // Abril Fatface or Comfortaa for display
-
-Focus on LnLg as a way to learn styling w/ CSS grid, your own fonts, etc: remove spectre.css; explain this side goal in your 'about' page (also what it's not: learning GraphQL, learning Gatsby ecosystem)
-
-* * * 
-
 [Read more about neuromyths](http://www.oecd.org/education/ceri/neuromyth6.htm)
 
 Learning skills outside "your discipline" => strengthening the corpus collosum => better at all skills 
@@ -235,6 +223,5 @@ Optimization:
 Interesting: "_With Canvas, you're learning Canvas. With SVG, you're using the DOM._"
 
 [Clipping vs masking overview here](https://css-tricks.com/masking-vs-clipping-use/)
-
 
 Use SVG inline if you want DOM-manipulation capability.

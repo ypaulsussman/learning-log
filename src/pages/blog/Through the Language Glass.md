@@ -2,13 +2,14 @@
 templateKey: blog-post
 title: Through the Language Glass -  Why the World Looks Different in Other Languages
 date: 2018-12-01
-description: A masterpiece of linguistics scholarship, at once erudite and entertaining, confronts the thorny question of how--and whether--culture shapes language and language, culture
+description: A masterpiece of linguistics scholarship, at once erudite and entertaining, confronts the thorny question of how--and whether--culture shapes language and language, culture.w
 postType: 'notes'
 tags:
   - book
   - kindle
   - nonfiction
   - linguistics
+  - neuroscience
   - history
   - guy-deutscher
 ---
