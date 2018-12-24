@@ -12,7 +12,6 @@ const TemplateWrapper = ({ children }) => (
         {
           rel: "shortcut icon",
           type: "image/png",
-          // sizes:'16x16',
           href: `${favicon}`
         }
       ]}

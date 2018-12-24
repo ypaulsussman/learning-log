@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
 import Layout from "../../components/Layout";
+import Helmet from "react-helmet";
 
 export default class IndexPage extends React.Component {
   render() {
@@ -11,6 +12,13 @@ export default class IndexPage extends React.Component {
     return (
       <Layout>
         <section className="section">
+          <Helmet titleTemplate="%s">
+            <title>{`Ideas | ${data.site.siteMetadata.title}`}</title>
+            <meta
+              name="description"
+              content="The six most-recent posts witht the 'Ideas' tag."
+            />
+          </Helmet>
           <h1 className="">Latest Ideas</h1>
           {posts.map(({ node: post }) => (
             <div className="card latest-posts" key={post.id}>
@@ -45,6 +53,11 @@ IndexPage.propTypes = {
 
 export const pageQuery = graphql`
   query IdeasQuery {
+    site {
+      siteMetadata {
+        title
+      }
+    }
     allMarkdownRemark(
       limit: 6
       sort: { order: DESC, fields: [frontmatter___date] }
