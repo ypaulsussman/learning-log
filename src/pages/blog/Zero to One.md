@@ -2,7 +2,7 @@
 templateKey: "blog-post"
 title: Zero to One (Thiel, Peter)
 date: 2017-12-07
-description: Zero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.
+description: Zero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation - it starts by learning to ask the questions that lead you to find value in unexpected places.
 postType: "notes"
 tags:
   - nonfiction
