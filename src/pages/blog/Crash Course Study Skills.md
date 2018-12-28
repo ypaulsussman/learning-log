@@ -12,7 +12,6 @@ tags:
   - learning
   - studying
   - learning-strategy
-  - thomas-frank
 ---
 
 Hand-written notes are superior to typed at least partially because the former forces you to focus more on the semantics (vs syntax) of the message you’re hearing (due to the need to rephrase in order to compensate for the slower pace of notetaking.)

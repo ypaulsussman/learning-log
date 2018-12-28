@@ -11,7 +11,6 @@ tags:
   - data-structures
   - algorithms
   - javascript
-  - loiane-groner
   
 ---
 

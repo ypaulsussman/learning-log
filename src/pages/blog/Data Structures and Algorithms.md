@@ -11,8 +11,7 @@ tags:
   - data-structures
   - algorithms
   - javascript
-  - bianca-gandolfo
-  
+ 
 ---
 
 First-Timers Only: good place to get started with open-source contributions.

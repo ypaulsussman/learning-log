@@ -10,7 +10,6 @@ tags:
   - learning
   - teaching
   - neuroscience
-  - david-a-sousa  
 ---
  
 ### Basic Brain Facts, and How the Brain Processes Information

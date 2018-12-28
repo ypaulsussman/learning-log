@@ -11,7 +11,6 @@ tags:
   - es6+
   - async
   - javascript
-  - will-sentance
   
 ---
 

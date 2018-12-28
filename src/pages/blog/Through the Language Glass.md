@@ -11,7 +11,6 @@ tags:
   - linguistics
   - neuroscience
   - history
-  - guy-deutscher
 ---
 
 ### PART I: THE LANGUAGE MIRROR 

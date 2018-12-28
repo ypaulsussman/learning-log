@@ -11,7 +11,6 @@ tags:
   - linguistics
   - neuroscience
   - history
-  - daniel-everett
 ---
 
 Palaeoanthropologist Ralph Holloway and his colleagues proposed four major stages of hominin brain evolution.

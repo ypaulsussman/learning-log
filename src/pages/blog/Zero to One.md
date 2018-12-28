@@ -9,7 +9,6 @@ tags:
   - business
   - management
   - technology
-  - peter-thiel
 ---
 
 Technology is miraculous because it allows us to do more with less, ratcheting up our fundamental capabilities to a higher level.

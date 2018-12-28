@@ -11,7 +11,6 @@ tags:
   - oop
   - design-patterns
   - javascript
-  - stoyan-stefanov
 ---
 
 ## History

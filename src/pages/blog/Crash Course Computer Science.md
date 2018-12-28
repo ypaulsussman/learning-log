@@ -10,7 +10,6 @@ tags:
   - nonfiction
   - crash-course
   - computer-science
-  - carrie-anne-philbin
   
 ---
 

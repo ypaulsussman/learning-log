@@ -13,8 +13,6 @@ tags:
   - language-learning
   - language-teaching
   - tblt
-  - william-littlewood
-  - jack-c-richards
 ---
 
 ### The task-based approach: some questions and suggestions (Littlewood, 2004)

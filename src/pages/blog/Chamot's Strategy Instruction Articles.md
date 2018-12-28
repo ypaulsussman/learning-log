@@ -13,7 +13,6 @@ tags:
   - language-learning
   - language-teaching
   - learning-strategy
-  - anna-chamot
 ---
 
 ### Issues in Language Learning Strategy Research and Teaching (Chamot 2004)

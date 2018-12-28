@@ -10,7 +10,6 @@ tags:
   - nonfiction
   - ruby
   - rails
-  - various-authors
   
 ---
 

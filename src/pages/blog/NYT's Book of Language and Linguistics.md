@@ -10,7 +10,6 @@ tags:
   - linguistics
   - history
   - neuroscience
-  - nicholas-wade
   - new-york-times
 ---
 

@@ -9,7 +9,6 @@ tags:
   - codecademy
   - nonfiction
   - ruby
-  - various-authors
   
 ---
 

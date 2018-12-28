@@ -10,8 +10,7 @@ tags:
   - nonfiction
   - oreilly
   - javascript
-  - various-authors
-  
+ 
 ---
 
 ## Beautiful Mixins (Angus Croll)

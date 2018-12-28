@@ -11,7 +11,6 @@ tags:
   - linguistics
   - philology
   - history
-  - mark-forsyth
 
 ---
 

@@ -11,8 +11,7 @@ tags:
   - react
   - components
   - javascript
-  - kent-c-dodds
-  
+
 ---
 
 ### .setState() options

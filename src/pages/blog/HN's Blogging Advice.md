@@ -9,8 +9,6 @@ tags:
   - nonfiction
   - blogging
   - writing
-  - robert-heaton
-  - andrew-chen
 ---
 
 ### [A Blogging Style Guide (Robert Heaton)](https://news.ycombinator.com/item?id=18626098)

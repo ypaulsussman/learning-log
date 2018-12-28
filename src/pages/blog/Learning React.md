@@ -10,8 +10,6 @@ tags:
   - oreilly
   - react
   - javascript
-  - alex-banks
-  - eve-porcello
   
 ---
 

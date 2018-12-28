@@ -12,7 +12,7 @@ tags:
   - css-grid
   - color-theory
   - typography
-  - sarah-drasner
+
   
 ---
 

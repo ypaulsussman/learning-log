@@ -15,7 +15,6 @@ tags:
   - nginx
   - servers
   - infrastructure
-  - jem-young
   
 ---
 

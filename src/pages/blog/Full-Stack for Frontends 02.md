@@ -17,7 +17,6 @@ tags:
   - https
   - servers
   - infrastructure
-  - jem-young
 
 ---
 

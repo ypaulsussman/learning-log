@@ -10,7 +10,6 @@ tags:
   - manning
   - react
   - javascript
-  - azat-mardan
   
 ---
 
