@@ -47,3 +47,6 @@
 1. LnLg_note_7 [ ]
 1. LnLg_note_27 [ ]
 1. gDrive-adapted_idea_3
+1. [ D&D 5e // VTM ] Character Randomizer
+1. Revisitation: "Words and Rules" notes
+1. Assessment books @ HCL?
