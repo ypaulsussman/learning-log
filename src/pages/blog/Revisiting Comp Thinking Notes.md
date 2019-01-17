@@ -60,7 +60,7 @@ I found [Google’s initial work](https://docs.google.com/spreadsheets/d/1SE7hGK
 
 On revisitation, though, what strikes me most about that gSheet is the incapacity of a two-dimensional table to organize and display all the information I'd want, even for a subset of the information provided (in this case, any record where the value for the `Strand` field is `Computational Thinking`.)
 
-**So what, now what?**
+### So what, now what?
 
 The next-step challenge to myself, then — the product to build or idea to research — would be a codebase to visualize how pre-existing CT standards overlap (_or do not._)
 
@@ -119,7 +119,7 @@ I'm particularly thinking of the (_again, anecdotally-common_) scenario in which
 
 Following the idea of an "_Guide on mobile; Learner Workbook on laptop,_" one more-distant opportunity arises: the ability for the guide to configure and themselves interact with the given Scratch that a learner is working on. I'm imagining the ability for one of my students to select -- via touchscreen button and constrained list of options -- a sprite, or background, or motion, or other Scratch variable... and then have their decision appear on their child's current Scratch. Completely impracticable, currently: but still hypothetically warms my heart.  
 
-**So what, now what?**
+### So what, now what?
 
 [Something something hammer, something something nail.](https://en.wikipedia.org/wiki/Law_of_the_instrument) I'm a limited, immature programmer, but the one area I have some decent autonomy/skill in is web apps. (_The solution to all of life's problems._) Caveat aside, I see the next step here as a digital, interactive version of the Creative Computing Learner Workbook and Guide PDF's, one app each for teacher and for learner.
 
