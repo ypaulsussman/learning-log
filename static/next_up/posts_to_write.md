@@ -61,3 +61,13 @@
 1. Build: PWA to shoot you a daily quote from _Other People's Lines_
 1. Assessment books @ HCL (?)
 1. Merits of (fast, digital lookup) vs (“cabin in the woods” retreat sessions) — former replicates the computer’s everything-has-a-stat experience, but in a slower, inferior method; latter offers something unique, which can’t be provided by computer (the fuzzy logic of WHEN to reference DM charts vs when to hand-wave it, either for rule-of-cool or simple maintenance of pace/cadence.) Is the complexity of 3.X in fact an unexpected benefit here, due to its tendency to overwhelm the DM with [charts/edge-case modifiers] and have them fall back on “fuck it, that should probably be about a +6”?
+1. Compare and contrast online SQL exercises:
+  * https://chartio.com/learn/sql/
+  * https://selectstarsql.com/
+  * https://sqlbolt.com/
+  * https://pgexercises.com/
+  * https://sqlzoo.net/
+  * https://www.sqlteaching.com/
+  * https://schemaverse.com/
+  * http://sol.gfxile.net/g3/
+  * https://app.bytescout.com/sql-trainer/index.html

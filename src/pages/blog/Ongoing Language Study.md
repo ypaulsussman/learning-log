@@ -1,7 +1,7 @@
 ---
 templateKey: "blog-post"
 title: Revisiting Notes on 'Daily UA' (The More-Successful Workflow)
-date: 2018-01-16
+date: 2019-01-16
 description: These are my thoughts on rereading several ideas I'd jotted down on the topic of learning a language inside a country that doesn't speak it (i.e. as a foreign language.)
 postType: "ideas"
 tags:
@@ -68,7 +68,7 @@ Anecxperidotally, adult learners of `/* as a Foreign Language/` are either doing
   * don't have (_summative or formative_) performance benchmarks they're checking against, and
   * perhaps paradoxically* are at greater risk of lapse due to quotidian interference.
 
-I'm firmly, firmly in the latter camp, currently: however, if I shifted into the former (_let's say that long-awaited faculty appointment to [Ivana Franka](https://en.wikipedia.org/wiki/University_of_Lviv) finally came through, or_ `${lovely_spouse}` _took an unexpected interest in the ecological preservation of the Eastern Carpathians..._) I'm not sure how I'd shift into high-gear, as it were. 
+I'm firmly, firmly in the latter camp, currently: however, if I shifted into the former (_let's say that long-awaited faculty appointment to [Ivan Franko](https://en.wikipedia.org/wiki/University_of_Lviv) finally came through, or_ `${lovely_spouse}` _took an unexpected interest in the ecological preservation of the Eastern Carpathians..._) I'm not sure how I'd shift into high-gear, as it were. 
 
 I'd prefer not to redesign (_who are we kidding, re-evolve_) a language-learning system that worked for me, especially given the expected additional constraints/features that the greater intensity/pace would demand.
 
