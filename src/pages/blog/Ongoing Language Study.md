@@ -68,17 +68,27 @@ Anecxperidotally, adult learners of `/* as a Foreign Language/` are either doing
   * don't have (_summative or formative_) performance benchmarks they're checking against, and
   * perhaps paradoxically* are at greater risk of lapse due to quotidian interference.
 
-I'm firmly, firmly in the latter camp, currently: however, if I shifted into the former (_let's say that long-awaited faculty appointment to [Ivan Franko](https://en.wikipedia.org/wiki/University_of_Lviv) finally came through, or_ `${lovely_spouse}` _took an unexpected interest in the ecological preservation of the Eastern Carpathians..._) I'm not sure how I'd shift into high-gear, as it were. 
+I'm firmly in the latter camp, currently: however, if I shifted into the former (_let's say that long-awaited faculty appointment to [Ivan Franko](https://en.wikipedia.org/wiki/University_of_Lviv) finally came through, or_ `${lovely_spouse}` _took an unexpected interest in the ecological preservation of the Eastern Carpathians..._) I'm not sure how I'd shift into high-gear, as it were. 
 
-I'd prefer not to redesign (_who are we kidding, re-evolve_) a language-learning system that worked for me, especially given the expected additional constraints/features that the greater intensity/pace would demand.
+I'd prefer not to redesign (_who are we kidding, re-evolve_) a second, separate version of the language-learning system that worked for me, especially given the additional constraints/features that the greater intensity/pace would demand.
 
-It'd be nice, instead, if there were a "_ramp up/ramp down_" mechanic, akin to those selectable by e.g. treadmills. I'm not thinking of increasing the pace of memorization -- that ignores the logic/evidence of SRS algorithms to date -- but rather supplementing it with several parallel, cross-referential exercises. The first two that come to mind would be
+It'd be nice, instead, if there were a "_ramp up/ramp down_" mechanic, akin to those selectable by e.g. treadmills. I'm not thinking of increasing the pace of memorization -- that ignores the logic/evidence of SRS algorithms to date -- but rather supplementing it with several parallel, cross-referential exercises. Two initially come to mind.
+
+* Brief description of 1. how this idea builds out of your daily_ua efforts, 2. experience with https://theukrainians.org/ihor-lylo/ , and 3. why language in interviews is superior
+* Interviews: 
+  * truly sentence- and multi-sentence-level organization
+  * small blocks that connect to form a logical whole; 
+  * combination of written and spoken language ('natural speech, polished by an editor'); 
+  * genre focus (speaker, topic, field-specific language). 
+  * Different types of text: usually not merely descriptive or narrative, but also argumentative or instructional
+  * Use preexisting ML (Translate API), decorated by user contribution, for real-life translations. 
+
+* Icon-based prompts for extended, extemporaneous speech
+  * Record answers to slightly-modified versions of questions from interview
+  * Combine with (new) NLP for student-corpus analysis, to surface - or just native-speaker reviews
 
 
-For a ‘language maintenance @ 10 min daily’ app...
-* combine daily_ua idea w/ ability @ tap to send to SRS, and
-* (icon-based?) prompts for video-lesson conversation, based around
-  * upcoming language in SRS, and
-  * recent language in newsreader.
 
-* Or just counterfactually. Again, anecxperidotal.
+---
+
+* Or just counterfactually. Again: anecxperidotal.
