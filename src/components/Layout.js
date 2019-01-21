@@ -5,7 +5,7 @@ import favicon from "../img/favicon.ico";
 import "./all.sass";
 
 const TemplateWrapper = ({ children }) => (
-  <div className="column col-sm-12 col-md-11 col-lg-10 col-xl-8 col-5 col-mx-auto">
+  <div className="column col-sm-12 col-md-11 col-lg-10 col-xl-8 col-6 col-mx-auto">
     <Helmet
       title="Home | Learning Log"
       link={[
