@@ -6,8 +6,7 @@ description: This bestselling text integrates recent developments in neuroscienc
 postType: 'notes'
 tags:
   - education
-  - nonfiction
-  - learning
+   - learning
   - teaching
   - neuroscience
 ---

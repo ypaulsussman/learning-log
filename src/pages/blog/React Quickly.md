@@ -6,8 +6,7 @@ description: Following carefully chosen and clearly explained examples, you'll l
 postType: 'notes'
 tags:
   - book
-  - nonfiction
-  - manning
+   - manning
   - react
   - javascript
   

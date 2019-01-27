@@ -6,8 +6,7 @@ description: Notes from two (concise, list-heavy) articles on the practice blogg
 postType: "notes"
 tags:
   - hacker-news
-  - nonfiction
-  - blogging
+   - blogging
   - writing
 ---
 

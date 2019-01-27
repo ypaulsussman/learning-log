@@ -7,8 +7,7 @@ postType: 'notes'
 tags:
   - book
   - kindle
-  - nonfiction
-  - oreilly
+   - oreilly
   - javascript
  
 ---

@@ -7,8 +7,7 @@ postType: 'notes'
 tags:
   - book
   - packt
-  - nonfiction
-  - oop
+   - oop
   - design-patterns
   - javascript
 ---

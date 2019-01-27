@@ -1,12 +1,11 @@
 1. dropbox_idea_notes__2 [ x ]
 1. Computational Thinking Research (for Code Kitty) [ x ]
-
-
-1. dropbox_idea_notes__20 [ ]
-1. `daily_ua` notes [ ]
-
+1. dropbox_idea_notes__20 [ x ]
+1. `daily_ua` notes [ x ]
 
 1. Ruby Developer Questions [ ]
+1. Learn Ruby [ ]
+
 1. dropbox_idea_notes__6 [ ]
 1. dropbox_idea_notes__16 [ ]
 1. How The Brain Learns [ ]
@@ -32,7 +31,6 @@
 1. Object-Oriented JavaScript [ ]
 1. Full-Stack for Frontends 02 [ ]
 1. Beautiful JavaScript [ ]
-1. Learn Ruby [ ]
 1. dropbox_idea_notes__7 [ ]
 1. dropbox_idea_notes__18 [ ]
 1. Advanced React Patterns [ ]
@@ -51,16 +49,16 @@
 1. dropbox_idea_notes__12 [ ]
 1. Crash Course Study Skills [ ]
 1. Task-Based Language Teaching Articles [ ]
-1. dropbox_idea_notes__3
+1. dropbox_idea_notes__3 [ ]
 1. Credly FE learnings
 1. Credly BE learnings
-1. Build: [ D&D 5e // VTM ] Character Randomizer
 1. Words and Rules [ ]
-1. vim key commands
-1. Complete each unit in _Ruby Cookbook_, but make a post for each chapter (_or unit?_) that discusses how the recipe might be different in 2.5.x (_vs 1.8.4_)
+1. Build: Add [B612](https://fonts.google.com/specimen/B612?selection.family=B612) font, after ripping out Specter CSS.
 1. Build: PWA to shoot you a daily quote from _Other People's Lines_
+1. Build: [ D&D 5e // VTM ] Character Randomizer
+[1. High-Performance Browser Networking](https://hpbn.co/) [ ]
 1. Assessment books @ HCL (?)
-1. Merits of (fast, digital lookup) vs (“cabin in the woods” retreat sessions) — former replicates the computer’s everything-has-a-stat experience, but in a slower, inferior method; latter offers something unique, which can’t be provided by computer (the fuzzy logic of WHEN to reference DM charts vs when to hand-wave it, either for rule-of-cool or simple maintenance of pace/cadence.) Is the complexity of 3.X in fact an unexpected benefit here, due to its tendency to overwhelm the DM with [charts/edge-case modifiers] and have them fall back on “fuck it, that should probably be about a +6”?
+1. Merits of (fast, digital lookup avaiable by e.g. Twitch service) vs (“cabin in the woods” retreat sessions) — former replicates the computer’s everything-has-a-stat experience, but in a slower, inferior method; latter offers something unique, which can’t be provided by computer (the fuzzy logic of WHEN to reference DM charts vs when to hand-wave it, either for rule-of-cool or simple maintenance of pace/cadence.) Is the complexity of 3.X in fact an unexpected benefit here, due to its tendency to overwhelm the DM with [charts/edge-case modifiers] and have them fall back on “fuck it, that should probably be about a +6”?
 1. Compare and contrast online SQL exercises:
   * https://chartio.com/learn/sql/
   * https://selectstarsql.com/
@@ -71,3 +69,5 @@
   * https://schemaverse.com/
   * http://sol.gfxile.net/g3/
   * https://app.bytescout.com/sql-trainer/index.html
+1. Complete each unit in _Ruby Cookbook_, but make a post for each chapter (_or unit?_) that discusses how the recipe might be different in 2.5.x (_vs 1.8.4_)
+1. vim key commands

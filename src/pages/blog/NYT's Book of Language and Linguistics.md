@@ -6,8 +6,7 @@ description: Editor Nicholas Wade and several New York Times journalists explore
 postType: "notes"
 tags:
   - book
-  - nonfiction
-  - linguistics
+   - linguistics
   - history
   - neuroscience
   - new-york-times

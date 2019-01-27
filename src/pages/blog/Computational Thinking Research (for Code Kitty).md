@@ -7,8 +7,7 @@ postType: 'notes'
 tags:
   - academic-journals
   - education
-  - nonfiction
-  - computational-thinking
+   - computational-thinking
   - programming
   - code-kitty
   

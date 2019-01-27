@@ -7,8 +7,7 @@ postType: 'notes'
 tags:
   - book
   - kindle
-  - nonfiction
-  - news
+   - news
   - the-economist
   - explainer
   - politics

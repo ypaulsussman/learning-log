@@ -7,9 +7,9 @@ postType: 'notes'
 tags:
   - website
   - codecademy
-  - nonfiction
-  - ruby
-  
+   - ruby
+  - server
+
 ---
 
 # The basics

@@ -7,7 +7,6 @@ postType: 'notes'
 tags:
   - book
   - kindle
-  - nonfiction
   - linguistics
   - philology
   - history

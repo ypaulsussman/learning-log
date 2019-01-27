@@ -7,8 +7,7 @@ postType: 'notes'
 tags:
   - frontend-masters
   - live-course
-  - nonfiction
-  - es6+
+   - es6+
   - async
   - javascript
   

@@ -12,6 +12,7 @@ export const BlogPostTemplate = ({
   content,
   contentComponent,
   description,
+  postType,
   tags,
   title,
   helmet
@@ -25,7 +26,7 @@ export const BlogPostTemplate = ({
         <h1 className="title">{title}</h1>
         <div className="columns post-overview-wrapper">
           {tags && tags.length ? (
-            <div className="card col-5 col-mx-auto">
+            <div className={`card col-${postType === 'ideas' ? 4 : 3} col-mx-auto`}>
               <div className="card-header">
                 <div className="card-title h5">Tags</div>
               </div>
@@ -39,7 +40,7 @@ export const BlogPostTemplate = ({
               </div>
             </div>
           ) : null}
-          <div className={`card col-${tags ? 5 : 10} col-mx-auto`}>
+          <div className={`card col-${tags ? (postType === 'ideas' ? 6 : 7) : 10} col-mx-auto`}>
             <div className="card-header">
               <div className="card-title h5">Description</div>
               <div className="card-body">{description}</div>
@@ -84,6 +85,7 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        postType={post.frontmatter.postType}
       />
     </Layout>
   );
@@ -107,6 +109,7 @@ export const pageQuery = graphql`
         title
         description
         tags
+        postType
       }
     }
   }

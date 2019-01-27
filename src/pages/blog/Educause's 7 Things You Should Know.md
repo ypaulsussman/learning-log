@@ -6,8 +6,7 @@ description: EDUCAUSE Learning Initiative's 7 Things You Should Know About...™
 postType: 'notes'
 tags:
   - education
-  - nonfiction
-  - learning
+   - learning
   - teaching
   - ed-tech
   - educause

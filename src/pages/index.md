@@ -32,11 +32,11 @@ In technical terms, it's vaguely embarrassing. I mean, [take a look yourself:](h
 - the GraphQL’s been modified without the slightest understanding of how that language actually works, or how to optimize it;
 - the styling roughly translates to “_import the lightest-weight columns-and-components library you can find, then write a bunch of contradictory overrides_”... woof. This list could go on.
 
-As for the content, I’m more concerned by its absence than by its quality: at this stage, it’s mostly distillations of books I’ve read or workshops I’ve attended, as opposed to actual engagement with them. [Bloom would not be pleased.](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)
-
 And yet.
 
-And yet, for all that, this blog **needs** to be (_at least hypothetically!_) visible to others, to force me to continue thinking about it, and contributing to it, and refining it. So, while the intent is not actually to help you, dear reader, or anyone else - it's purely selfish, to be a spur for my own extracurricular, professional, personal development - I do need you to exist, if only as a possibility.
+And yet, for all that, this blog **needs** to be (_at least hypothetically!_) visible to others, to force me to continue thinking about it, and contributing to it, and refining it. 
+
+So, while the intent is not actually to help you, dear reader, or anyone else - it's purely selfish, to spur my own extracurricular, professional, personal development - I do need you to exist, if only as a possibility.
 
 A stick to the carrot of \${writing and coding for fun}.
 
@@ -49,7 +49,5 @@ Thanks for stopping by. :)
 I'm weighing the (_as-yet-unreplicated?_) [warnings against sharing goals publicly](http://www.psych.nyu.edu/gollwitzer/09_Gollwitzer_Sheeran_Seifert_Michalski_When_Intentions_.pdf) with, again, the hope that knowing this is available on the public internet will terrify me into slowly iterating through them. So how do I want to improve this site?
 
 - You've converted perhaps three-dozen notes from Google Docs to Markdown, but none of them involve any commentary on the books, sites, lectures, workshops. Write some posts a la "_Revisiting notes from \${text}, several months on_".
-- You should still have a Plaintext file containing sequential errors, logs, warnings, etc from your summertime adventure of setting up hosting for the `daily_ua` MVP. Convert that file into a series of posts: I'm not sure you'll use GCP (or even the Translate API) in the future, but even the process of \${categorizing the errors you made, and how you solved them} could be beneficial.
-- You've been studying Ukrainian in a foreign language situation, now, for close to a year. How have your practices evolved? What have you learned - not about Ukrainian, but about learning?
 - You have several pages of \${toy app, doctoral thesis, research project, distance learning startup} ideas remaining in Docs. Markdownify those, disaggregate, and expand.
 - As you begin implementing some of those above toy apps, take notes on what you do and what you learn.

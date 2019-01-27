@@ -7,8 +7,7 @@ postType: 'notes'
 tags:
   - frontend-masters
   - live-course
-  - nonfiction
-  - react
+   - react
   - components
   - javascript
 

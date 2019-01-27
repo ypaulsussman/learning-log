@@ -7,9 +7,9 @@ postType: 'notes'
 tags:
   - website
   - ruby-garage
-  - nonfiction
-  - ruby
+   - ruby
   - rails
+  - server
   
 ---
 
