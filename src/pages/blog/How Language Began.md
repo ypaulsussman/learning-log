@@ -7,7 +7,7 @@ postType: 'notes'
 tags:
   - book
   - kindle
-   - linguistics
+  - linguistics
   - neuroscience
   - history
 ---

@@ -7,7 +7,7 @@ postType: 'notes'
 tags:
   - frontend-masters
   - live-course
-   - design
+  - design
   - css-grid
   - color-theory
   - typography

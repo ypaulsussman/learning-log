@@ -7,7 +7,7 @@ postType: 'notes'
 tags:
   - frontend-masters
   - live-course
-   - data-structures
+  - data-structures
   - algorithms
   - javascript
  

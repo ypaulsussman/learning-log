@@ -7,7 +7,7 @@ postType: 'notes'
 tags:
   - PBS
   - video
-   - crash-course
+  - crash-course
   - computer-science
   
 ---

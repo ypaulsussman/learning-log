@@ -6,7 +6,7 @@ description: Improving Adult Literacy Instruction synthesizes the research on li
 postType: 'notes'
 tags:
   - education
-   - learning
+  - learning
   - teaching
   - literacy
   - national-academies-press

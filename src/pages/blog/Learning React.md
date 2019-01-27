@@ -6,7 +6,7 @@ description: This book will show you how to create UIs with this small JavaScrip
 postType: 'notes'
 tags:
   - book
-   - oreilly
+  - oreilly
   - react
   - javascript
   

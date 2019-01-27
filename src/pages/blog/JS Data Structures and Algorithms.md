@@ -7,7 +7,7 @@ postType: 'notes'
 tags:
   - packt
   - book
-   - data-structures
+  - data-structures
   - algorithms
   - javascript
   

@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: Through the Language Glass -  Why the World Looks Different in Other Languages
+title: The New York Times Book of Language and Linguistics
 date: 2018-12-01
 description: Editor Nicholas Wade and several New York Times journalists explore the mysterious roots of language. Their coverage ranges from the efforts to chronicle ancient languages to the examination of fossil records to determine whether Neanderthals had language, and around the evolutionary bend to the study of chimpanzees and their ability to "talk".
 postType: "notes"
 tags:
   - book
-   - linguistics
+  - linguistics
   - history
   - neuroscience
   - new-york-times

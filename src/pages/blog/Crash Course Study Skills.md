@@ -7,7 +7,7 @@ postType: 'notes'
 tags:
   - PBS
   - video
-   - crash-course
+  - crash-course
   - learning
   - studying
   - learning-strategy

@@ -7,7 +7,7 @@ postType: 'notes'
 tags:
   - frontend-masters
   - live-course
-   - command-line
+  - command-line
   - bash
   - vim
   - ssh

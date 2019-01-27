@@ -7,7 +7,7 @@ postType: 'notes'
 tags:
   - academic-journals
   - education
-   - learning
+  - learning
   - teaching
   - language-learning
   - language-teaching

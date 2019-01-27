@@ -7,7 +7,7 @@ postType: 'notes'
 tags:
   - book
   - kindle
-   - news
+  - news
   - the-economist
   - explainer
   - politics

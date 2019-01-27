@@ -7,7 +7,7 @@ postType: 'notes'
 tags:
   - website
   - codecademy
-   - ruby
+  - ruby
   - server
 
 ---

@@ -13,6 +13,10 @@ const TemplateWrapper = ({ children }) => (
           rel: "shortcut icon",
           type: "image/png",
           href: `${favicon}`
+        },
+        {
+          rel: 'stylesheet',
+          href: 'https://fonts.googleapis.com/css?family=B612'
         }
       ]}
     />

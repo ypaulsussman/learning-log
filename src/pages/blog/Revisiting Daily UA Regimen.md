@@ -56,7 +56,7 @@ On contemplation, there’s never been a case where I had wished for a more seam
 
 There is a possible future weakness of my current system, and it hinges on a parallel realization I'd had while writing.
 
-Anecxperidotally, adult learners of `/* as a Foreign Language/` are either doing it...
+Anecxperidotally, adult learners of `${L2} as a Foreign Language` are either doing it...
 1. for business/academic interests, in which case they usually have both
   * a specific and falsifiable performance goal, and 
   * a specific and falsifiable time constraint: and, thus, 
@@ -66,7 +66,7 @@ Anecxperidotally, adult learners of `/* as a Foreign Language/` are either doing
   * don't have (_summative or formative_) performance benchmarks they're checking against, and
   * perhaps paradoxically<sup>1</sup> are at greater risk of lapse due to quotidian interference.
 
-I'm firmly in the latter camp, currently: however, if I shifted into the former (_let's say that long-awaited faculty appointment to [Ivan Franko](https://en.wikipedia.org/wiki/University_of_Lviv) finally came through, or_ `${lovely_spouse}` _took an unexpected interest in the ecological preservation of the Eastern Carpathians..._) I'm not sure how I'd shift into high-gear, as it were. 
+I'm firmly in the latter camp, currently: however, if I shifted into the former (_let's say that long-awaited faculty appointment to_ [_Ivan Franko_](https://en.wikipedia.org/wiki/University_of_Lviv) _finally came through, or_ `${lovely_spouse}` _took an unexpected interest in the ecological preservation of the Eastern Carpathians..._) I'm not sure how I'd shift into high-gear, as it were. 
 
 I'd prefer not to redesign (_who are we kidding, re-evolve_) a second, separate version of the language-learning system that worked for me, especially given the additional constraints/features that the greater intensity/pace would demand.
 
