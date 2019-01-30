@@ -12,7 +12,7 @@ tags:
   - vim
   - ssh
   - nginx
-  - servers
+  - server
   - infrastructure
   
 ---
