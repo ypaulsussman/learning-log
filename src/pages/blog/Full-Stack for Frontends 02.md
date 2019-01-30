@@ -14,7 +14,7 @@ tags:
   - nginx
   - caching
   - https
-  - servers
+  - server
   - infrastructure
 
 ---

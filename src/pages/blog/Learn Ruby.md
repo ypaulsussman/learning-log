@@ -328,7 +328,7 @@ new_hash = {
 
 Blocks are similar to JS anonymous functions.
 
-_Y thinks: "a block is the poor man’s first-class citizen: function-as-parameter, but a limited one.”_
+_Y thinks: "a block is the poor man’s first-class-citizen function: function-as-parameter, but a limited one.”_
 
 A block will only be called once, and in the context of wherever it's defined.
 
@@ -529,10 +529,7 @@ crew = {
  doctor: "Crusher"
 }
 
-first_half = lambda {
- |key, value| 
-        value < 'M'
- }
+first_half = lambda { |key, value| value < 'M' }
 
 a_to_m = crew.select(&first_half)
 ```

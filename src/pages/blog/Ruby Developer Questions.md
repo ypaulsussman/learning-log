@@ -1,6 +1,6 @@
 ﻿---
 templateKey: 'blog-post'
-title:  How to Interview Your Ruby on Rails Developer (Various Authors)
+title:  How to Interview Your Ruby on Rails Developer (Ruby Garage)
 date: 2018-06-05
 description: This article will come in handy for you when you need to test a Ruby on Rails programmer but aren’t sure what questions to ask the Rails interviewee. You can consider this article as a guide for how to interview a Ruby on Rails programmer.
 postType: 'notes'

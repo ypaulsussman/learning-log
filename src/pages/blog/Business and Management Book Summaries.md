@@ -5,8 +5,8 @@ date: 2015-02-22
 description: I've heard lots of (potentially unfair) things about business and management books, so I wanted to read several. But not actually commit any serious time to doing so. Fortunately, this (largely executive-catering) genre featured plenty of bullet-point summaries for me to... well, condense into smaller summaries.
 postType: "notes"
 tags:
-   - business
-   - management
+  - business
+  - management
 ---
 
 ### Leadership and Self-Deception
