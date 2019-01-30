@@ -6,7 +6,7 @@ description: I've heard lots of (potentially unfair) things about business and m
 postType: "notes"
 tags:
    - business
-  - management
+   - management
 ---
 
 ### Leadership and Self-Deception
