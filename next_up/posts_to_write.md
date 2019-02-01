@@ -2,9 +2,8 @@
 1. Computational Thinking Research (for Code Kitty) [ x ]
 1. dropbox_idea_notes__20 [ x ]
 1. `daily_ua` notes [ x ]
-
-1. Ruby Developer Questions [ ]
-1. Learn Ruby [ ]
+1. Ruby Developer Questions [ x ]
+1. Learn Ruby [ x ]
 
 1. dropbox_idea_notes__6 [ ]
 1. dropbox_idea_notes__16 [ ]

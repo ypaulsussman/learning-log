@@ -10,7 +10,7 @@ Well I know what _I'm_ doing here!
 
 I wanted to “start a blog”: more specifically, I wanted to build (or adapt) a small, low-investment codebase that would impel me to write down more of my thoughts.
 
-My reactions to media I've consumed, my ideas for projects that I may someday even start, my observations on unbidden stimuli as the universe rolls past... I don't have a ton of confidence in _their_ intrinsic value, but I feel pretty good about the mental exercise that I predict \${recording those thoughts, and sharpening them in that process of recording} will bring.
+My reactions to media I've consumed, my ideas for projects that I may even someday start, my observations on unbidden stimuli as the universe rolls past... I don't have a ton of confidence in _their_ intrinsic value, but I feel pretty good about the mental exercise that I predict \${recording those thoughts, and while recording sharpening them} will bring.
 
 ## But how does a blog help?
 
@@ -20,11 +20,11 @@ I keenly feel EB White's complaint:
 
 Compounding this, I’m concerned by both \${the dubiousness of my efforts to improve the world} and \${the discrepancies in mapping self-improvement - the point of this blog - to world-improvement}.
 
-And, in parallel, I know I'm very, very skilled at enjoying the world.
+And, in parallel: I know I'm very, very skilled at enjoying the world.
 
 ## So what to do?
 
-This blog turns on an contradiction: I don't _want_ anyone to see this.
+This blog, then, turns on an contradiction: I don't _want_ anyone to see this.
 
 In technical terms, it's vaguely embarrassing. I mean, [take a look yourself:](https://github.com/ypaulsussman/learning-log) it’s essentially a slash-and-burn adapatation of [Netlify’s Gatsby CMS starter](https://github.com/netlify-templates/gatsby-starter-netlify-cms), except...
 
@@ -34,15 +34,15 @@ In technical terms, it's vaguely embarrassing. I mean, [take a look yourself:](h
 
 And yet.
 
-And yet, for all that, this blog **needs** to be (_at least hypothetically!_) visible to others, to force me to continue thinking about it, and contributing to it, and refining it. 
+For all that, this blog **needs** to be (_at least hypothetically!_) visible to others, to force me to continue thinking about it, and contributing to it, and refining it. 
 
-So, while the intent is not actually to help you, dear reader, or anyone else - it's purely selfish, to spur my own extracurricular, professional, personal development - I do need you to exist, if only as a possibility.
+So, while the intent here is purely selfish - a spur for my own extracurricular, professional, personal development - I do need you to exist, if only as a possibility.
 
 A stick to the carrot of \${writing and coding for fun}.
 
 A friendly threat, from a well-meaning neighbor.
 
-Thanks for stopping by. :)
+Thank you, for for stopping by. :)
 
 ## OK, sure, cool, whatever. What’s next?
 

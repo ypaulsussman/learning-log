@@ -12,26 +12,26 @@ const TagsPage = ({
     }
   }
 }) => (
-  <Layout>
-    <section className="section">
-      <Helmet title={`Tags | ${title}`} />
-      <div className="container content">
-        <div className="columns">
-          <div className="column">
-            <h1>Tags</h1>
-            {group.map(tag => (
-              <span className="chip chip-spacing" key={tag.fieldValue}>
-                <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                  {tag.fieldValue} ({tag.totalCount})
+    <Layout>
+      <section className="section">
+        <Helmet title={`Tags | ${title}`} />
+        <div className="container content">
+          <div className="columns tags-page">
+            <div className="column">
+              <h1>Tags</h1>
+              {group.map(tag => (
+                <span className="chip chip-spacing" key={tag.fieldValue}>
+                  <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
+                    {tag.fieldValue} ({tag.totalCount})
                 </Link>
-              </span>
-            ))}
+                </span>
+              ))}
+            </div>
           </div>
         </div>
-      </div>
-    </section>
-  </Layout>
-);
+      </section>
+    </Layout>
+  );
 
 export default TagsPage;
 

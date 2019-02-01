@@ -50,7 +50,7 @@ export const BlogPostTemplate = ({
       </div>
       <div className="container content">
         <div className="columns">
-          <PostContent content={content} className="column col-12" />
+          <PostContent content={content} className="column col-12 blog-post" />
         </div>
       </div>
     </section>

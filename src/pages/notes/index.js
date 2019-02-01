@@ -11,14 +11,14 @@ export default class IndexPage extends React.Component {
 
     return (
       <Layout>
-        <Helmet titleTemplate="%s">
-          <title>{`Notes | ${data.site.siteMetadata.title}`}</title>
-          <meta
-            name="description"
-            content="The six most-recent posts witht the 'Notes' tag."
-          />
-        </Helmet>
-        <section className="section">
+        <section className="section index-page">
+          <Helmet titleTemplate="%s">
+            <title>{`Notes | ${data.site.siteMetadata.title}`}</title>
+            <meta
+              name="description"
+              content="The six most-recent posts witht the 'Notes' tag."
+            />
+          </Helmet>
           <h1 className="">Latest Notes</h1>
           {posts.map(({ node: post }) => (
             <div className="card latest-posts" key={post.id}>

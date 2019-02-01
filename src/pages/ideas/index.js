@@ -11,7 +11,7 @@ export default class IndexPage extends React.Component {
 
     return (
       <Layout>
-        <section className="section">
+        <section className="section index-page">
           <Helmet titleTemplate="%s">
             <title>{`Ideas | ${data.site.siteMetadata.title}`}</title>
             <meta
