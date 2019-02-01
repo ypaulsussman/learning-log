@@ -36,8 +36,8 @@ tags:
    * Now, many (most?) times, the object a statement evaluates to will be `nil`... but it’s still an object!
 
 **How would you declare and use a constructor in Ruby?**
-   * Whenever Ruby creates a new object, it looks for a method named initialize and, if it’s present (say b/c you’re instancing from a class), executes it. 
-   * You can thus use an initialize method to put default values into the instance variables of each instance.
+   * Whenever Ruby creates a new object, it looks for a method named `initialize` and, if it’s present (say b/c you’re instancing from a class), executes it. 
+   * You can thus use an `initialize` method to put default values into the instance variables of each instance.
 
 **How would you create getter and setter methods in Ruby?**
    * Use e.g. `attr_reader(:bar)` to create a getter for the @bar instance variable;
@@ -130,7 +130,7 @@ end
    * Sprockets gem: the Rails way of managing [CSS, JavaScript, and images].
    * It combines w/ assets from other gems, preprocesses, minifies, and concats.
    * In production: `bundle exec rake assets:precompile`
-   * In previous versions of Rails, all assets were located in subdirectories of `public`; now, preferred location is the `app/assets` directory.
+   * In previous versions of Rails, all assets were located in subdirectories of `public`; in Rails 4+, the preferred location is the `app/assets` directory.
 
 **Explain the difference between [Page, Action, Fragment, Low-Level, and SQL] caching types.**
    * Page && action caching removed from Rails 4+.
@@ -165,7 +165,7 @@ end
    * As part of controller tests (per official docs)
    * Within integration tests (as part of full workflow)
    * For MiniTest (?), use `assert_routing`
-   * [We followed this example](http://geekhmer.github.io/blog/2014/07/30/test-routes-with-rspec-in-ruby-on-rails/) on WhichWay
+   * [We followed this example](http://geekhmer.github.io/blog/2014/07/30/test-routes-with-rspec-in-ruby-on-rails/) on WhichWay, I suspect.
 
 **How should you use filters in controllers?**
    * Filters are methods that run "before", "after" or "around" a controller action.
