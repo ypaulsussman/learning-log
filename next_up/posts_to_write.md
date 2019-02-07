@@ -7,28 +7,42 @@
 
 1. dropbox_idea_notes__6 [ ]
 1. dropbox_idea_notes__16 [ ]
+
 1. How The Brain Learns [ ]
-1. Learning React [ ]
+
+1. Learning React [ ]`
 1. React Quickly [ ]
+
 1. dropbox_idea_notes__19 [ ]
+
 1. Data Structures and Algorithms [ ]
-1. dropbox_idea_notes__17 [ ]
-1. How Language Began [ ]
-1. dropbox_idea_notes__5 [ ]
-1. Improving Adult Literacy Instruction [ ]
-1. dropbox_idea_notes__9 [ ]
-1. Full-Stack for Frontends 01 [ ]
 1. JS Data Structures and Algorithms [ ]
+1. Object-Oriented JavaScript [ ]
+
+1. dropbox_idea_notes__17 [ ]
+
+1. How Language Began [ ]
+
+1. dropbox_idea_notes__5 [ ]
+
+1. Improving Adult Literacy Instruction [ ]
+
+1. dropbox_idea_notes__9 [ ]
+
+1. Full-Stack for Frontends 01 [ ]
+1. Full-Stack for Frontends 02 [ ]
+
 1. Zero to One [ ]
+
 1. NYT's Book of Language and Linguistics [ ]
+
 1. JavaScript_The Hard (and New Hard) Parts [ ]
+
 1. dropbox_idea_notes__8 [ ]
 1. dropbox_idea_notes__4 [ ]
 1. Chamot's Strategy Instruction Articles [ ]
 1. Through the Language Glass [ ]
 1. dropbox_idea_notes__10 [ ]
-1. Object-Oriented JavaScript [ ]
-1. Full-Stack for Frontends 02 [ ]
 1. Beautiful JavaScript [ ]
 1. dropbox_idea_notes__7 [ ]
 1. dropbox_idea_notes__18 [ ]
