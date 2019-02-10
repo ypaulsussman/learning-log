@@ -29,7 +29,7 @@ In the interior of the brain, four parts of the limbic system are important to l
 
 1.  The **thalamus** processes all incoming sensory information (_except smell_)
 2.  The **hypothalamus** monitors internal systems and controls the release of a variety of hormones in order to maintain homeostasis
-3.  The **hippocampus** converts information from working memory to long-term storage the electrical signals (_and is thus essential for consolidating learning_)
+3.  The **hippocampus** converts information `from working memory to long-term storage via` electrical signals (_and is thus essential for consolidating learning_)
 4.  The **amygdala** regulates and encodes the emotions, especially fear. (_Interactions between the amygdala and hippocampus thus ensure that we remember important/emotional events for a long time._)
 
 Of the 12 body nerves that go to the brain, 11 end in the **brainstem** (_the olfactory nerve goes directly to the limbic system._)
@@ -72,16 +72,18 @@ Long-term memory is broken into two major types:
 
 Two forms of rehearsal:
 
-1.  Rote rehearsal (_for when information must be stored exactly as it is entered_) and
-2.  Elaborative rehearsal (_when priority is instead on associating the new learnings with prior learning to detect relationships and assign meaning._) Students use rote rehearsal to memorize a poem, but elaborative rehearsal to interpret its message.
+1.  **Rote rehearsal,** for when information must be stored exactly as it is entered, and
+2.  **Elaborative rehearsal,** when priority is instead on associating the new learnings with prior learning to detect relationships and assign meaning. 
 
-The primacy-recency effect states that we tend to remember the first item in a sequence best and the last item second-best when learning.
+Students use rote rehearsal to memorize a poem, but elaborative rehearsal to interpret its message.
+
+The **primacy-recency effect** states that we tend to remember the first item in a sequence best and the last item second-best when learning.
 
 As lesson time lengthens, the percentage of downtime increases faster than the percentage of prime-times (_at the beginning and end of the lesson._) See Elliott, Isaac, and Muhlert, 2014.
 
 Teacher lecture results in the lowest student retention; it involves verbal processing with little active participation or mental rehearsal. A recent modification of the lecture format (_interactive lecture and direct teaching_) has had better results; it requires the students to provide periodic feedback on what they have learned spaced throughout the lesson.
 
-Effective practice starts with massed practice(_for fast learning_) and proceeds to distributed practice later for retention: thus each test should not only query new material, but also allow students to practice important older content.
+Effective practice starts with massed practice (_for fast learning_) and proceeds to distributed practice later for retention: thus each test should not only query new material, but also allow students to practice important older content.
 
 The **gradual release of responsibility** teaching model proceeds from
 1.  focused instruction (_“I do it; you watch”_) to

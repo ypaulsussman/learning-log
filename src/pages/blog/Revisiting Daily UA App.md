@@ -105,7 +105,7 @@ Research digression! These two articles describe how to set up something similar
 * [Direct to S3,](https://www.fullstackreact.com/articles/deploying-a-react-app-to-s3/) and
 * [In parallel with an API server.](https://www.fullstackreact.com/articles/deploying-a-react-app-with-a-server/)
 
-The second finally explains, clearly, the difference between how the articles above deploy their two codebases: *and* how we do it for ${former_work_project}.
+The second finally explains, clearly, the difference between how the articles above deploy their two codebases: *and* how we did it in a former work project.
 
 Takeaways: 
 1) Redo the rails backend. Nuke and start over.
@@ -141,7 +141,7 @@ If the first API/AWS link doesn’t cover everything, you can also use [this one
 
 `$ rails db:migrate`
 
-${populate seed file from gSheet}
+(Populate seed file from gSheet)
 
 `$ rails db:seed`
 
@@ -296,7 +296,7 @@ Follow [GCP's instructions](https://cloud.google.com/ruby/rails/using-cloudsql-p
 1. Follow GCP's instructions to [connect App Engine to Cloud SQL.]((https://cloud.google.com/sql/docs/postgres/connect-app-engine))
 
 * Run into problems with `cloud app create`, b/c account isn’t configured properly. 
-* Run `gcloud auth list`; switch from ${hash_vomit}-compute@developer.gserviceaccount.com (???) to ${actual_email}@gmail.com.
+* Run `gcloud auth list`; switch from `${hash_vomit}-compute@developer.gserviceaccount.com` (???) to `${actual_email}@gmail.com`.
 
 `bundle exec bin/rails assets:precompile` blows up because, hey, you have no asset pipeline.
 

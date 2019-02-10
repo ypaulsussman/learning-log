@@ -21,9 +21,9 @@ tags:
 
 1. Idiomatic: app for learning individual vocabulary via SRS, introduced and retrieved via idioms/collocations that make use of that vocab item. (Cross-reference vocab frequency against containing idiom’s frequency; perhaps narrow by discipline i.e. travel, conversation, business, academic.) Ignore phrasals. (Idiomate?)
 
-1. **SRS vocab searcher:** present the vocabulary in the context of a sentence taken from real-life media. 
-    * (Second challenge: create a sentence using the media, with translation. Save that sentence as well, then add it to the list of sentences to be called back.) 
-    * Alt: maybe the app returns daily incidences of (the words/phrases that you had added) as they appear in the daily media—thus creating a de facto frequency list?
+1. ~~SRS vocab searcher: present the vocabulary in the context of a sentence taken from real-life media.~~ 
+    * ~~(Second challenge: create a sentence using the media, with translation. Save that sentence as well, then add it to the list of sentences to be called back.)~~
+    * ~~Alt: maybe the app returns daily incidences of (the words/phrases that you had added) as they appear in the daily media—thus creating a de facto frequency list?~~
 
 1. Background app that prompts, after reading an article, whether you want to engage with the article in a language you’re learning (via e.g. vocab, grammar, etc Q’s -- all very brief, though w/o banning constructed response). After Q, option to add topic to SRS mechanism (or move to next Q). Designed for business EN learning -- working adults who are too busy to maintain classes, but want to choose exactly when to practice a language, and otherwise not have it in their way. (This app could also accept articles to draw exercises from: the above would merely be “passive presentation” mode.)
 
@@ -70,7 +70,7 @@ tags:
    - Pre-load the platform with tasks for  teachers to use or adapt; align those tasks to e.g. the EAQUALS/CEFR frameworks.
    - (Be sure to require uploaded media of dialogues/role-plays between students, so tasks don’t  become too monologic.)
 
-1. Online platform for **abstracting and facilitating partnerships between community colleges and local businesses** (around internships, job shadow, adjunct faculty, curriculum design, etc.) Similar to docusign or trinet or workday in terms of templates and easy-accessibility web-based data management.
+1. ~~Online platform for abstracting and facilitating partnerships between community colleges and local businesses (around internships, job shadow, adjunct faculty, curriculum design, etc.) Similar to docusign or trinet or workday in terms of templates and easy-accessibility web-based data management.~~
 
 1. Software for (IEP? K-12 content? HE content?) students to each curate a portfolio which starts empty, but is used for weekly (open-classroom/group-based) check-in’s (to gamify and level set, so students don’t fall behind from lack of context.) Include easy multimedia scraping (for web-based media as e.g. prompts or interests) and easy multimedia uploading (specifically video and text.) Pre-load the platform with tasks for  teachers to use or adapt; align those tasks to e.g. the EAQUALS/CEFR frameworks. (Be sure to require uploaded media of dialogues/role-plays between students, so tasks don’t  become too monologic.)
 

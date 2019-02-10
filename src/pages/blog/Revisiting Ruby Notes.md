@@ -35,11 +35,11 @@ Remember, `include` is for adding module methods at the instance level; `extend`
 
 ### Rereading Ruby Garage’s Questions
 
-My intuition that there’s virtually no correlation between ${how basic/introductory a Ruby or Rails concept is} and ${how frequently I find myself using it at work} is confirmed, here. I don't think I've ever actually addded or modified an `attr_` getter/setter (_perhaps because I've almost exclusively been adding/modifying features to established, preexisting classes?_) 
+My intuition that there’s virtually no correlation between `${how basic/introductory a Ruby or Rails concept is}` and `${how frequently I find myself using it at work}` is confirmed, here. I don't think I've ever actually addded or modified an `attr_` getter/setter (_perhaps because I've almost exclusively been adding/modifying features to established, preexisting classes?_) 
 
 In contrast, I've spent a decent amount of time working with custom ActiveRecord `transaction` and `validate` methods, not to mention all the lovely permutations of `scope` and `member` and `collection` in `routes.rb`. (_It's worth noting that "no correlation" here specifically includes "also not a negative correlation," e.g. Singletons and Eigenclasses are cool to know about: but at work I've never encountered them, let alone thought of their use._)
 
-There are two aspects of Rails that I started reading about via this article, and have found to be both ${clearly valuable in our repo} and ${outside my normal scope for work on that code}. ActiveJob is used everywhere in the codebase, for an exciting number of purposes beyond the "_it's good for sending emails_" pitch I first encountered. As for caching: while I see `Rails.cache.fetch` throughout our code, I have no idea whether we're on `memcached` or `redis`, and whether we're caching query results, or view fragments, or both.
+There are two aspects of Rails that I started reading about via this article, and have found to be both [1] clearly valuable in our repo and [2] outside my normal scope for work on that code. ActiveJob is used everywhere in the codebase, for an exciting number of purposes beyond the "_it's good for sending emails_" pitch I first encountered. As for caching: while I see `Rails.cache.fetch` throughout our code, I have no idea whether we're on `memcached` or `redis`, and whether we're caching query results, or view fragments, or both.
 
 ### Such A Long, Long Time To Be Gone, And A Short Time To Be There
 

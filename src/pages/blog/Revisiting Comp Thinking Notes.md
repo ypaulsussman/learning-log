@@ -49,7 +49,7 @@ To promote these revisitations, I plan for each post to end with a "_so what, no
 
 My first thought on perusing these articles, again, was of [XKCD’s take on standards;](https://xkcd.com/927/) my second, an uneasy memory of aligning [ACTFL](https://www.actfl.org/publications/guidelines-and-manuals/actfl-performance-descriptors-language-learners) tables to the original [CEFR](https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=090000168045bb52) descriptors to [ALTE's](https://www.cambridgeenglish.org/Images/28906-alte-can-do-document.pdf) implementation thereof to [ILR](http://www.govtilr.org/Skills/ILRscale1.htm) lists to...
 
-It seems healthy, at such an initial stage, for \${_frameworks of describing and assessing CT_} to proliferate; and I am too removed from the field to perceive whether whether they might inform, compete, or even merge with each other.
+It seems healthy, at such an initial stage, for `${_frameworks of describing and assessing CT_}` to proliferate; and I am too removed from the field to perceive whether whether they might inform, compete, or even merge with each other.
 
 My worry, though, is that they’ll do none of those, but instead (_like language proficiency metrics!_) maintain largely geographically- and institutionally-decided realms of influence, thereby siloing research and practice.
 
@@ -92,11 +92,11 @@ Reading through those documents is an actual joy: each of the three times I’ve
 
 This list could go on. And even when I encounter a feature I don't terribly like, it prompts a more-careful thinking-through of design choices I'd not considered prior. 
 
-As an example, I find the docs' common use of ${_the square commonly used to denote checkboxes_} to serve as ${_what could either be an interactive checkbox, or a read-only bulletpoint_} to be confusing:
+As an example, I find the docs' common use of `${_the square commonly used to denote checkboxes_}` to serve as `${_what could either be an interactive checkbox, or a read-only bulletpoint_}` to be confusing:
 
 ![Highlighted checkbox ](../../../static/img/ScratchEd_bullet_or_checkbox_v2.png)
 
-To me, this is a common visual cue: "squares with box shadow ask for the text following them to be \${_read, then either affirmed or enacted_}, then the square itself is checked off in order to confirm the completion of that interaction with the text." 
+To me, this is a common visual cue: "squares with box shadow ask for the text following them to be `${_read, then either affirmed or enacted_}`, then the square itself is checked off in order to confirm the completion of that interaction with the text." 
 
 Here, though, its usage is confounded by:
 
