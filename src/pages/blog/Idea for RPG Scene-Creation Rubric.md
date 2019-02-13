@@ -6,7 +6,8 @@ description: My thinking on the common structures of RPG adventure prose, and a 
 postType: 'ideas'
 tags:
   - RPG
-  
+  - toy-app
+  - build-this
 ---
 
 ## Metacommentary
@@ -82,7 +83,7 @@ A scene should contain:
     * Under what circumstances the scene will end.
     * Examples: a certain length of time elapsing, or the PC's concluding a decision or challenge.
     
-## Next steps    
+## Next Steps
 
 And there we go! I'm curious to experience the usage of this rubric in both more narratively-driven, crunch-light systems (_VTM jumps to mind, foremostly_) and systems with a greater focus on clear divisions between round-, minute-, and hour-based timing (_I'm thinking, initially at least, of 5e._) Someday...
 

@@ -4,25 +4,21 @@
 1. `daily_ua` notes [ x ]
 1. Ruby Developer Questions [ x ]
 1. Learn Ruby [ x ]
-
 1. ~~dropbox_idea_notes__6 [ ]~~
 1. ~~dropbox_idea_notes__16 [ ]~~
-
 1. How The Brain Learns [ x ]
+
+1. dropbox_idea_notes__19 [ ]
 
 1. Learning React [ ]
 1. React Quickly [ ]
 1. Advanced React Patterns [ ]
 
-1. dropbox_idea_notes__19 [ ]
+1. dropbox_idea_notes__17 [ ]
 
 1. Data Structures and Algorithms [ ]
 1. JS Data Structures and Algorithms [ ]
 1. Object-Oriented JavaScript [ ]
-
-1. dropbox_idea_notes__17 [ ]
-
-1. How Language Began [ ]
 
 1. dropbox_idea_notes__5 [ ]
 
@@ -45,8 +41,6 @@
 1. Chamot's Strategy Instruction Articles [ ]
 1. Task-Based Language Teaching Articles [ ]
 
-1. Through the Language Glass [ ]
-
 1. dropbox_idea_notes__10 [ ]
 
 1. Beautiful JavaScript [ ]
@@ -65,8 +59,6 @@
 
 1. Go Figure The Economist Explains [ ]
 
-1. dropbox_idea_notes__1 [ ]
-
 1. Meetup and Event Notes [ ]
 
 1. Business and Management Book Summaries [ ]
@@ -79,7 +71,11 @@
 
 1. Crash Course Study Skills [ ]
 
+1. How Language Began [ ]
+
 1. dropbox_idea_notes__3 [ ]
+
+1. Through the Language Glass [ ]
 
 1. Build: PWA to shoot you a daily quote from _Other People's Lines_
 

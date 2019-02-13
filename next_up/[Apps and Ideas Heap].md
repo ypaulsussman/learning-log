@@ -10,7 +10,7 @@ tags:
   - baz
 ---
 
-1. Fix your system for delivering "Other People's Lines."
+1. ~~Fix your system for delivering "Other People's Lines."~~
 
 1. ~~Use 'dmware' as the name for your adventure event-scaffolding software~~
 

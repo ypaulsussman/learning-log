@@ -59,7 +59,7 @@ Dogs, and spots; leopards, and tricks.
 
 Sigh.
 
-## So what, now what?
+## Next Steps
 
 One next step in marrying these two untouching, parallel paths (_best-practice identification, and best-practice implementation_) might be to compare where they most visibly diverge: where do people’s beliefs about `${how teaching and learning best take place}` most wildly diverge from `${what the research actually shows}`? What about that divergence against the beliefs of teachers? Teachers in specific geographic areas? Teachers from a specific age/training demographics? Administrators? School-board members? Academics? 
 

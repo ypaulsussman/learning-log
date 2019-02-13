@@ -11,7 +11,7 @@ tags:
     
 ---
 
-### Where are we coming from?
+## Where are we coming from?
 
 “_Between the idea / And the reality / Between the motion / And the act / Falls the Shadow_”
 
@@ -21,7 +21,7 @@ After about a year, that employer shut down the lab under which I was working; I
 
 That was a little over six months ago; in the interim, I’ve spent far more time working in RoR than I had in the previous year and a half. I’m curious, in this post, to revisit those two notes: and to see how tightly their contents has aligned to what I’ve actually found myself doing.
 
-### Rereading Codecademy’s 'Learn Ruby' Notes
+## Rereading Codecademy’s 'Learn Ruby' Notes
 
 An aside: you still fully don't understand the difference between local variables, instance variables, and symbols. No, seriously: this bit you, earlier this week, when passing decorated objects around controllers and Jbuilder templates.
 
@@ -33,7 +33,7 @@ Wow, you hadn’t thought of using your own `Proc` in... months. It’s stupefyi
 
 Remember, `include` is for adding module methods at the instance level; `extend` at the class level.
 
-### Rereading Ruby Garage’s Questions
+## Rereading Ruby Garage’s Questions
 
 My intuition that there’s virtually no correlation between `${how basic/introductory a Ruby or Rails concept is}` and `${how frequently I find myself using it at work}` is confirmed, here. I don't think I've ever actually addded or modified an `attr_` getter/setter (_perhaps because I've almost exclusively been adding/modifying features to established, preexisting classes?_) 
 
@@ -41,7 +41,7 @@ In contrast, I've spent a decent amount of time working with custom ActiveRecord
 
 There are two aspects of Rails that I started reading about via this article, and have found to be both [1] clearly valuable in our repo and [2] outside my normal scope for work on that code. ActiveJob is used everywhere in the codebase, for an exciting number of purposes beyond the "_it's good for sending emails_" pitch I first encountered. As for caching: while I see `Rails.cache.fetch` throughout our code, I have no idea whether we're on `memcached` or `redis`, and whether we're caching query results, or view fragments, or both.
 
-### Such A Long, Long Time To Be Gone, And A Short Time To Be There
+## Such A Long, Long Time To Be Gone, And A Short Time To Be There
 
 As I went through the above two documents, I found myself reflecting, for a protracted time, on a single question. (_Disconcerting: the answer changed, over that time._)
 
@@ -53,9 +53,9 @@ And yet, counting up the actual cases of seeking out a specific detail or soluti
 
 That sent me to a 45-min (_and, admittedly, wholly unscientific_) perusal of the contents of the two Rails subdomains, and to a somewhat humbling conclusion: I'm using the Rails guides because, well, I'm really not _that_ familiar with the full suite of Rails functionality. 
 
-Yet.
+Not yet.
 
-### So What, Now What? 
+## Next Steps
 
 Clearly, the next step is to dig deeper into the guides, to run some project that makes their knowledge my own.
 

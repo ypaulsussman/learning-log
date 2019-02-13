@@ -14,7 +14,7 @@ tags:
   - revisitation
 ---
 
-### Where We've Come From
+## Where We've Come From
 
 I first began with assignments to read articles in Ukrainian. This was an excellent source of new vocabulary, but the quantity of new lexis was overwhelming, so retention was poor. Moreover, my interest in the content, combined with the size of the articles, caused me to spend more time with a focus on meaning (_in the Michael Long sense_) than I would have preferred.
 
@@ -26,7 +26,7 @@ The precision of these linguistic bundles exacerbated the limitations of written
 
 To be clear, these set expressions would, in themselves, still be enjoyable and valuable to learn, even despite the scarcity of reactive feedback and available time to study (_and corollary importance of aligning target language to specific communicative needs._) What compounded the issue was the difficulty in returning to meaningfully engage with any previous week’s homework: and, thus, to successfully include any of its contents in long-term memory.
 
-### Where We're At
+## Where We're At
 
 From those demands has evolved the current system, and I’m largely happy with how it’s performed for the last several months. Currently, each week I:
 
@@ -44,7 +44,7 @@ From those demands has evolved the current system, and I’m largely happy with 
 
 That ends up being around three hours a week, two of which are (_at least partially_) conversing with a human I like and would probably chat away with anyway. I think that's a reasonable expenditure to stave off language attrition... if, in fact, that's what it's having any success doing. (_I can hope, but it's not like I'd be willing to shell out to annually take the Ukrainian equivalent of the IELTS, even were such an exam to meaningfully exist._)
 
-### Where We Might Go
+## Where We Might Go
 
 I had planned for this section to outline a unified app, one that combined my current workflow into a single mobile interface.
 
@@ -72,7 +72,7 @@ I'd prefer not to redesign (_who are we kidding, re-evolve_) a second, separate 
 
 It'd be nice, instead, if there were a "_ramp up/ramp down_" mechanic, akin to those selectable by e.g. treadmills. I'm not thinking of increasing the pace of memorization -- that ignores the logic/evidence of SRS algorithms to date -- but rather supplementing it with several parallel, cross-referential exercises.
 
-### So What, Now What? 
+## Next Steps
 
 My feeling is that the current system buys its convenience partially at the expense of extended discourse. I think, currently, that’s a reasonable exchange: I recall an early experiment with video-tutoring homework which resulted in me taking ~90 minutes to decode, transcribe, and translate a three-minute documentary short. I just checked the transcription, and I’ve retained no new lexis from that exercise. 
 
