@@ -154,7 +154,7 @@ How people pluralize an expression depends on how they tacitly analyze it: as a 
   * If some speakers still hear the phrase inside the word, they will be tempted to put the plural marker on the head of the phrase: two mother + s in law,
 
 Morphology may be divided into:
-* _derivation_ — rules that form a new word out of old words, like duckfeathers and unkissable—and 
+* _derivation_ — rules that form a new word out of old words, like duckfeathers and unkissable, and 
 * _inflection_ — rules that modify a word to fit its role in a sentence, what language teachers call conjugation and declension. 
   * The past tense and plural forms are examples of inflection. 
 

@@ -72,11 +72,11 @@ tags:
 
 1. ~~Online platform for abstracting and facilitating partnerships between community colleges and local businesses (around internships, job shadow, adjunct faculty, curriculum design, etc.) Similar to docusign or trinet or workday in terms of templates and easy-accessibility web-based data management.~~
 
-1. Software for (IEP? K-12 content? HE content?) students to each curate a portfolio which starts empty, but is used for weekly (open-classroom/group-based) check-in’s (to gamify and level set, so students don’t fall behind from lack of context.) Include easy multimedia scraping (for web-based media as e.g. prompts or interests) and easy multimedia uploading (specifically video and text.) Pre-load the platform with tasks for  teachers to use or adapt; align those tasks to e.g. the EAQUALS/CEFR frameworks. (Be sure to require uploaded media of dialogues/role-plays between students, so tasks don’t  become too monologic.)
+1. ~~Software for (IEP? K-12 content? HE content?) students to each curate a portfolio which starts empty, but is used for weekly (open-classroom/group-based) check-in’s (to gamify and level set, so students don’t fall behind from lack of context.) Include easy multimedia scraping (for web-based media as e.g. prompts or interests) and easy multimedia uploading (specifically video and text.) Pre-load the platform with tasks for  teachers to use or adapt; align those tasks to e.g. the EAQUALS/CEFR frameworks. (Be sure to require uploaded media of dialogues/role-plays between students, so tasks don’t  become too monologic.)~~
 
 1. Anki’s SRS format displaying sentences, but with the ability to highlight particular words/phrases to practice them (or similar instances of them) further.
 
-1. Program to parse reoccuring parts of speech/collocations within a preexisting textbook (so as to build a course/lesson around it.)
+1. ~~Program to parse reoccuring parts of speech/collocations within a preexisting textbook (so as to build a course/lesson around it.)~~
 
 1. ~~For a ‘language maintenance @ 10 min daily’ app...~~
    ~~- combine daily_ua idea w/ ability @ tap to send to SRS, and~~
