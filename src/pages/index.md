@@ -38,11 +38,11 @@ For all that, this blog **needs** to be (_at least hypothetically!_) visible to 
 
 So, while the intent here is purely selfish - a spur for my own extracurricular, professional, personal development - I do need you to exist, if only as a possibility.
 
-A stick to the carrot of \${writing and coding for fun}.
+A stick to the carrot of `${writing and coding for fun}`.
 
 A friendly threat, from a well-meaning neighbor.
 
-Thank you, for for stopping by. :)
+Thank you, reader, for for stopping by. :)
 
 ## OK, sure, cool, whatever. What’s next?
 

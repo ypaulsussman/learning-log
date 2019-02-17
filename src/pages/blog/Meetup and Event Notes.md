@@ -45,8 +45,8 @@ This framework may also be used to shape process/project flows (e.g. buyer funne
 - FTE
 - HSE
 - Two kids < 7yrs
-- “I need ${a new job}, so that${I can get more money, my family sees me as more of a role model, I can keep my body from falling apart}.”
-- “I need ${flexibility in when/where I study} so that${I don’t lose my current job while retraining}.”
+- “I need `${a new job}`, so that `${[I can get more money, my family sees me as more of a role model, I can keep my body from falling apart]}`.”
+- “I need `${flexibility in when/where I study}` so that `${I don’t lose my current job while retraining}`.”
 
 ---
 

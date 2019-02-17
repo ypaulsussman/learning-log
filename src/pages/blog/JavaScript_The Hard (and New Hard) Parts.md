@@ -238,7 +238,7 @@ When e.g. `returnNextElement.next()` is invoked, it then creates a local executi
 It then... 
 * suspends (but doesn’t break!) the local execution context, 
 * outputs whatever followed the yield statement (as if it were a return); and
-* moves the thread back out to the context of ${wherever .next() had originally been invoked}.
+* moves the thread back out to the context of (wherever `.next()` had originally been invoked).
 
 Second Example:
 

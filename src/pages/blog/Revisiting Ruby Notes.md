@@ -11,7 +11,7 @@ tags:
     
 ---
 
-## Where are we coming from?
+## Where Are We Coming From?
 
 “_Between the idea / And the reality / Between the motion / And the act / Falls the Shadow_”
 

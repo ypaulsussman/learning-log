@@ -77,6 +77,8 @@
 
 1. Through the Language Glass [ ]
 
+1. Remove Spectre; use CSS that goes more than 2 levels deep
+
 1. Build: PWA to shoot you a daily quote from _Other People's Lines_
 
 1. Build: [ D&D 5e // VTM ] Character Randomizer

@@ -296,14 +296,14 @@ Follow [GCP's instructions](https://cloud.google.com/ruby/rails/using-cloudsql-p
 1. Follow GCP's instructions to [connect App Engine to Cloud SQL.]((https://cloud.google.com/sql/docs/postgres/connect-app-engine))
 
 * Run into problems with `cloud app create`, b/c account isn’t configured properly. 
-* Run `gcloud auth list`; switch from `${hash_vomit}-compute@developer.gserviceaccount.com` (???) to `${actual_email}@gmail.com`.
+* Run `gcloud auth list`; switch from `"$hash_vomit_goes_here"-compute@developer.gserviceaccount.com` (???) to `"$actual_email_goes_here"@gmail.com`.
 
 `bundle exec bin/rails assets:precompile` blows up because, hey, you have no asset pipeline.
 
 Establish access to project: 
 ```
-gcloud projects add-iam-policy-binding ${project_name} \
-  --member=serviceAccount:${decimal_string_here}@cloudbuild.gserviceaccount.com \
+gcloud projects add-iam-policy-binding "$project_name_goes_here" \
+  --member=serviceAccount:"$decimal_string_goes_here"@cloudbuild.gserviceaccount.com \
   --role=roles/editor
 ```
 
@@ -370,7 +370,7 @@ Doesn’t work, b/c no connection — as somewhat expected.
 
 In CloudSQL Instances, Authorization > Authorized networks > Add network
 
-`$ psql "sslmode=disable dbname=daily_ua_db user=suss_admin hostaddr=${CloudSQL_IPV4}"`
+`$ psql "sslmode=disable dbname=daily_ua_db user=suss_admin hostaddr=$cloudSQL_IPV4_goes_here"`
 
 daily_ua_db=> SELECT * from "headlines"
 daily_ua_db-> \g

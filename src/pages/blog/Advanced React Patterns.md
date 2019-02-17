@@ -140,7 +140,8 @@ Prop (collection) getters to avoid this shortcoming.
 There’s a separate, [in-depth article on prop getters here.](https://blog.kentcdodds.com/how-to-give-rendering-control-to-users-with-prop-getters-549eaef76acf)
 
 For more examples, see [Exercises 05 and 06](https://github.com/kentcdodds/advanced-react-patterns-v2/tree/master/src/exercises-final) from the original ARP course.
-________________
+
+---
 
 ### Provider Pattern
 

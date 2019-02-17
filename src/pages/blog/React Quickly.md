@@ -344,7 +344,7 @@ Beyond those, it’s almost always best to modify a child declaratively (i.e. th
 
 ---
 
-You can attach methods to functions, but the code isn’t elegant: you can’t use this in a function (the value isn’t the component; it’s `window`.) So, instead of this:
+You can attach methods to functions, but the code isn’t elegant: you can’t use `this` in a function (the value isn’t the component; it’s `window`.) So, instead of this:
 
 ```javascript
 const DigitalDisplay = function(props) {
