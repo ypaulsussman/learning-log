@@ -122,3 +122,5 @@
 - https://thoughtbot.com/upcase/tmux
 
 1. Complete each unit in _Ruby Cookbook_, but make a post for each chapter (_or unit?_) that discusses how the recipe might be different in 2.5.x (_vs 1.8.4_)
+
+1. Read up on each request [header, default param, auth option, etc] that Postman provides autocomplete or prompts for

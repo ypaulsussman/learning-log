@@ -20,9 +20,11 @@ tags:
 > 
 > `- Original scribble`
 
-<!-- коли рак на горі свисне -->
-
+<!-- коли рак на горі свисне @ how else to remember verb 'whistle'? -->
+<!-- Життя пережити не поле перейти @ something you remembered over the years of disuse  -->
+<!-- contrast with Краще завершено ніж довершено, whose order I always mix up -->
 <!-- for UA, at least, no way to know frequency w/o paying, and even then not terribly robust dataset -->
+
 
 ## What Could We Do About It?
 
