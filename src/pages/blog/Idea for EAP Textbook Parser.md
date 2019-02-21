@@ -10,7 +10,6 @@ tags:
   - language-learning
   - ESP
   - EAP
-  - programming
   - toy-app
   - build-this
 ---
@@ -57,4 +56,4 @@ But first, obviously: to build the thing. And for that, you need to take a cours
 
 A follow-up, dreaded question: are the bindings to NLP libraries for Ruby anywhere as good as those, purportedly at least, for Python?
 
-A follow-follow-up, more-dreaded question: and, if not, how do you induce `${lovely_spouse}` to write all the scraping code for you?
+A follow-follow-up, more-dreaded question: and, if not, how do you induce `${lovely_spouse}` to write all the scraping, parsing, and tokenizing code for you?

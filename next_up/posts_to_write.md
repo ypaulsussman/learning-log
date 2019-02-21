@@ -10,17 +10,16 @@
 
 1. Apps and Ideas Heap #19 [ x ]
 
-1. Learning React [ ]
-1. React Quickly [ ]
-1. Advanced React Patterns [ ]
+1. Learning React [ x ]
+1. React Quickly [ x ]
+1. Advanced React Patterns [ x ]
 
 1. ~~Apps and Ideas Heap #17 [ ]~~
+1. Apps and Ideas Heap #5 [ ]
 
 1. Data Structures and Algorithms [ ]
 1. JS Data Structures and Algorithms [ ]
 1. Object-Oriented JavaScript [ ]
-
-1. Apps and Ideas Heap #5 [ ]
 
 1. Improving Adult Literacy Instruction [ ]
 
