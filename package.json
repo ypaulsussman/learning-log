@@ -5,6 +5,7 @@
   "author": "Y Sussman",
   "dependencies": {
     "gatsby": "^2.0.0",
+    "gatsby-cli": "^2.4.11",
     "gatsby-image": "^2.0.10",
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-sass": "^2.0.1",
@@ -12,7 +13,7 @@
     "gatsby-remark-images": "^2.0.1",
     "gatsby-remark-prismjs": "^2.0.5",
     "gatsby-remark-relative-images": "^0.2.0",
-    "gatsby-source-filesystem": "^2.0.1",
+    "gatsby-source-filesystem": "^2.0.23",
     "gatsby-transformer-remark": "^2.1.1",
     "gatsby-transformer-sharp": "^2.1.1",
     "lodash": "^4.17.5",
