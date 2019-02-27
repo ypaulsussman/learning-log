@@ -15,7 +15,7 @@
 1. Advanced React Patterns [ x ]
 
 1. ~~Apps and Ideas Heap #17 [ ]~~
-1. Apps and Ideas Heap #5 [ ]
+1. Apps and Ideas Heap #5 [ x ]
 
 1. Data Structures and Algorithms [ ]
 1. JS Data Structures and Algorithms [ ]
