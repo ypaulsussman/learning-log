@@ -98,8 +98,7 @@ The **djb2 hash function** is better than the "lose lose" hash function; really,
 var djb2HashCode = function (key) {
       var hash = 5381; //initializing the hash variable with a prime number
       for (var i = 0; i < key.length; i++) { // iterating the `key` parameter 
-                  hash = hash * 33 + key.charCodeAt(i); // multiplying the hash by a 
-magic number, then summing with the key's ASCII value
+                  hash = hash * 33 + key.charCodeAt(i); // multiplying the hash by a magic number, then summing with the key's ASCII value
         }
 return hash % 1013; //modulo yet another random prime number
 };

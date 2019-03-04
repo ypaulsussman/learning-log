@@ -23,7 +23,7 @@ Don’t just read interview questions: practice, and not only that? Practice wit
 
 Especially if you’re writing something to memory with each calling, recursive functions can rapidly add to space complexity, and even cause stack overflows.
 
-== will compare that the properties of two objects are all the same; === will compare that they’re actually the same object (i.e. located at the same spot in memory.)
+`==` will compare that the properties of two objects are all the same; `===` will compare that they’re actually the same object (i.e. located at the same spot in memory.)
 
 You can pretty much always use recursion instead of a loop... but it’s rarely worth the space complexity on the stack, or the difficulty of reasoning about.
 

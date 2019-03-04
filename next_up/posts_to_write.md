@@ -17,9 +17,9 @@
 1. ~~Apps and Ideas Heap #17 [ ]~~
 1. Apps and Ideas Heap #5 [ x ]
 
-1. Data Structures and Algorithms [ ]
-1. JS Data Structures and Algorithms [ ]
-1. Object-Oriented JavaScript [ ]
+1. ~~Data Structures and Algorithms [ ]~~
+1. ~~JS Data Structures and Algorithms [ ]~~
+1. Object-Oriented JavaScript [ x ]
 
 1. Improving Adult Literacy Instruction [ ]
 
