@@ -1,4 +1,4 @@
-﻿ ---
+﻿---
 templateKey: "blog-post"
 title: Object-Oriented JavaScript (Stefanov, Stoyan)
 date: 2018-01-01

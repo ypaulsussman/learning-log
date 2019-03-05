@@ -5,7 +5,7 @@
   "author": "Y Sussman",
   "dependencies": {
     "gatsby": "^2.0.0",
-    "gatsby-cli": "^2.4.11",
+    "gatsby-cli": "^2.4.12",
     "gatsby-image": "^2.0.10",
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-sass": "^2.0.1",
