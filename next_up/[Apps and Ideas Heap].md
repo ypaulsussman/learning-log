@@ -29,7 +29,7 @@ tags:
 
 1. SRS task: you are presented with a sentence that you wrote, which has an error in it; you must click the area with the error, and correct it to match \${whatever correction was given by the instructor}. If needed, a prompt of the error type (as tagged by instructor) can be provided.
 
-1. [Inspired by this post](https://stackoverflow.com/questions/12849195/rails-capture-method/15229531#15229531) (as an example to adapt or link to), create a clone of Ruby (&Rails?) documentation that links to a better (more detailed, with more examples of common use-cases) explanations via SO/blog posts.
+1. ~~[Inspired by this post](https://stackoverflow.com/questions/12849195/rails-capture-method/15229531#15229531) (as an example to adapt or link to), create a clone of Ruby (&Rails?) documentation that links to a better (more detailed, with more examples of common use-cases) explanations via SO/blog posts.~~
 
 1. App for TBLT Materials: build an (extension? Web app?) that creates supports for authentic online texts: use “elaborated” input (Long, 2009) that includes linguistic supports, such as redundancy, paraphrasing, synonyms, clear signaling, and marking to increase topic salience, making the information flow chronologically, using shorter sentences, and so on.(From the National Academies’ Improving Adult Literacy Instruction)
 

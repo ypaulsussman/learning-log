@@ -173,29 +173,87 @@ select ename,job from emp order by substr(job,length(job)-1)
 To sort non-NULL values in ascending or descending order and all `NULL` values last, you can use a `CASE` expression to conditionally sort the column.
 
 ```sql
-/* NON-NULL COMM SORTED ASCENDING, ALL NULLS LAST */
-select ename,sal,comm from (
-  select ename,sal,comm,  
-    case when comm is null then 0 
-      else 1 
-    end as is_null 
-  from emp ) x 
-order by is_null desc,comm
-``` 
+  /* NON-NULL COMM SORTED ASCENDING, ALL NULLS LAST */
+  select ename,sal,comm from (
+    select ename,sal,comm,
+      case when comm is null then 0
+        else 1
+      end as is_null
+    from emp ) x
+  order by is_null desc,comm
+```
+
+### Sorting on a Data Dependent Key
+
+You want to sort based on some conditional logic: if `JOB` is `“SALESMAN”` you want to sort on `COMM`; otherwise, you want to sort by `SAL`.
+
+| ENAME  | SAL  | COMM |
+| ------ | ---- | ---- |
+| TURNER | 1500 | 0    |
+| ALLEN  | 1600 | 300  |
+| WARD   | 1250 | 500  |
+| MARTIN | 1250 | 1400 |
+| SMITH  | 800  |
+| JAMES  | 950  |
+| MILLER | 1300 |
+| JONES  | 2975 |
+
+Use a `CASE` expression in the `ORDER BY` clause:
+
+```sql
+select ename,sal,job,comm
+  from emp
+order by case
+  when job = 'SALESMAN'
+    then comm
+  else sal
+end
+```
+
+---
+
+## Working with Multiple Tables
+
+### Stacking One Rowset Atop Another
+
+Let's say you want to display
+
+- the name and department number of the employees in department 10 in table `EMP`, along with
+- the name and department number of each department in table `DEPT`:
+
+| ENAME_AND_DNAME | DEPTNO  |
+| --------------- | ------- |
+| CLARK           | 10      |
+| KING            | 10      |
+| MILLER          | 10      |
+| ----------      | ------- |
+| ACCOUNTING      | 10      |
+| RESEARCH        | 20      |
+| SALES           | 30      |
+| OPERATIONS      | 40      |
+
+The set operation `UNION ALL` combines rows from multiple row sources into one result set:
+
+```sql
+select ename as ename_and_dname, deptno
+  from emp
+  where deptno = 10
+union all
+select '----------', null
+  from t1
+union all
+select dname, deptno 9
+  from dept
+```
+
+- As with all set operations, the items in all the SELECT lists must match in number and data type.
+- `UNION ALL` will include duplicates if they exist.
+  - If you wish to filter out duplicates, use the `UNION` operator.
+  - Using `UNION` is roughly equivalent a query which applies `DISTINCT` to the output from a `UNION ALL`.
+  - You wouldn’t use `DISTINCT` in a query unless you had to, and the same rule applies for `UNION`; don’t use it instead of `UNION ALL` unless you have to.
 
 
-
-
-ENAME SAL COMM ------ ----- ---------- TURNER 1500 0 ALLEN 1600 300 WARD 1250 500 MARTIN 1250 1400 SMITH 800 JONES 2975 JAMES 950 MILLER 1300
-
-Problem You want to sort based on some conditional logic. For example: if JOB is “SALESMAN” you want to sort on COMM; otherwise, you want to sort by SAL. You want to return the following result set: ENAME SAL JOB COMM ---------- ---------- --------- ---------- TURNER 1500 SALESMAN 0 ALLEN 1600 SALESMAN 300 WARD 1250 SALESMAN 500 SMITH 800 CLERK JAMES 950 CLERK ADAMS 1100 CLERK MILLER 1300 CLERK MARTIN 1250 SALESMAN 1400 CLARK 2450 MANAGER BLAKE 2850 MANAGER JONES 2975 MANAGER SCOTT 3000 ANALYST FORD 3000 ANALYST KING 5000 PRESIDENT Solution Use a CASE expression in the ORDER BY clause: 1 select ename,sal,job,comm 2 from emp 3 order by case when job = 'SALESMAN' then comm else sal end Discussion You can use the CASE expression to dynamically change how results are sorted.
-
-For example, you want to display the name and department number of the employees in department 10 in table EMP, along with the name and department number of each department in table DEPT. You want the result set to look like the following: ENAME_AND_DNAME DEPTNO --------------- ---------- CLARK 10 KING 10 MILLER 10 ---------- ACCOUNTING 10 RESEARCH 20 SALES 30 OPERATIONS 40 Solution Use the set operation UNION ALL to combine rows from multiple tables: 1 select ename as ename_and_dname, deptno 2 from emp 3 where deptno = 10 4 union all 5 select '----------', null 6 from t1 7union all 8 select dname, deptno 9 from dept Discussion UNION ALL combines rows from multiple row sources into one result set. As with all set operations, the items in all the SELECT lists must match in number and data type.
-
-UNION ALL will include duplicates if they exist. If you wish to filter out duplicates, use the UNION operator.
-
-Using UNION is roughly equivalent to the following query, which applies DISTINCT to the output from a UNION ALL: select distinct deptno from ( select deptno from emp union all select deptno from dept ) DEPTNO --------- 10 20 30 40 You wouldn’t use DISTINCT in a query unless you had to, and the same rule applies for UNION; don’t use it instead of UNION ALL unless you have to.
-
+### Combining Related Rows
 you want to display the names of all employees in department 10 along with the location of each employee’s department, but that data is stored in two separate tables.
 
 Join table EMP to table DEPT on DEPTNO: 1 select e.ename, d.loc 2 from emp e, dept d 3 where e.deptno = d.deptno 4 and e.deptno = 10 Discussion The solution is an example of a join, or more accurately an equi-join, which is a type of inner join.
@@ -251,7 +309,3 @@ Duplicate elimination is something you’ll want to consider when using the MySQ
 you could use DISTINCT as follows to ensure that each DEPTNO value missing from EMP is reported only once: select distinct deptno from dept where deptno not in (select deptno from emp) Be mindful of NULLs when using NOT IN.
 
 In SQL, “TRUE or NULL” is TRUE, but “FALSE or NULL” is NULL! You must keep this in mind when using IN predicates and when performing logical OR evaluations, and NULL values are involved. To avoid the problem with NOT IN and NULLs, use a correlated subquery in conjunction with NOT EXISTS. The term "correlated subquery” is used because rows from the outer query are referenced in the subquery. The following example is an alternative solution that will not be affected by NULL rows (going back to the original query from the “Problem” section): select d.deptno from dept d where not exists ( select 1 from emp e where d.deptno = e.deptno )
-
-```
-
-```
