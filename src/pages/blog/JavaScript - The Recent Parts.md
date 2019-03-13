@@ -1,4 +1,14 @@
-# JavaScript: The Recent Parts
+---
+templateKey: 'blog-post'
+title: JavaScript - The Recent Parts (Simpson, Kyle)
+date: 2019-03-09
+description: This workshop explores a variety of features added to JS from ES6 to present (ES2019), and tries to get a sense of what parts we should be paying closest attention to.
+postType: 'notes'
+tags:
+  - frontend-masters
+  - live-course
+  - javascript
+---
 
 ## Intro
 

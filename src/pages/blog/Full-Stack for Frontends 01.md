@@ -115,7 +115,7 @@ Nginx is configurable, and extremely fast.
 
 ## Gulp and Logs
 
- [Example Gulp task here.](https://www.google.com/url?q=https://github.com/young/Dev-Ops-for-Frontend/blob/master/gulpfile.js&sa=D&ust=1538938725670000)
+ [Example Gulp task here.](https://github.com/young/Dev-Ops-for-Frontend/blob/master/gulpfile.js&sa=D&ust=1538938725670000)
 
 
 * `$ npm config get prefix` will return the path to your npm config file

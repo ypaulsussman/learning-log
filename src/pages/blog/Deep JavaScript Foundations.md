@@ -1,4 +1,15 @@
-# Deep JS Foundations
+---
+templateKey: 'blog-post'
+title: Deep JavaScript Foundations (Simpson, Kyle)
+date: 2019-03-07
+description: This course provides a deep exploration JavaScript fundamentals such as types and coercion, scope and closure, and the prototype system.
+postType: 'notes'
+tags:
+  - frontend-masters
+  - live-course
+  - javascript
+
+---
 
 ## Intro
 

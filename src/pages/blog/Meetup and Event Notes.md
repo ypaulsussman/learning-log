@@ -121,7 +121,7 @@ DNS is a common attack vector. If you control DNS? You control MX. If you contro
 
 **Lightning Talk: building a client-side, real-time collaborative editor**
 
-- [OT vs CRDT](https://www.google.com/url?q=https://stackoverflow.com/questions/26694359/differences-between-ot-and-crdt&sa=D&ust=1543023893835000) for data structures -- latter is much newer (since 2011, vs 1989!) but more scalable
+- [OT vs CRDT](https://stackoverflow.com/questions/26694359/differences-between-ot-and-crdt&sa=D&ust=1543023893835000) for data structures -- latter is much newer (since 2011, vs 1989!) but more scalable
 - WebRTC...
 
   - Has a data channel (as well as a audio/video)
@@ -129,7 +129,7 @@ DNS is a common attack vector. If you control DNS? You control MX. If you contro
   - Uses UDP by default (but can use TCP)
   - Uses \[1\] a STUN server and \[2\] a TURN server to traverse network address translators (gateways that are located in the path between two endpoints of communication)
 
-- Google is pushing [QUIC](https://www.google.com/url?q=https://en.wikipedia.org/wiki/QUIC&sa=D&ust=1543023893837000) pretty hard (as an alternative to TCP)
+- Google is pushing [QUIC](https://en.wikipedia.org/wiki/QUIC&sa=D&ust=1543023893837000) pretty hard (as an alternative to TCP)
 
 **Main talk:**
 
