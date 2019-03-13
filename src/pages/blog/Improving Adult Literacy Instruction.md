@@ -405,42 +405,14 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
 
 ## Conclusions and Recommendations
 
-- Effective literacy instruction explicitly targets the automation and integration of component skills and the transfer of skills to tasks valued by society and the learner.
-- Effective literacy instruction includes formative assessments to monitor progress, provide feedback, and adjust instruction.
-- Adults have varied and more substantial life experiences and knowledge and different motivations for learning that need attention in instructional design.
-- Questions remain about fluency and its relation to other components of literacy
-- The best ways to teach vocabulary remain to be fully tested.
-- The most significant challenge to the design of literacy development opportunities for adults is getting the adults to participate and persevere.
-  - We should develop and test approaches that have been used with some success to motivate adherence to health promotion programs (e.g., weight loss, smoking cessation).
-  - Reminder systems used in health care may also prove of benefit.
-- Because effective literacy is built up over thousands of hours, it is extremely worthwhile to include out-of-class practice opportunities in any program.
-- Learners need help to set realistic goals and expectations: they can often underestimate the amount of practice and effort required to achieve fluency.
-- English learners show weaker vocabulary and comprehension relative to native English speakers but often show relative strength in decoding.
-- ELL’s  may benefit from some cultural background knowledge to support their learning and performance in reading comprehension.
-- Adult literacy instruction is most effective if tailored to the level of literacy they have developed in their native language.
+- Differences in literacy instruction for English-language learners:
+    - ELL’s show weaker vocabulary and comprehension relative to native English speakers but often show relative strength in decoding.
+    - ELL’s may benefit from some cultural background knowledge to support their learning and performance in reading comprehension.
+    - Adult literacy instruction is most effective if tailored to the level of literacy that ELL’s have developed in their native language.
 - Second language learning past childhood usually is:
   - learned via explicit instruction more than through implicit learning, and
   - more closely tied to reading.
-- Best practices:
-  - a balanced and integrated focus on oral language, reading, and writing;
-  - meaningful, genuine, and relevant materials and tasks;
-  - utilizing learners’ first language strengths;
-  - a focus on both form and meaning;
-  - providing frequent and explicit feedback;
-  - providing opportunities to experience and apply linguistic structures in varied contexts, including outside the classroom; and
-  - being sensitive to learner’s existing levels and readiness as new linguistic concepts are introduced.
-- Three types of assessment are needed: diagnostic, formative, and accountability assessment.
-  - No satisfactory ways to comprehensively assess:
-    - the range of literacy skills that adults bring to instruction, and
-    - their growth over time.
-  - The use of grade level equivalents needs to be rethought.
-- Technology also can assist with assessment, especially by leveraging recent model tracing, Bayesian network, and natural language processing advances.
-- Writing is improved by intelligent tutoring systems and automated scoring systems that diagnose and give feedback on language and discourse deficits at multiple levels.
-- An important direction for research in the next decade will be to investigate online reading, writing, and learning to identify the underlying cognitive, social, and cultural mechanisms involved.
-  - What are the competencies involved in reading and writing online and comprehending and creating multimodal texts?
-  - What instructional materials and programs are effective in developing digital literacy skills?
-  - How should the development of digital literacy skills be incorporated into adult literacy programs?
-  - Should literacy development always begin with print-based texts or should it start with texts in multimodal and digital media?
+
 - The diversity of populations:
   - high school dropouts,
   - low-literate English language learners with varying levels of first language literacy,
@@ -448,8 +420,21 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
   - students in career and technical education,
   - academically underprepared college students, and
   - other adults who fared poorly in the K-12 system.
+
+- Questions remain about fluency and its relation to other components of literacy.
+- The best ways to teach vocabulary remain to be fully tested.
+- The **most significant challenge** to the design of literacy development opportunities for adults is getting the adults to participate and persevere.
+  - We should develop and test approaches that have been used with some success to motivate adherence to health promotion programs (_e.g., weight loss, smoking cessation_).
+  - Reminder systems used in health care may also prove of benefit.
+  - Because effective literacy is built up over thousands of hours, it is extremely worthwhile to include out-of-class practice opportunities in any program.
+  - Learners need help to set realistic goals and expectations: they can often underestimate the amount of practice and effort required to achieve fluency.
+- An **important direction for research** in the next decade will be to investigate online reading, writing, and learning to identify the underlying cognitive, social, and cultural mechanisms involved.
+  - What are the competencies involved in reading and writing online and comprehending and creating multimodal texts?
+  - What instructional materials and programs are effective in developing digital literacy skills?
+  - How should the development of digital literacy skills be incorporated into adult literacy programs?
+  - Should literacy development always begin with print-based texts or should it start with texts in multimodal and digital media?
 - Focus on these:
   - Technologies can free literacy practice from being dependent on a specific learning location.
   - Technologies can help to standardize instructional offerings across the many places of instruction.
-  - Technologies have the potential to provide some of the scaffolding needed for progress with literacy skills and engagement with complex (but valued, authentic) texts and tasks.
+  - Technologies have the potential to provide some of the scaffolding needed for progress with literacy skills and engagement with complex (_but valued, authentic_) texts and tasks.
   - Technology has the potential to help overcome the high cost of intelligent human labor, in this case literacy instructors.
