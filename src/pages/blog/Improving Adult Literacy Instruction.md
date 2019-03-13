@@ -255,34 +255,62 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
 
 ## Literacy Instruction for Adults
 
-### Two major settings
+### Background of Learners
 
-1. **Adult Education programs**
-   - 2.6 million adults enrolled (2006-2007 fiscal year)
-   - Federal and state funding together provides about two-thirds of the funding
-   - Median budget for a program was \$199,000;
-   - Median enrollment of 318 learners per program;
-   - Median expenditure per learner, then, was \$626.
-   - Three main types of literacy instruction:
-      - 43 percent of adult learners receive _ESL instruction_,
-      - 40 percent receive _ABE instruction_,
-      - 19 percent participate in _ASE instruction_.
-   - Of total programs surveyed,
-      - _Local education agencies_ composed 54 percent;
-      - _Community-based organizations_ composed 25 percent;
-      - _Community colleges_ composed 17 percent;
-      - _Correctional institutions_ composed 2 percent.
-   - There is not a straightforward alignment of learning goals with program type/location.
-   - On average, learners participated in adult education programs for less than 100 hours per year.
-      - By contrast, about 3,000 hours are required for mastery of a complex skill.
-      - One-third of adults made reading gains equivalent to a grade level during the program year.
-      - Those who persisted tended to be older, with poorer basic reading skills.
-1. **Developmental courses in colleges**
-   - Two subtypes:
-      - Adult literacy programs for individuals who wish to complete their secondary education (_see above_), and
-      - Developmental education for students formally enrolled in college programs.
-          - Currently, no universally accepted definition of college readiness.
-          - More than half of community college students enroll in at least one developmental education course during their college tenure.
+- Two major settings:
+    1. **Adult Education programs**
+       - 2.6 million adults enrolled (2006-2007 fiscal year)
+       - Federal and state funding together provides about two-thirds of the funding
+       - Median budget for a program was \$199,000;
+       - Median enrollment of 318 learners per program;
+       - Median expenditure per learner, then, was \$626.
+       - Three main types of literacy instruction:
+          - 43 percent of adult learners receive _ESL instruction_,
+          - 40 percent receive _ABE instruction_,
+          - 19 percent participate in _ASE instruction_.
+       - Of total programs surveyed,
+          - _Local education agencies_ composed 54 percent;
+          - _Community-based organizations_ composed 25 percent;
+          - _Community colleges_ composed 17 percent;
+          - _Correctional institutions_ composed 2 percent.
+       - There is not a straightforward alignment of learning goals with program type/location.
+       - On average, learners participated in adult education programs for less than 100 hours per year.
+          - By contrast, about 3,000 hours are required for mastery of a complex skill.
+          - One-third of adults made reading gains equivalent to a grade level during the program year.
+          - Those who persisted tended to be older, with poorer basic reading skills.
+    1. **Developmental courses in colleges**
+       - Two subtypes:
+          - Adult literacy programs for individuals who wish to complete their secondary education (_see above_), and
+          - Developmental education for students formally enrolled in college programs.
+              - Currently, no universally accepted definition of college readiness.
+              - More than half of community college students enroll in at least one developmental education course during their college tenure.
+- Within those settings, a diversity of populations:
+  - high school dropouts,
+  - low-literate English language learners with varying levels of first language literacy,
+  - students with documented disabilities,
+  - students in career and technical education,
+  - academically underprepared college students, and
+  - other adults who fared poorly in the K-12 system.
+
+### Literacy-Specific Practices 
+
+- Instruction that focuses the learner’s attention is needed to isolate and highlight the crucial parts of the input, especially with complex structures of syntax.
+  - Students have trouble discovering important principles on their own.
+  - Through intensive exposure to language, learners develop an implicit understanding of the patterns in a language: but these incidental opportunities for learning about the structure of a language are not sufficient, especially for more complex structures.
+  - English language learners are usually exposed to much more input than they can process, and
+  - learners continually test hypotheses and filter input through knowledge of their first language.
+  - Explicit teaching that included rule explanation produced stronger effects than implicit teaching that included neither
+      - rule presentation nor
+      - directions to attend to particular linguistic forms
+  - Comparable results were produced from:
+      - instruction that begins with learners doing meaningful tasks but also presents opportunities to provide information about linguistic structures, and
+      - instruction in which an ordered sequence of linguistic forms is taught outside a communicative context.
+- When the first language is used as an aid to clarify instructions and tasks, learners show more growth in second language reading comprehension and oral proficiency.
+- It is not a good strategy to provide only oral language instruction while waiting until reading and writing reach a certain level of proficiency.
+- Those with weak second language skills tend to devote more attention to form and less attention to the macro processes of generating ideas, planning, revising, and editing.
+  - We must understand more about how to develop these macro processes in second language instruction.
+  - Promising instructional strategies include prediscussions of the writing topic, peers evaluating and responding to each other’s work, and teacher-student dialogue journals.
+  - Extensive reading and vocabulary development in the second language are also helpful.
 
 ### Task-Based Language Teaching
 
@@ -305,54 +333,6 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
   - Gradually increasing the complexity of the communicative and conceptual demands of the tasks, while
   - Directing the learner’s attention to the language structures and tools.
 
-### Literacy-Specific Practices 
-
-- Instruction that focuses the learner’s attention is needed to isolate and highlight the crucial parts of the input, especially with complex structures of syntax.
-  - Students have trouble discovering important principles on their own.
-  - Through intensive exposure to language, learners develop an implicit understanding of the patterns in a language: but these incidental opportunities for learning about the structure of a language are not sufficient, especially for more complex structures.
-  - English language learners are usually exposed to much more input than they can process, and
-  - learners continually test hypotheses and filter input through knowledge of their first language.
-  - Explicit teaching that included rule explanation produced stronger effects than implicit teaching that included neither
-      - rule presentation nor
-      - directions to attend to particular linguistic forms
-  - Comparable results were produced from:
-      - instruction that begins with learners doing meaningful tasks but also presents opportunities to provide information about linguistic structures, and
-      - instruction in which an ordered sequence of linguistic forms is taught outside a communicative context.
-- When the first language is used as an aid to clarify instructions and tasks, learners show more growth in second language reading comprehension and oral proficiency.
-- It is not a good strategy to provide only oral language instruction while waiting until reading and writing reach a certain level of proficiency.
-- Those with weak second language skills tend to devote more attention to form and less attention to the macro processes of generating ideas, planning, revising, and editing.
-  - We must understand more about how to develop these macro processes in second language instruction.
-  - Promising instructional strategies include prediscussions of the writing topic, peers evaluating and responding to each other’s work, and teacher-student dialogue journals.
-  - Extensive reading and vocabulary development in the second language are also helpful.
-
-### Current Research Directions
-
-- There are only a handful of **quantitative research experiments that measure outcomes** with standardized/researcher-developed tests.
-- Moreover, in research to date, all gains are small relative to the amount needed for someone to achieve levels of literacy required for functional literacy.
-  - A priority for research, then, is to experiment with a variety of ways to more **fully engage learners for *longer periods** of time.
-      - For adolescents and adults to invest the time required to develop their literacy, the instruction they receive must provide valued content knowledge and literacy skills.
-          - To what degree is it possible for reading and writing instruction to piggyback onto instruction to develop content knowledge, instead of content knowledge being secondary to the acquisition of reading and writing skills?
-          - Similarly, certain (technological) skills are in demand in the 21st century for social interaction and for success in college/work. To what extent can reading and writing skills be developed as part of developing these functional skills?
-      - _Contextualized literacy instruction_ is an approach that is consistent with principles of learning.
-          - Those whose goal it is to transition to training or postsecondary education mention the lack of focus on academic vocabulary in high beginning or intermediate classes.
-          - A particular challenge is the need to differentiate instruction for adults in a classroom who vary in first language proficiency, educational background, and familiarity with U.S. culture.
-          - An example: _The Integrated Basic Education and Skills Training_ program, or I-BEST, in Washington state is a program in which basic skills instructors and college-level career-technical faculty jointly design and teach college-level occupational courses for adult basic skills students.
-              - I-BEST students (both adult basic education and ESL students) had better basic skills and the persistence to continue their education.
-              - These students were not randomly assigned, however, but rather self-selected into I-BEST programs, so the results need to be interpreted cautiously.
-      - Examples of _anchored learning_ are:
-          - problem-based curricula in medical schools, in which students work on genuine medical cases, and
-          - communities of practice, in which students try to solve problems of pollution in their city.
-          - These formats are likely to motivate struggling adult learners who are sensitive to the value of their learning experience.
-  - An additional research priority is to develop **more valid ways of measuring adults’ literacy gains**... with assessments normed for the population and designed to show progress in specific component skills.
-      - Three types of assessment are needed: diagnostic, formative, and accountability assessment.
-      - Currently, no satisfactory ways to comprehensively assess:
-        - the range of literacy skills that adults bring to instruction, and
-        - their growth over time.
-      - The use of grade level equivalents needs to be rethought.
-      - Assessments that involve selected or constrained responses (e.g., multiple choice or completion) show the largest effects of instruction because they match instruction closely.
-      - Free response tasks that require spoken or written answers are better measures of learners’ second language proficiency, however, because they relate most closely to language use outside the classroom.
-      - Technology also can assist with assessment, especially by leveraging recent model tracing, Bayesian network, and natural language processing advances.
-
 ---
 
 ## Language and Literacy Development of English Language Learners
@@ -374,7 +354,6 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
 - Because studies are so few and the ones available suffer from various methodological constraints, it is not possible to draw strong conclusions about effective instructional practices.
 
 
-
 - Compared with adult native speakers with low literacy, adult English language learners with low literacy show:
   - weaker vocabulary,
   - weaker passage comprehension,
@@ -382,7 +361,6 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
   - better phonological processing and
   - better phonological awareness.
 - Although adult language learners (and native speakers) can establish basic decoding skills quickly with good instruction, vocabulary and comprehension skills have been particularly difficult to change with instruction.
-
 
 - Two languages share brain structures and circuits, instead of having segregated ones.
   - Examples of such parallel activation across languages include:
@@ -434,37 +412,41 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
 
 ---
 
-## Conclusions and Recommendations
+### Future Research Directions
 
-- Differences in literacy instruction for English-language learners:
-    - ELL’s show weaker vocabulary and comprehension relative to native English speakers but often show relative strength in decoding.
-    - ELL’s may benefit from some cultural background knowledge to support their learning and performance in reading comprehension.
-    - Adult literacy instruction is most effective if tailored to the level of literacy that ELL’s have developed in their native language.
-- Second language learning past childhood usually is:
-  - learned via explicit instruction more than through implicit learning, and
-  - more closely tied to reading.
-
-- The diversity of populations:
-  - high school dropouts,
-  - low-literate English language learners with varying levels of first language literacy,
-  - students with documented disabilities,
-  - students in career and technical education,
-  - academically underprepared college students, and
-  - other adults who fared poorly in the K-12 system.
-
-- Questions remain about fluency and its relation to other components of literacy.
-- The best ways to teach vocabulary remain to be fully tested.
-- The **most significant challenge** to the design of literacy development opportunities for adults is getting the adults to participate and persevere.
+- In all `${quantitative research experiments that measure outcomes with standardized/researcher-developed tests}` to date, learner gains are small relative to the amount needed for someone to achieve levels of literacy required for functional literacy. A priority for research, then, is to experiment with a variety of ways to more **fully engage learners for longer periods of time,** to get the adults to participate and persevere.
   - We should develop and test approaches that have been used with some success to motivate adherence to health promotion programs (_e.g., weight loss, smoking cessation_).
   - Reminder systems used in health care may also prove of benefit.
   - Because effective literacy is built up over thousands of hours, it is extremely worthwhile to include out-of-class practice opportunities in any program.
   - Learners need help to set realistic goals and expectations: they can often underestimate the amount of practice and effort required to achieve fluency.
-- An **important direction for research** in the next decade will be to investigate online reading, writing, and learning to identify the underlying cognitive, social, and cultural mechanisms involved.
+  - For adolescents and adults to invest the time required to develop their literacy, the instruction they receive must provide valued content knowledge and literacy skills.
+      - To what degree is it possible for reading and writing instruction to piggyback onto instruction to develop content knowledge, instead of content knowledge being secondary to the acquisition of reading and writing skills?
+      - Similarly, certain (technological) skills are in demand in the 21st century for social interaction and for success in college/work. To what extent can reading and writing skills be developed as part of developing these functional skills?
+      - _Contextualized literacy instruction_ is an approach that is consistent with principles of learning.
+          - Those whose goal it is to transition to training or postsecondary education mention the lack of focus on academic vocabulary in high beginning or intermediate classes.
+          - A particular challenge is the need to differentiate instruction for adults in a classroom who vary in first language proficiency, educational background, and familiarity with U.S. culture.
+          - An example: _The Integrated Basic Education and Skills Training_ program, or I-BEST, in Washington state is a program in which basic skills instructors and college-level career-technical faculty jointly design and teach college-level occupational courses for adult basic skills students.
+              - I-BEST students (both adult basic education and ESL students) had better basic skills and the persistence to continue their education.
+              - These students were not randomly assigned, however, but rather self-selected into I-BEST programs, so the results need to be interpreted cautiously.
+      - Another tool to explore might be _anchored learning,_ examples of which include:
+          - problem-based curricula in medical schools, in which students work on genuine medical cases, and
+          - communities of practice, in which students try to solve problems of pollution in their city.
+          - These formats are likely to motivate struggling adult learners who are sensitive to the value of their learning experience.
+- An additional research priority is to develop **more valid ways of measuring adults’ literacy gains**... with assessments normed for the population and designed to show progress in specific component skills.
+  - Three types of assessment are needed: diagnostic, formative, and accountability assessment.
+  - Currently, no satisfactory ways to comprehensively assess:
+    - the range of literacy skills that adults bring to instruction, and
+    - their growth over time.
+  - The use of grade level equivalents needs to be rethought.
+  - Assessments that involve selected or constrained responses (e.g., multiple choice or completion) show the largest effects of instruction because they match instruction closely.
+  - Free response tasks that require spoken or written answers are better measures of learners’ second language proficiency, however, because they relate most closely to language use outside the classroom.
+  - Technology also can assist with assessment, especially by leveraging recent model tracing, Bayesian network, and natural language processing advances.
+- Another important direction for research in the next decade will be to **investigate the underlying cognitive, social, and cultural mechanisms involved in online reading, writing, and learning.**
   - What are the competencies involved in reading and writing online and comprehending and creating multimodal texts?
   - What instructional materials and programs are effective in developing digital literacy skills?
   - How should the development of digital literacy skills be incorporated into adult literacy programs?
   - Should literacy development always begin with print-based texts or should it start with texts in multimodal and digital media?
-- Focus on these:
+- Finally, there are several avenues in which **technology can improve instruction**:
   - Technologies can free literacy practice from being dependent on a specific learning location.
   - Technologies can help to standardize instructional offerings across the many places of instruction.
   - Technologies have the potential to provide some of the scaffolding needed for progress with literacy skills and engagement with complex (_but valued, authentic_) texts and tasks.
