@@ -19,8 +19,10 @@
 1. ~~JS Data Structures and Algorithms [ ]~~
 1. _Object-Oriented JavaScript_ [ x ]
 1. ~~Apps and Ideas Heap #9 [ ]~~
+1. ~~Go Figure The Economist Explains [ ]~~
+1. ~~The Horologicon [ ]~~
 
-1. Improving Adult Literacy Instruction [ ]
+1. Improving Adult Literacy Instruction [ ] **<===Current===**
 
 1. Apps and Ideas Heap #7 [ ]
 
@@ -32,28 +34,19 @@
 
 1. Apps and Ideas Heap #13 [ ]
 
-1. JavaScript_The Hard (and New Hard) Parts [ ]
-1. Deep JavaScript Fundamentals
-1. JavaScript: The Recent Parts
+1. Chamot's Strategy Instruction Articles [ ]
 
 1. Apps and Ideas Heap #8 [ ]
 
-1. Chamot's Strategy Instruction Articles [ ]
 1. Task-Based Language Teaching Articles [ ]
 
 1. Apps and Ideas Heap #10 [ ]
 
-1. Beautiful JavaScript [ ]
-
 1. Apps and Ideas Heap #11 [ ]
-
-1. Design for Developers [ ]
 
 1. Educause's 7 Things You Should Know [ ]
 
 1. Apps and Ideas Heap #15 [ ]
-
-1. Go Figure The Economist Explains [ ]
 
 1. Apps and Ideas Heap #14 [ ]
 
@@ -65,33 +58,33 @@
 
 1. Crash Course Computer Science [ ]
 
-1. The Horologicon [ ]
+1. How Language Began [ ]
 
 1. Apps and Ideas Heap #12 [ ]
 
 1. Crash Course Study Skills [ ]
 
-1. How Language Began [ ]
+1. Through the Language Glass [ ]
 
 1. Apps and Ideas Heap #3 [ ]
 
-1. Through the Language Glass [ ]
-
 1. Words and Rules [ ]
 
-1. Full-Stack for Frontends 01 [ ]
+1. Beautiful JavaScript [ ] `<===After O'Reilly JS Books===`
+1. JavaScript_The Hard (and New Hard) Parts [ ] 
+1. Deep JavaScript Fundamentals
+1. JavaScript: The Recent Parts
+
+1. Design for Developers [ ] `<===After O'Reilly CSS Books===`
+
+1. Full-Stack for Frontends 01 [ ] `<===After O'Reilly ...Docker? Books===`
 1. Full-Stack for Frontends 02 [ ]
-
-1. Revisitation: Year 01 Credly FE learnings
-1. Revisitation: Year 01 Credly BE learnings
-
-1. SQL Cookbook / online SQL exercises
 
 ---
 
-## Read (and Note, then add those notes to the list above)
+## Read (and annotate, and then add those notes to the list above)
 
-1. SQL Cookbook (O'Reilly)
+1. SQL Cookbook (O'Reilly) **<===Current===**
 
 1. Compare and contrast online SQL exercises:
 
@@ -105,7 +98,18 @@
 - http://sol.gfxile.net/g3/
 - https://app.bytescout.com/sql-trainer/index.html
 
-1. Research each request [header, default param, auth option, etc] that Postman provides autocomplete or prompts for
+1. _Self-Regulated Learning: Beliefs, Techniques, and Illusions_ (Bjork, 2013)
+
+1. ThoughtBot Upcase @ Ruby:
+
+- https://thoughtbot.com/upcase/intermediate-ruby-on-rails-five
+- https://thoughtbot.com/upcase/advanced-activerecord-querying
+
+1. _Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_ (Dunlosky, 2013)
+
+1. Get a one-month Packt subscription, and shop (ruthlessly) though their Rails resources
+
+1. _How People Learn II: Learners, Contexts, and Cultures_ (NAP, 2018)
 
 1. Compare different 'intro to coding tools' lectures:
 
@@ -120,13 +124,15 @@
 - https://thoughtbot.com/upcase/navigating-ruby-files-with-vim
 - https://thoughtbot.com/upcase/tmux
 
-1. ThoughtBot Upcase @ Ruby:
+1. Bash Cookbook (O'Reilly)
 
-- https://thoughtbot.com/upcase/advanced-activerecord-querying
-- https://thoughtbot.com/upcase/intermediate-ruby-on-rails-five
+1. Docker Cookbook (O'Reilly)
 
+1. _Learning For Life I: Interest in and Aptitude for Technology_ (Tyton Partners, 2014)
 
-1. Get a one-month Packt subscription, and shop (ruthlessly) though their Rails resources
+1. Research each request [header, default param, auth option, etc] that Postman provides autocomplete or prompts for
+
+1. _Learning For Life II: The Supplier Ecosystem_ (Tyton Partners, 2014)
 
 ---
 
@@ -138,4 +144,4 @@
 
 1. [ D&D 5e, VTM, Pathfinder ] Character Randomizer for a given campaign setting
 
-1. `${Revisit the "Next Steps" section of each, well, revisitation; add their projects below}`
+1. `${Add projects from "Next Steps" section of 'Revisiting' and 'Ideas' file; add their projects below}`

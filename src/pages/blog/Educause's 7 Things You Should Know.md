@@ -71,10 +71,10 @@ tags:
 *   Topics in Quantitative Literary Studies at Notre Dame
 *   Cognitive Tutor at Carnegie Mellon
 *   OER:
-    *   [OpenStax](https://www.google.com/url?q=https://openstax.org/about&sa=D&ust=1543096216913000) at Rice University
-    *   [Open Textbook Library](https://www.google.com/url?q=http://open.umn.edu/opentextbooks/About.aspx&sa=D&ust=1543096216913000) (and network) at University of Minnesota
-    *   [OpenEd](https://www.google.com/url?q=https://open.bccampus.ca/find-open-textbooks/&sa=D&ust=1543096216914000) at BCcampus (a support org for British Columbia schools)
-    *   [Lumen Learning](https://www.google.com/url?q=https://lumenlearning.com/courses?&sa=D&ust=1543096216914000) (a for-profit company that uses OER to sell integrated learning analytics software)
-    *   The [Open Ed Consortium](https://www.google.com/url?q=https://www.oeconsortium.org/about-oec/&sa=D&ust=1543096216915000) (global nonprofit) and [MERLOT](https://www.google.com/url?q=http://info.merlot.org/merlothelp/topic.htm%23t%3DWho_We_Are.htm&sa=D&ust=1543096216915000) (originally CSU, but now partnered with OEC?) also provide search tools (do they host/support any objects of their own, though?)
-    *   [Open Washington](https://www.google.com/url?q=http://www.openwa.org/&sa=D&ust=1543096216916000) has an short, introductory course on OER use and licenses.
-    *   [Creative Commons](https://www.google.com/url?q=https://creativecommons.org/about/program-areas/education-oer/education-oer-resources/&sa=D&ust=1543096216917000) has a list of search tools.
+    *   [OpenStax](https://openstax.org/about&sa=D&ust=1543096216913000) at Rice University
+    *   [Open Textbook Library](http://open.umn.edu/opentextbooks/About.aspx&sa=D&ust=1543096216913000) (and network) at University of Minnesota
+    *   [OpenEd](https://open.bccampus.ca/find-open-textbooks/&sa=D&ust=1543096216914000) at BCcampus (a support org for British Columbia schools)
+    *   [Lumen Learning](https://lumenlearning.com/courses?&sa=D&ust=1543096216914000) (a for-profit company that uses OER to sell integrated learning analytics software)
+    *   The [Open Ed Consortium](https://www.oeconsortium.org/about-oec/&sa=D&ust=1543096216915000) (global nonprofit) and [MERLOT](http://info.merlot.org/merlothelp/topic.htm%23t%3DWho_We_Are.htm&sa=D&ust=1543096216915000) (originally CSU, but now partnered with OEC?) also provide search tools (do they host/support any objects of their own, though?)
+    *   [Open Washington](http://www.openwa.org/&sa=D&ust=1543096216916000) has an short, introductory course on OER use and licenses.
+    *   [Creative Commons](https://creativecommons.org/about/program-areas/education-oer/education-oer-resources/&sa=D&ust=1543096216917000) has a list of search tools.
