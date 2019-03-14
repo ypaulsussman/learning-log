@@ -28,6 +28,7 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
 ## Components of Reading
 
 - **Decoding**
+  - One large study compared gains from a variety of instructional approaches in 130 ABE classrooms; it found that the greatest gain was found for structured instruction in alphabetics ([Alamprese, 2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3232465/)).
   - Teaching phonological awareness is most effective when coupled with learning the letter-sound correspondences.
   - Explicitly and systematically teach all aspects of the word-reading system:
       - letter-sound patterns,
@@ -45,8 +46,11 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
   - Guided repeated reading (in which learner receives feedback and is supported in identifying and correcting mistakes) has generally led to moderate increases in fluency/accuracy/comprehension.
   - Repeated reading of a text without guidance has not been reliably demonstrated to be effective.
 - **Vocabulary**
+  - One needs at least 3,000 words in a second language to read independently in that language.
+  - To comprehend a college-level academic text, a vocabulary of about 9,000 words is needed.
+  - Vocabulary develops not only through explicit teaching but also through routine exposure to language, especially print, which contains words and word structures used less often in speech.
   - Select words from the curriculum and teach their meanings prior to reading a text
-  - Introduce vocabulary through connected language (_discussion, elaboration activities_), instead of only dictionary definitions
+  - Introduce vocabulary through connected language (_discussion, elaboration activities_), instead of only dictionary definitions.
   - Provide multiple opportunities to interact with new words and word meanings in a variety of (_engaging_) contexts
 - **Comprehension**
   - Comprehension requires the reader to interpret and integrate information from various sources:
@@ -56,8 +60,14 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
       - background knowledge, and
       - extraneous information.
   - Two types of coherence relations (_referential and causal_) are central to many types of texts; readers also use other relations in text (_spatial, temporal, logical, intentional_) to create meaning
-  - Understanding of text improves if readers are asked to state [_reading goals, predictions, questions, and reactions_] to the material
-  - Focusing students’ attention on the content of the text through the use of open-ended questions was more effective than strategy instruction
+  - Understanding of text improves if readers are asked to state [_reading goals, predictions, questions, and reactions_] to the material.
+  - Focusing students’ attention on the content of the text through the use of open-ended questions was more effective than strategy instruction.
+  - Comprehension involves drawing on  preexisting knowledge, beliefs, and opinions. (_The more one knows about a topic, the more-easily/better one comprehends the material._)
+  - Some basic processes have been shown to be affected by the cultural context in which an individual was raised, such as:
+    - categorization,
+    - perception of an object in relation to its background, and
+    - making causal attributes.
+
 
 ---
 
@@ -275,7 +285,7 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
           - _Correctional institutions_ composed 2 percent.
        - There is not a straightforward alignment of learning goals with program type/location.
        - On average, learners participated in adult education programs for less than 100 hours per year.
-          - By contrast, about 3,000 hours are required for mastery of a complex skill.
+          - By contrast, about 3,000 hours are required for mastery of a complex skill. (_An hour per day from kindergarten through twelfth grade amounts to about 2,000 hours in total._)
           - One-third of adults made reading gains equivalent to a grade level during the program year.
           - Those who persisted tended to be older, with poorer basic reading skills.
     1. **Developmental courses in colleges**
@@ -284,13 +294,26 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
           - Developmental education for students formally enrolled in college programs.
               - Currently, no universally accepted definition of college readiness.
               - More than half of community college students enroll in at least one developmental education course during their college tenure.
-- Within those settings, a diversity of populations:
+- Within those settings, there's a still-greater diversity of populations:
   - high school dropouts,
-  - low-literate English language learners with varying levels of first language literacy,
   - students with documented disabilities,
   - students in career and technical education,
-  - academically underprepared college students, and
-  - other adults who fared poorly in the K-12 system.
+  - academically underprepared college students,
+  - other adults who fared poorly in the K-12 system, and
+  - low-literate **English language learners with varying levels of first language literacy.**
+      - Of Americans 5 years or older, 19.6% speak a language other than English at home.
+        - 18% are below the poverty level (versus 11.6% who speak English at home)
+        - 31.2% have less than a high school education (vs 11.7% of English speakers)
+        - English language learners are the largest group enrolled in adult education programs, with 43% in English as a second language (ESL) programs.
+        - In 2006-2007, more than 1 million adults were enrolled in ESL programs (this does not include ELL’s in ABE/ASE programs.)
+      - [A 7-year longitudinal study of non-credit ESL classes](https://files.eric.ed.gov/fulltext/ED506600.pdf) showed that only about 8 percent of learners made the transition to other academic (credit) studies.
+        - 44 percent advanced only one literacy level.
+        - Most of those who advanced took on average 50 to 149 hours of attendance (usually referred to as “100 instruction hours”) to advance one level.
+      - The numbers of adults in ESL classes who have limited education in their home countries continues to grow.
+        - Among adults, years of education in the primary language (_partially_) correlates with English literacy development.
+        - Self-reported language proficiency of Hispanic learners predicted both initial levels of English reading and rates of improvement.
+        - Similar results were not found, however, for Asians who spoke various first languages, such as Chinese, Filipino, or Korean.
+
 
 ### Literacy-Specific Practices 
 
@@ -337,60 +360,34 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
 
 ## Language and Literacy Development of English Language Learners
 
-- Of Americans 5 years or older, 19.6% speak a language other than English at home.
-  - 18% are below the poverty level (versus 11.6% who speak English at home)
-  - 31.2% have less than a high school education (vs 11.7% of English speakers)
-  - English language learners are the largest group enrolled in adult education programs, with 43% in English as a second language (ESL) programs.
-  - In 2006-2007, more than 1 million adults were enrolled in ESL programs (this does not include ELL’s in ABE/ASE programs.)
-
-- The numbers of adults in ESL classes who have limited education in their home countries continues to grow.
-- Among adults, years of education in the primary language correlates with English literacy development.
-  - Self-reported language proficiency of Hispanic learners predicted both initial levels of English reading and rates of improvement.
-  - Similar results were not found, however, for Asians who spoke various first languages, such as Chinese, Filipino, or Korean.
-
-- [A 7-year longitudinal study of non-credit ESL classes](https://files.eric.ed.gov/fulltext/ED506600.pdf) showed that only about 8 percent of learners made the transition to other academic (credit) studies.
-  - 44 percent advanced only one literacy level.
-  - Most of those who advanced took on average 50 to 149 hours of attendance (usually referred to as “100 instruction hours”) to advance one level.
-- Because studies are so few and the ones available suffer from various methodological constraints, it is not possible to draw strong conclusions about effective instructional practices.
-
-
 - Compared with adult native speakers with low literacy, adult English language learners with low literacy show:
   - weaker vocabulary,
   - weaker passage comprehension,
   - weaker sight word reading skills, but
   - better phonological processing and
   - better phonological awareness.
-- Although adult language learners (and native speakers) can establish basic decoding skills quickly with good instruction, vocabulary and comprehension skills have been particularly difficult to change with instruction.
 
-- Two languages share brain structures and circuits, instead of having segregated ones.
+- Recent findings from behavioral and neurobiological research imply that the **role of the primary language cannot be ignored** during the learning of a second language.
+  - Multiple languages share brain structures and circuits, instead of having segregated ones.
   - Examples of such parallel activation across languages include:
-    - In Dutch and English, “room” has different meanings (it means “cream” in Dutch). A Dutch-English bilingual will briefly (and unconsciously) activate both meanings of the word “room,” quickly choosing the one that is appropriate to the language being used.
-    - Words that are pronounced differently in two languages (e.g., “coin” in French and English) produce interference in silent reading compared with words with very similar pronunciations (e.g., “piano.”)
-  - The degree of overlap depends on second language proficiency: individuals whose knowledge of the second language is relatively weak show greater activation of frontal regions (reflecting more cognitive effort and use of working memory.)
-- Recent findings from behavioral and neurobiological research imply that the role of the primary language cannot be ignored during the learning of a second language.
+      - In Dutch and English, “_room_” has different meanings (_it means “cream” in Dutch._) A Dutch-English bilingual will briefly (_and unconsciously_) activate both meanings of the word “_room_,” quickly choosing the one that is appropriate to the language being used.
+      - Words that are pronounced differently in two languages (e.g., “_coin_” in French and English) produce interference in silent reading compared with words with very similar pronunciations (e.g., “_piano._”)
+  - The degree of overlap depends on second language proficiency: individuals whose knowledge of the second language is relatively weak show greater activation of frontal regions (_reflecting more cognitive effort and use of working memory._)
 
-- When college students who are highly literate in a first language are learning English,
-  - Japanese and Chinese speakers rely on visual cues more than Korean or Persian speakers, because
-  - the latter two groups have a phonologically based rather than morphemically based writing system, although
-  - all four of the groups use non-Latin scripts.
-
-- If certain skills and strategies are available to a learner in a first language, building on them may help to develop literacy in a second language
+- If certain skills and strategies are available to a learner in a first language, building on them may help to develop literacy in a second language.
   - Decoding skill in a first language supports decoding in a second language.
   - Good readers use similar comprehension strategies in both of their languages.
   - Vocabulary knowledge across the two languages of language learners is relatively independent.
-  - Thus, there may be possibilities for applying \[first-language knowledge and skills\] to the second language when:
-    - the literacy tasks involve analyzing language structure (phonology, morphology), or
-    - using metacognitive strategies.
-  - The data suggest limited or no transfer, however, when the tasks involve language-specific patterns (e.g., orthographic rules for spelling, meanings of items.)
+  - Thus, there may be **possibilities for applying first-language knowledge and skills to the second language** when:
+      - the literacy tasks involve analyzing language structure (phonology, morphology), or
+      - when using metacognitive strategies.
+  - The data suggest limited or no transfer, however, when the tasks involve language-specific patterns (e.g., orthographic rules for spelling, meanings of items.) An example: 
+      - When college students who are highly literate in a first language are learning English:
+      - Japanese and Chinese speakers rely on visual cues more than Korean or Persian speakers,
+      - even though all four groups use non-Latin scripts:
+      - because the latter two groups have a phonologically-based (_rather than morphemically-based_) writing system.
 
-
-- One crucial influence on reading comprehension is vocabulary.
-  - One needs at least 3,000 words in a second language to read independently in that language.
-  - To comprehend a college-level academic text, a vocabulary of about 9,000 words is needed.
-- Vocabulary develops not only through explicit teaching but also through routine exposure to language, especially print, which contains words and word structures used less often in speech.
-
-
-- The ability to learn a second language declines with age.
+- The ability to **learn a second language declines with age**.
   - One theory proposes this capacity decreases because of neurodevelopmental processes, such as
     - dendritic proliferation and pruning, and
     - synapse elimination.
@@ -398,23 +395,13 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
     - Learning a second language requires adjusting neural networks that support the first language.
     - Adjusting existing neural networks is very difficult, especially since those networks have been stabilized and are still successfully used in first language processing.
   - Age-related differences in working memory also may affect second language and literacy acquisition.
-
-- Even when basic decoding is mastered, readers can struggle depending on the
-  - particular type of text they are asked to read,
-  - their level of background knowledge or interest, and
-  - the task they are asked to do.
-
-- Comprehension involves interpreting the meaning of text using preexisting knowledge, beliefs, and opinions. (_The more one knows about a topic, the better one comprehends the material._)
-- Some basic processes have been shown to be affected by the cultural context in which an individual was raised, such as:
-  - categorization,
-  - perception of an object in relation to its background, and
-  - making causal attributes.
+  - Another age-based trend: older readers tend to rely more on recognizing a whole word as a unit instead of decoding it using phonics skills.
 
 ---
 
-### Future Research Directions
+## Directions for Future Research 
 
-- In all `${quantitative research experiments that measure outcomes with standardized/researcher-developed tests}` to date, learner gains are small relative to the amount needed for someone to achieve levels of literacy required for functional literacy. A priority for research, then, is to experiment with a variety of ways to more **fully engage learners for longer periods of time,** to get the adults to participate and persevere.
+- In all `${quantitative research experiments that measure outcomes with standardized/researcher-developed tests}` to date, learner gains are small relative to the amount needed for someone to achieve proficiency required for functional literacy. A priority for research, then, is to experiment with a variety of ways to more **fully engage learners for longer periods of time,** to get the adults to participate and persevere.
   - We should develop and test approaches that have been used with some success to motivate adherence to health promotion programs (_e.g., weight loss, smoking cessation_).
   - Reminder systems used in health care may also prove of benefit.
   - Because effective literacy is built up over thousands of hours, it is extremely worthwhile to include out-of-class practice opportunities in any program.
@@ -432,7 +419,7 @@ Notes excerpted from [The National Academies Press.](https://www.nap.edu/catalog
           - problem-based curricula in medical schools, in which students work on genuine medical cases, and
           - communities of practice, in which students try to solve problems of pollution in their city.
           - These formats are likely to motivate struggling adult learners who are sensitive to the value of their learning experience.
-- An additional research priority is to develop **more valid ways of measuring adults’ literacy gains**... with assessments normed for the population and designed to show progress in specific component skills.
+- An additional research priority is to develop **more valid ways of measuring adults’ literacy gains** with assessments normed for the population and designed to show progress in specific component skills.
   - Three types of assessment are needed: diagnostic, formative, and accountability assessment.
   - Currently, no satisfactory ways to comprehensively assess:
     - the range of literacy skills that adults bring to instruction, and
