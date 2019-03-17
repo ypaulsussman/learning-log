@@ -19,7 +19,7 @@ tags:
 
 1. A program that creates (e.g. noun-verb) collocates based on pairs that rarely/never collocate (idea-prompting sample: “the clocks delectate.”)
 
-1. Idiomatic: app for learning individual vocabulary via SRS, introduced and retrieved via idioms/collocations that make use of that vocab item. (Cross-reference vocab frequency against containing idiom’s frequency; perhaps narrow by discipline i.e. travel, conversation, business, academic.) Ignore phrasals. (Idiomate?)
+1. ~~Idiomatic: app for learning individual vocabulary via SRS, introduced and retrieved via idioms/collocations that make use of that vocab item. (Cross-reference vocab frequency against containing idiom’s frequency; perhaps narrow by discipline i.e. travel, conversation, business, academic.) Ignore phrasals. (Idiomate?)~~
 
 1. ~~SRS vocab searcher: present the vocabulary in the context of a sentence taken from real-life media.~~ 
     * ~~(Second challenge: create a sentence using the media, with translation. Save that sentence as well, then add it to the list of sentences to be called back.)~~
@@ -51,7 +51,7 @@ tags:
      - every other day is VoIP role-play;
      - two chances to record: once w/o prep, at beginning of day, and once after receiving 5-10 potentially-useful vocabulary words.
 
-1. Apply corpus analysis to OER: create content-based instruction courses by building complementary language curriculum around most commonly-occurring structures ("words and rules") in each text.
+1. ~~Apply corpus analysis to OER: create content-based instruction courses by building complementary language curriculum around most commonly-occurring structures ("words and rules") in each text.~~
 
 1. GUI for content professors: (experts in research, but not pedagogy) to build lessons, guided by sound teaching principles and pleasing design.
 

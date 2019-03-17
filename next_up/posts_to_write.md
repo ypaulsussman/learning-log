@@ -21,18 +21,13 @@
 1. ~~Apps and Ideas Heap #9 [ ]~~
 1. ~~Go Figure The Economist Explains [ ]~~
 1. ~~The Horologicon [ ]~~
+1. _Improving Adult Literacy Instruction_ [ x ]
+1. ~~Apps and Ideas Heap #13 [ see #19 ]~~
 
-1. Improving Adult Literacy Instruction [ ] **<===Current===**
-
-1. Apps and Ideas Heap #7 [ ]
-
-1. Zero to One [ ]
-
+1. Apps and Ideas Heap #7 [ ] `**<===Current===**`
 1. Apps and Ideas Heap #18 [ ]
 
 1. NYT's Book of Language and Linguistics [ ]
-
-1. Apps and Ideas Heap #13 [ ]
 
 1. Chamot's Strategy Instruction Articles [ ]
 
@@ -47,6 +42,8 @@
 1. Educause's 7 Things You Should Know [ ]
 
 1. Apps and Ideas Heap #15 [ ]
+
+1. Zero to One [ ]
 
 1. Apps and Ideas Heap #14 [ ]
 
@@ -84,7 +81,7 @@
 
 ## Read (and annotate, and then add those notes to the list above)
 
-1. SQL Cookbook (O'Reilly) **<===Current===**
+1. SQL Cookbook (O'Reilly) `**<===Current===**`
 
 1. Compare and contrast online SQL exercises:
 
@@ -142,6 +139,6 @@
 
 1. PWA to shoot you a daily quote from _Other People's Lines_
 
-1. [ D&D 5e, VTM, Pathfinder ] Character Randomizer for a given campaign setting
+1. [ _D&D 5e, VTM, Pathfinder? Whatever you're wanting to play at the time_ ] character randomizer for a given campaign setting
 
 1. `${Add projects from "Next Steps" section of 'Revisiting' and 'Ideas' file; add their projects below}`

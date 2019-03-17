@@ -48,7 +48,7 @@ It's not clear to me whether, within a university, whether the client would be f
 
 For a publisher, I'd imagine they'd want to use the tool to generate the content to be used in parallel with the book. That's interesting: perhaps selling a parallel, browser-based learning module as an add-on to the textbook purchase, or (again, likely for additional cost) creating hyperlinks over given items (from within a digital copy of the textbook) that take the reader to short practice sessions with the items in that section or chapter.
 
-The downside here being that I _really_ like the potential that OER has. So perhaps that's the step I'd take, post-MVP: head over to OpenStax, or OpenEd, or the Open Textbook Library, and begin creating those parallel "here's how not to get bogged down in the language this book uses" preparatory modules, both as a general competitive advantage for the OER textbooks and specifically to promote their usage among English-as-a-medium-of-instructino institutions.
+The downside here being that I _really_ like the potential of Open Educational Resources (OER). So perhaps that's the step I'd take, post-MVP: head over to OpenStax, or OpenEd, or the Open Textbook Library, and begin creating those parallel "here's how not to get bogged down in the language this book uses" preparatory modules, both as a general competitive advantage for the OER textbooks and specifically to promote their usage among English-as-a-medium-of-instructino institutions.
 
 ## Next steps
 
