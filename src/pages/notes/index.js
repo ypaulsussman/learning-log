@@ -16,10 +16,13 @@ export default class IndexPage extends React.Component {
             <title>{`Notes | ${data.site.siteMetadata.title}`}</title>
             <meta
               name="description"
-              content="The six most-recent posts witht the 'Notes' tag."
+              content="The six most-recent posts with the 'Notes' tag."
             />
           </Helmet>
           <h1 className="">Latest Notes</h1>
+          <p> Hi! Below are half-a-dozen of my most-recent notes on books, workshops, websites I've encountered, etc. </p>
+          <p>I'l be honest: I've posted them here for my own ease of access: they're generally pretty disorganized, and so (<em>while I'd never dissuade you from exploring!</em>) I can't really recommend you get your hopes up for any novelty or insight.</p>
+          <p>Finally: the day will come when I add pagination... but this is not. That. Day.</p>
           {posts.map(({ node: post }) => (
             <div className="card latest-posts" key={post.id}>
               <span className="card-header">

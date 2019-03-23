@@ -20,6 +20,9 @@ export default class IndexPage extends React.Component {
             />
           </Helmet>
           <h1 className="">Latest Ideas</h1>
+          <p>Below are my half-a-dozen most-recent actual (<em>approximations of</em>) blog posts.</p>
+          <p>As of early/mid-2019, they're mostly each a brainstorm/rumination prompted by returning to a given document of notes from prior years. They usually take the format of "<em>these notes' context; thoughts while rereading; ways to apply what I gained in the future.</em>"</p>
+          <p>Their main role (<em>beyond keeping me in the habit of shaping thoughts as words, and eliciting contemplation of previous learning</em>) is to serve as a handy store of toy-app/hacking ideas, for when I'm bored on a Saturday.</p>
           {posts.map(({ node: post }) => (
             <div className="card latest-posts" key={post.id}>
               <span className="card-header">

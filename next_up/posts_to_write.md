@@ -23,11 +23,10 @@
 1. ~~The Horologicon [ ]~~
 1. _Improving Adult Literacy Instruction_ [ x ]
 1. ~~Apps and Ideas Heap #13 [ see #19 ]~~
+1. ~~Apps and Ideas Heap #7 [ ]~~
+1. ~~Apps and Ideas Heap #18 [ ]~~
 
-1. Apps and Ideas Heap #7 [ ] `**<===Current===**`
-1. Apps and Ideas Heap #18 [ ]
-
-1. NYT's Book of Language and Linguistics [ ]
+1. NYT's Book of Language and Linguistics [ ] `**<===Current===**`
 
 1. Chamot's Strategy Instruction Articles [ ]
 
@@ -68,7 +67,7 @@
 1. Words and Rules [ ]
 
 1. Beautiful JavaScript [ ] `<===After O'Reilly JS Books===`
-1. JavaScript_The Hard (and New Hard) Parts [ ] 
+1. JavaScript_The Hard (and New Hard) Parts [ ]
 1. Deep JavaScript Fundamentals
 1. JavaScript: The Recent Parts
 
@@ -81,45 +80,40 @@
 
 ## Read (and annotate, and then add those notes to the list above)
 
-1. SQL Cookbook (O'Reilly) `**<===Current===**`
+1. Compare and contrast online SQL exercises: `**<===Current===**`
 
-1. Compare and contrast online SQL exercises:
+   - https://selectstarsql.com/ [ x ]
+   - https://pgexercises.com/
+   - https://sqlbolt.com/
+   - https://chartio.com/learn/sql/
 
-- https://chartio.com/learn/sql/
-- https://selectstarsql.com/
-- https://sqlbolt.com/
-- https://pgexercises.com/
-- https://sqlzoo.net/
-- https://www.sqlteaching.com/
-- https://schemaverse.com/
-- http://sol.gfxile.net/g3/
-- https://app.bytescout.com/sql-trainer/index.html
+1. Return to _SQL Cookbook_ (O'Reilly)
 
 1. _Self-Regulated Learning: Beliefs, Techniques, and Illusions_ (Bjork, 2013)
 
+1. Get a one-month Packt subscription, and shop (ruthlessly) though their Rails resources
+
 1. ThoughtBot Upcase @ Ruby:
 
-- https://thoughtbot.com/upcase/intermediate-ruby-on-rails-five
-- https://thoughtbot.com/upcase/advanced-activerecord-querying
+   - https://thoughtbot.com/upcase/intermediate-ruby-on-rails-five
+   - https://thoughtbot.com/upcase/advanced-activerecord-querying
 
 1. _Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_ (Dunlosky, 2013)
 
-1. Get a one-month Packt subscription, and shop (ruthlessly) though their Rails resources
+1. Compare different 'intro to coding tools' lectures:
+
+   - https://hacker-tools.github.io/lectures/
+   - https://web.cs.ucla.edu/classes/winter19/cs35L/
+   - https://www.cs.cmu.edu/~15131/f17/
+   - https://software-carpentry.org/
 
 1. _How People Learn II: Learners, Contexts, and Cultures_ (NAP, 2018)
 
-1. Compare different 'intro to coding tools' lectures:
-
-- https://hacker-tools.github.io/lectures/
-- https://web.cs.ucla.edu/classes/winter19/cs35L/
-- https://www.cs.cmu.edu/~15131/f17/
-- https://software-carpentry.org/
-
 1. ThoughtBot Upcase @ Vim
 
-- https://thoughtbot.com/upcase/onramp-to-vim
-- https://thoughtbot.com/upcase/navigating-ruby-files-with-vim
-- https://thoughtbot.com/upcase/tmux
+   - https://thoughtbot.com/upcase/onramp-to-vim
+   - https://thoughtbot.com/upcase/navigating-ruby-files-with-vim
+   - https://thoughtbot.com/upcase/tmux
 
 1. Bash Cookbook (O'Reilly)
 
