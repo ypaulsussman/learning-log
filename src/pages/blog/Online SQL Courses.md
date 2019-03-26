@@ -82,3 +82,58 @@ LIMIT 10
 ---
 
 ## [PostgreSQL Exercises](https://pgexercises.com/)
+
+### Basic 
+
+The `IN` operator is a good early demonstrator of the elegance of the relational model. 
+- The argument it takes is not just a list of values - it's actually a table with a single column. 
+- Since queries also return tables, if you create a query that returns a single column, you can feed those results into an `IN` operator:
+
+```sql
+select * 
+	from cd.facilities
+	where
+		facid in (
+			select facid from cd.facilities
+			);
+```
+
+This example is functionally equivalent to just selecting all the facilities, but shows you how to feed the results of one query into another. 
+
+---
+
+Below, we're doing computation in the area of the query between `SELECT` and `FROM`: 
+
+```sql
+select name, 
+	case when (monthlymaintenance > 100) then
+		'expensive'
+	else
+		'cheap'
+	end as cost
+	from cd.facilities;    
+```
+
+Previously we've only used this to select columns that we want to return, but you can put anything in here that will produce a single result per returned row - including subqueries.
+
+---
+
+Below, you use a subquery to find out what the most recent `joindate` is: 
+
+```sql
+select firstname, surname, joindate
+	from cd.members
+	where joindate = 
+		(select max(joindate) 
+			from cd.members);          
+```
+
+- This subquery returns a scalar table - that is, a table with a single column and a single row. 
+- Since we have just a single value, we can substitute the subquery anywhere we might put a single constant value. 
+- In this case, we use it to complete the `WHERE` clause of a query to find a given member.
+
+---
+
+### Joins and Subqueries
+
+https://pgexercises.com/questions/joins/

@@ -37,6 +37,7 @@ tags:
 
    - Use emoji as multimedia component, to prompt/associate/describe basic words.
    - Or the [Noun Project’s](https://thenounproject.com/browse/) svg’s?
+   - Or [ManyPixel's](https://gallery.manypixels.co/) svg's?
 
 1. SMS-based daily speaking prompts.
 
