@@ -89,14 +89,14 @@
 
 1. Return to _SQL Cookbook_ (O'Reilly)
 
-1. _Self-Regulated Learning: Beliefs, Techniques, and Illusions_ (Bjork, 2013)
-
 1. Get a one-month Packt subscription, and shop (ruthlessly) though their Rails resources
 
 1. ThoughtBot Upcase @ Ruby:
 
    - https://thoughtbot.com/upcase/intermediate-ruby-on-rails-five
    - https://thoughtbot.com/upcase/advanced-activerecord-querying
+
+1. _Self-Regulated Learning: Beliefs, Techniques, and Illusions_ (Bjork, 2013)
 
 1. _Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_ (Dunlosky, 2013)
 
@@ -129,10 +129,10 @@
 
 ## Build
 
-1. Remove Spectre; use your own damn CSS
+1. Character-creation helper/random-generator for '_Shattered Star Chondath_' campaign.
 
 1. PWA to shoot you a daily quote from _Other People's Lines_
 
-1. [ _D&D 5e, VTM, Pathfinder? Whatever you're wanting to play at the time_ ] character randomizer for a given campaign setting
+1. Remove Spectre from blog; use your own damn CSS
 
 1. `${Add projects from "Next Steps" section of 'Revisiting' and 'Ideas' file; add their projects below}`
