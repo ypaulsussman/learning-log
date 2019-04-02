@@ -1,30 +1,4 @@
-## Revisit (and Write)
-
-1. _Apps and Ideas Heap #2_ [ x ]
-1. _Computational Thinking Research (for Code Kitty)_ [ x ]
-1. _Apps and Ideas Heap #20_ [ x ]
-1. _`daily_ua` notes_ [ x ]
-1. _Ruby Developer Questions_ [ x ]
-1. _Learn Ruby_ [ x ]
-1. ~~Apps and Ideas Heap #6 [ ]~~
-1. ~~Apps and Ideas Heap #16 [ ]~~
-1. _How The Brain Learns_ [ x ]
-1. _Apps and Ideas Heap #19_ [ x ]
-1. _Learning React_ [ x ]
-1. _React Quickly_ [ x ]
-1. _Advanced React Patterns_ [ x ]
-1. ~~Apps and Ideas Heap #17 [ ]~~
-1. _Apps and Ideas Heap #5_ [ x ]
-1. ~~Data Structures and Algorithms [ ]~~
-1. ~~JS Data Structures and Algorithms [ ]~~
-1. _Object-Oriented JavaScript_ [ x ]
-1. ~~Apps and Ideas Heap #9 [ ]~~
-1. ~~Go Figure The Economist Explains [ ]~~
-1. ~~The Horologicon [ ]~~
-1. _Improving Adult Literacy Instruction_ [ x ]
-1. ~~Apps and Ideas Heap #13 [ see #19 ]~~
-1. ~~Apps and Ideas Heap #7 [ ]~~
-1. ~~Apps and Ideas Heap #18 [ ]~~
+## Posts from Notes (Revisit, and write takeaways)
 
 1. NYT's Book of Language and Linguistics [ ] `**<===Current===**`
 
@@ -78,16 +52,16 @@
 
 ---
 
-## Read (and annotate, and then add those notes to the list above)
+## Notes for Posts (Read, annotate, and add to the list above)
 
-1. Compare and contrast online SQL exercises: `**<===Current===**`
+1. ~~Compare and contrast online SQL exercises:~~
 
-   - https://selectstarsql.com/ [ x ]
-   - https://pgexercises.com/
-   - https://sqlbolt.com/
-   - https://chartio.com/learn/sql/
+   - ~~https://sqlbolt.com/~~~~
+   - ~~https://selectstarsql.com/~~
+   - ~~https://chartio.com/learn/sql/~~
+   - ~~https://pgexercises.com/~~
 
-1. Return to _SQL Cookbook_ (O'Reilly)
+1. Return to _SQL Cookbook_ (O'Reilly) `**<===Current===**`
 
 1. Get a one-month Packt subscription, and shop (ruthlessly) though their Rails resources
 
@@ -131,8 +105,37 @@
 
 1. Character-creation helper/random-generator for '_Shattered Star Chondath_' campaign.
 
-1. PWA to shoot you a daily quote from _Other People's Lines_
+1. PWA to shoot you a daily quote from _Other People's Lines._
 
-1. Remove Spectre from blog; use your own damn CSS
+1. Remove Spectre from blog; use your own damn CSS.
 
-1. `${Add projects from "Next Steps" section of 'Revisiting' and 'Ideas' file; add their projects below}`
+1. `${Add projects from "Next Steps" section of 'Revisiting' and 'Ideas' files}`
+
+---
+
+## Done
+1. _Apps and Ideas Heap #2_ [ x ]
+1. _Computational Thinking Research (for Code Kitty)_ [ x ]
+1. _Apps and Ideas Heap #20_ [ x ]
+1. _`daily_ua` notes_ [ x ]
+1. _Ruby Developer Questions_ [ x ]
+1. _Learn Ruby_ [ x ]
+1. ~~Apps and Ideas Heap #6 [ ]~~
+1. ~~Apps and Ideas Heap #16 [ ]~~
+1. _How The Brain Learns_ [ x ]
+1. _Apps and Ideas Heap #19_ [ x ]
+1. _Learning React_ [ x ]
+1. _React Quickly_ [ x ]
+1. _Advanced React Patterns_ [ x ]
+1. ~~Apps and Ideas Heap #17 [ ]~~
+1. _Apps and Ideas Heap #5_ [ x ]
+1. ~~Data Structures and Algorithms [ ]~~
+1. ~~JS Data Structures and Algorithms [ ]~~
+1. _Object-Oriented JavaScript_ [ x ]
+1. ~~Apps and Ideas Heap #9 [ ]~~
+1. ~~Go Figure The Economist Explains [ ]~~
+1. ~~The Horologicon [ ]~~
+1. _Improving Adult Literacy Instruction_ [ x ]
+1. ~~Apps and Ideas Heap #13 [ see #19 ]~~
+1. ~~Apps and Ideas Heap #7 [ ]~~
+1. ~~Apps and Ideas Heap #18 [ ]~~
