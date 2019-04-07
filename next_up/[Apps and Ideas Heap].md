@@ -75,7 +75,7 @@ tags:
 
 1. ~~Software for (IEP? K-12 content? HE content?) students to each curate a portfolio which starts empty, but is used for weekly (open-classroom/group-based) check-in’s (to gamify and level set, so students don’t fall behind from lack of context.) Include easy multimedia scraping (for web-based media as e.g. prompts or interests) and easy multimedia uploading (specifically video and text.) Pre-load the platform with tasks for  teachers to use or adapt; align those tasks to e.g. the EAQUALS/CEFR frameworks. (Be sure to require uploaded media of dialogues/role-plays between students, so tasks don’t  become too monologic.)~~
 
-1. Anki’s SRS format displaying sentences, but with the ability to highlight particular words/phrases to practice them (or similar instances of them) further.
+1. Anki’s SRS format displaying sentences, but with the ability to highlight particular words/phrases to practice them (or similar instances of them) further. _SRS masters the timing of when/what content to elicit, but the question of what action to perform on that content is surprisingly unadressed. I find this question is foregrounded and emphasized by the nature of the content I'm studying: a heavily inflectional language, where it becomes more clear that you're in fact memorizing a particular verb with a singular calqued/frozen [aspect, tense, gender, deixis, plurality, etc] rather than the holistic entirety of the verb, all its semantic mapping and combinatorial rules of affixation.
 
 1. ~~Program to parse reoccuring parts of speech/collocations within a preexisting textbook (so as to build a course/lesson around it.)~~
 

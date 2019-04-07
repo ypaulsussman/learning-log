@@ -22,7 +22,7 @@ To check if an entry is `NULL`, use `IS` and `IS NOT` instead of `=` and `!=`.
 
 ---
 
-```postgresql
+```sql
 SELECT
   county,
   COUNT(*) AS county_executions
@@ -42,7 +42,7 @@ Using `GROUP BY` with multiple columns will group only those rows that have the 
 
 The below code finds the percentage of executions from each county. (_100.0 is a decimal so we can get decimal percentages._)
 
-```postgresql
+```sql
 SELECT
   county,
   100.0 * COUNT(*) / (select count(*) from executions)
@@ -64,7 +64,7 @@ A join creates enough rows of so that each matching row gets its own partner. In
 
 `previous` is derived from `executions`, so we’re effectively joining `executions` to itself. This is called a _“self join_” and is a powerful technique for allowing rows to get information from other parts of the same table.
 
-```postgresql
+```sql
 SELECT
   last_ex_date AS start,
   ex_date AS end,
@@ -93,7 +93,7 @@ The `IN` operator is a good early demonstrator of the elegance of the relational
 - The argument it takes is not just a list of values - it's actually a table with a single column.
 - Since queries also return tables, if you create a query that returns a single column, you can feed those results into an `IN` operator:
 
-```postgresql
+```sql
 select *
 	from cd.facilities
 	where
@@ -108,7 +108,7 @@ This example is functionally equivalent to just selecting all the facilities, bu
 
 Below, we're doing computation in the area of the query between `SELECT` and `FROM`:
 
-```postgresql
+```sql
 select name,
 	case when (monthlymaintenance > 100) then
 		'expensive'
@@ -124,7 +124,7 @@ Previously we've only used this to select columns that we want to return, but yo
 
 Below, you use a subquery to find out what the most recent `joindate` is:
 
-```postgresql
+```sql
 select firstname, surname, joindate
 	from cd.members
 	where joindate =
@@ -153,7 +153,7 @@ A 'self join' is really useful if you have columns that reference data in the sa
 
 When you want to sort by sth you haven't yet constructed (this holds true for the `distinct` as well):
 
-```postgresql
+```sql
 select distinct mem.firstname || ' ' || mem.surname as member, fac.name as facility
     from cd.members mem
     join cd.bookings bk on mem.memid = bk.memid
@@ -170,7 +170,7 @@ Note this won't work if you replace the pipes-concatenation with `concat_ws(' ',
 
 You can use the calculated `member`/`cost` columns within the `group by`, `order by`, and `having` clauses: but not within the `where` clause:
 
-```postgresql
+```sql
 select mem.firstname || ' ' || mem.surname as member,
 fac.name as facility,
 case
@@ -193,7 +193,7 @@ order by cost desc;
 
 To remove the duplicated `'member : guest'` check in the `where` clause, use a subquery:
 
-```postgresql
+```sql
 select member, facility, cost from (
     select mem.firstname || ' ' || mem.surname as member,
     fac.name as facility,
@@ -225,7 +225,7 @@ As long as you fill in data for all columns of the table, in the order they were
 
 `VALUES` will insert constant data; however, it's also possible to use `SELECT` wherever you see a `VALUES`:
 
-```postgresql
+```sql
 INSERT INTO cd.facilities
     (facid, name, membercost, guestcost, initialoutlay, monthlymaintenance)
     SELECT 9, 'Spa', 20, 30, 100000, 800;
@@ -235,7 +235,7 @@ This `INSERT... SELECT` pattern is often used to generate data to insert dynamic
 
 For example, this query autoincrements the `facid`:
 
-```postgresql
+```sql
 INSERT INTO cd.facilities
     (facid, name, membercost, guestcost, initialoutlay, monthlymaintenance)
     SELECT (SELECT MAX(facid) FROM cd.facilities) + 1, 'Spa', 20, 30, 100000, 800
@@ -247,7 +247,7 @@ INSERT INTO cd.facilities
 
 Updating columns based on calculated data can be done with subqueries:
 
-```postgresql
+```sql
 update cd.facilities facs
     set
         membercost = (select membercost * 1.1 from cd.facilities where facid = 0),
@@ -259,7 +259,7 @@ As the number of columns we want to update increases, however, standard SQL can 
 
 Postgres provides a nonstandard extension to SQL called `UPDATE...FROM` that allows you to supply a `FROM` clause to generate values for use in the `SET` clause:
 
-```postgresql
+```sql
 update cd.facilities facs
     set
         membercost = facs2.membercost * 1.1,
@@ -272,7 +272,7 @@ update cd.facilities facs
 
 Often you're using `JOIN` unnecessarily: when wrestling through one, think through whether a `WHERE IN / WHERE NOT IN` statement could work just as well:
 
-```postgresql
+```sql
 DELETE FROM cd.members WHERE memid NOT IN (SELECT memid FROM cd.bookings);
 ```
 
@@ -308,7 +308,7 @@ The behaviour of `HAVING` is easily confused with that of `WHERE`. In the contex
 
 Note you can pass a `CASE`, or indeed other equations, into an aggregate function:
 
-```postgresql
+```sql
 select fac.name as name, (
   sum(
     bk.slots *
@@ -330,7 +330,7 @@ However, Postgres (_unlike SQL Server and MySQL_) doesn't support putting column
 
 Therefore, to limit the above query, you'd need to wrap it in a subquery and use `WHERE`:
 
-```postgresql
+```sql
 select name, revenue from (
     select fac.name as name, (
       sum (
@@ -359,7 +359,7 @@ As a result, `HAVING` is often best for simple queries, with the "subquery + `WH
 
 They're declared in the form `WITH cte_name AS (sql_expression)`:
 
-```postgresql
+```sql
 WITH sum AS (
     SELECT facid, sum(slots) AS totalslots
 	FROM cd.bookings
@@ -378,7 +378,7 @@ SELECT facid, totalslots
 
 One common use-case of CTE's is to show the same data with different groupings:
 
-```postgresql
+```sql
 with bookings as (
 	select facid, extract(month from starttime) as month, slots
 	from cd.bookings
@@ -395,7 +395,7 @@ order by facid, month;
 
 In Postgres 9.5+, this can be shortened still further with the `ROLLUP` operator:
 
-```postgresql
+```sql
 select facid, extract(month from starttime) as month, sum(slots) as slots
 from cd.bookings
 where extract(year from starttime) = '2012'
@@ -427,7 +427,7 @@ Window functions operate on the result set of your query (after the `WHERE` clau
 
 For example, if we didn't want to restrict the data from the query -- we just want a count of _all_ members -- we would use `OVER()` without a `PARTITION BY`:
 
-```postgresql
+```sql
 select count(*) over(), firstname, surname
   from cd.members
 order by joindate
@@ -435,7 +435,7 @@ order by joindate
 
 If, however, we want the count of all members who joined in the same month as that member, we would use:
 
-```postgresql
+```sql
 select count(*) over(partition by date_trunc('month',joindate)),
   firstname, surname
   from cd.members
@@ -446,7 +446,7 @@ For each row that the window function operates over, the "window" is "any rows t
 
 You can also add an `ORDER BY`, if, for example you want to know what number joinee they were that month:
 
-```postgresql
+```sql
 select count(*) over(partition by date_trunc('month',joindate) order by joindate),
   firstname, surname
   from cd.members
@@ -462,7 +462,7 @@ Once we define an `ORDER BY` for a window function, for any given row the "windo
 
 You can often use window functions to clean up the syntax of ranking, via the built-in `RANK()` window function:
 
-```postgresql
+```sql
 
 with summed_slots as (
     select facid, sum(slots) as total
@@ -483,7 +483,7 @@ Note that, because window functions are applied _after_ aggregation, you can act
 
 Another often-used window function is `NTILE()`:
 
-```postgresql
+```sql
 with summed_rev as (
     select fac.name as name, (
       sum(

@@ -109,7 +109,7 @@ DNS is a common attack vector. If you control DNS? You control MX. If you contro
 **Intersection Observer API:**
 
 - Allows you to set reactions based on element’s position in the viewport -- via a native JS API.
-- Previously, you could use `requestAnimationFrame` to throttle e.g. `onScroll` events… but it was not very performant.
+- Previously, you could use `requestAnimationFrame` to throttle e.g. `onScroll` events... but it was not very performant.
 - Major use-case: lazy loading!
 - Intersection observer is asynchronous
 - It’s on all browsers except for Safari.

@@ -25,7 +25,7 @@ Startups operate on the principle that you need to work with other people to get
 
 The first step thinking clearly is to question what we think we know about the past.
 
-Four big lessons from the dot-com crash… still guide business thinking today:
+Four big lessons from the dot-com crash... still guide business thinking today:
 1.  Make incremental advances
 2.  Stay lean and flexible
 3.  Improve on the competition
@@ -43,8 +43,8 @@ Creating value is not enough—you also need to capture some of the value you cr
 - Capitalism is premised on the accumulation of capital, but under perfect competition all profits get competed away.
 - Monopolists lie to protect themselves. They tend to do whatever they can to conceal their monopoly—usually by exaggerating the power of their (nonexistent) competition.
 - Non-monopolists tell the opposite lie.
-    - Entrepreneurs are always biased to understate the scale of competition… the fatal temptation is to describe your market extremely narrowly so that you dominated by definition.
-    - If you lose sight of competitive reality and focus on trivial differentiating factors… Your business is unlikely to survive.
+    - Entrepreneurs are always biased to understate the scale of competition... the fatal temptation is to describe your market extremely narrowly so that you dominated by definition.
+    - If you lose sight of competitive reality and focus on trivial differentiating factors... Your business is unlikely to survive.
 
 In a static world, a monopolist is just a rent collector. But the world we live in is dynamic: it’s possible to invent new and better things.
 - Monopolies drive progress because the promise of years or even decades of monopoly profits provides a powerful incentive to innovate.
@@ -95,7 +95,7 @@ Why has so much of our society come to believe that there are no hard secrets le
 - From an early age, we are taught that the right way to do things is to proceed with a very small step at a time (_incrementalism._)
 - People are scared of secrets because they are scared of being wrong. By definition, a secret hasn’t been vetted by the mainstream (_risk aversion._)
 - Social elites have the most freedom and ability to explore new thinking, but they seem to believe in secrets in the least. Why search for a new secret if you can comfortably collect rents on top of everything that has already been done? (_complacency._)
-- As globalization advances, people perceive the world is one homogenous, highly competitive marketplace… If it were possible to discover something new, wouldn’t someone from the faceless global talent pool of smarter and more creative people found it already? (_“Flatness.”_)
+- As globalization advances, people perceive the world is one homogenous, highly competitive marketplace... If it were possible to discover something new, wouldn’t someone from the faceless global talent pool of smarter and more creative people found it already? (_“Flatness.”_)
 
 There’s an optimistic way to describe the result of these trends: today, you can’t start a cult. Very few people take unorthodox ideas seriously today ...yet that gain has come at a great cost: we have given up our sense of wonder at secrets left to be discovered.
 
@@ -114,7 +114,7 @@ When you start something, the first and most crucial decision you make is whom y
 - It’s unromantic to think soberly about what could go wrong, so most people don’t.
 - Technical abilities and complementary skill sets matter, but how well the founders know each other and how well they work together matter just as much.
 
-It’s not just founders who need to get along. Everyone in your company needs to work well together.… It’s useful to distinguish between three concepts:
+It’s not just founders who need to get along. Everyone in your company needs to work well together.... It’s useful to distinguish between three concepts:
 1.  Ownership: who legally owns a company’s equity (typically allocated among founders, employees, and investors)
 2.  Possession: who actually runs the company on a day-to-day basis (the managers and employees)
 3.  Control: who formally governs the company’s affairs (Board of Directors, usually comprising founders and investors)
@@ -125,7 +125,7 @@ In the boardroom, less is more. A board of three is ideal. Your board should nev
 
 As a general rule, everyone you involved with your company should be involved full-time.
 - Sometimes you’ll have to break this: e.g. hire outside lawyers and accountants
-- Anyone who doesn’t own stock options or draw a regular salary from your company is fundamentally misaligned.…they’ll be biased to claim value in the near-term, not help you create more in the future.
+- Anyone who doesn’t own stock options or draw a regular salary from your company is fundamentally misaligned....they’ll be biased to claim value in the near-term, not help you create more in the future.
     - That’s why hiring consultants doesn’t work.
     - Part-time employees don’t work.
     - Even working remotely should be avoided.
@@ -168,7 +168,7 @@ The kitchen sink approach—employer a few salespeople, places some magazine ads
 
 ---
 
-…computers are complements for humans, not substitutes. The most valuable businesses of coming decades will be built by entrepreneurs who seek to empower people rather than try to make them obsolete.
+...computers are complements for humans, not substitutes. The most valuable businesses of coming decades will be built by entrepreneurs who seek to empower people rather than try to make them obsolete.
 
 ---
 

@@ -1,10 +1,10 @@
 ## Posts from Notes (Revisit, and write takeaways)
 
-1. NYT's Book of Language and Linguistics [ ] `**<===Current===**`
-
-1. Chamot's Strategy Instruction Articles [ ]
+1. Apps and Ideas Heap #18 [ ] `**<===Current===**`
 
 1. Apps and Ideas Heap #8 [ ]
+
+1. Chamot's Strategy Instruction Articles [ ]
 
 1. Task-Based Language Teaching Articles [ ]
 
@@ -40,39 +40,32 @@
 
 1. Words and Rules [ ]
 
+1. From your `Online SQL Courses.md` file, craft a comparative review of all four SQL sites, in terms of their instructional design and pedagogy, content sequencing, etc. First, create a rubric by which to [traverse, think through, evaluate] each.
+   - https://sqlbolt.com/
+   - https://selectstarsql.com/
+   - https://chartio.com/learn/sql/
+   - https://pgexercises.com/
+
 1. Beautiful JavaScript [ ] `<===After O'Reilly JS Books===`
 1. JavaScript_The Hard (and New Hard) Parts [ ]
 1. Deep JavaScript Fundamentals
 1. JavaScript: The Recent Parts
 
-1. Design for Developers [ ] `<===After O'Reilly CSS Books===`
+1. Design for Developers [ ]
 
-1. Full-Stack for Frontends 01 [ ] `<===After O'Reilly ...Docker? Books===`
+1. Full-Stack for Frontends 01 [ ] 
 1. Full-Stack for Frontends 02 [ ]
 
 ---
 
 ## Notes for Posts (Read, annotate, and add to the list above)
 
-1. ~~Compare and contrast online SQL exercises:~~
-
-   - ~~https://sqlbolt.com/~~~~
-   - ~~https://selectstarsql.com/~~
-   - ~~https://chartio.com/learn/sql/~~
-   - ~~https://pgexercises.com/~~
-
-1. Return to _SQL Cookbook_ (O'Reilly) `**<===Current===**`
-
-1. Get a one-month Packt subscription, and shop (ruthlessly) though their Rails resources
-
 1. ThoughtBot Upcase @ Ruby:
 
    - https://thoughtbot.com/upcase/intermediate-ruby-on-rails-five
    - https://thoughtbot.com/upcase/advanced-activerecord-querying
 
-1. _Self-Regulated Learning: Beliefs, Techniques, and Illusions_ (Bjork, 2013)
-
-1. _Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_ (Dunlosky, 2013)
+1. Get a one-month [Packt, or GoRails?] subscription, and shop (ruthlessly) though their Rails resources  `**<===Current===**`
 
 1. Compare different 'intro to coding tools' lectures:
 
@@ -81,13 +74,21 @@
    - https://www.cs.cmu.edu/~15131/f17/
    - https://software-carpentry.org/
 
-1. _How People Learn II: Learners, Contexts, and Cultures_ (NAP, 2018)
-
 1. ThoughtBot Upcase @ Vim
 
    - https://thoughtbot.com/upcase/onramp-to-vim
    - https://thoughtbot.com/upcase/navigating-ruby-files-with-vim
    - https://thoughtbot.com/upcase/tmux
+
+1. _Self-Regulated Learning: Beliefs, Techniques, and Illusions_ (Bjork, 2013)
+
+1. _Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_ (Dunlosky, 2013)
+
+1. _How People Learn II: Learners, Contexts, and Cultures_ (NAP, 2018)
+
+1. CSS Cookbook (O'Reilly)
+
+1. SQL Cookbook (O'Reilly)
 
 1. Bash Cookbook (O'Reilly)
 
@@ -95,9 +96,9 @@
 
 1. _Learning For Life I: Interest in and Aptitude for Technology_ (Tyton Partners, 2014)
 
-1. Research each request [header, default param, auth option, etc] that Postman provides autocomplete or prompts for
-
 1. _Learning For Life II: The Supplier Ecosystem_ (Tyton Partners, 2014)
+
+1. Research each request [header, default param, auth option, etc] that Postman provides autocomplete or prompts for
 
 ---
 
@@ -138,4 +139,4 @@
 1. _Improving Adult Literacy Instruction_ [ x ]
 1. ~~Apps and Ideas Heap #13 [ see #19 ]~~
 1. ~~Apps and Ideas Heap #7 [ ]~~
-1. ~~Apps and Ideas Heap #18 [ ]~~
+1. ~~NYT's Book of Language and Linguistics [ x ]~~ 
