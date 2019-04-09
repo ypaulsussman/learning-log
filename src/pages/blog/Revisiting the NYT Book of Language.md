@@ -1,7 +1,7 @@
 ---
 templateKey: "blog-post"
 title: Revisiting The New York Times Book of Language and Linguistics  
-date: 2019-04-02
+date: 2019-04-06
 description: These are my thoughts on rereading the notes I'd taken while reading (purely for fun) The NYT Book of Language and Linguistics.
 postType: "ideas"
 tags:
