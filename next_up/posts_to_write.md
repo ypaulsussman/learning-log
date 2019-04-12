@@ -44,10 +44,11 @@
    - https://chartio.com/learn/sql/
    - https://pgexercises.com/
 
-1. Beautiful JavaScript [ ] `<===After O'Reilly JS Books===`
+1. Beautiful JavaScript [ ]
 1. JavaScript_The Hard (and New Hard) Parts [ ]
 1. Deep JavaScript Fundamentals
 1. JavaScript: The Recent Parts
+1. Learning Javascript
 
 1. Design for Developers [ ]
 
@@ -58,25 +59,19 @@
 
 ## Notes for Posts (Read, annotate, and add to the list above)
 
-1. Learning Javascript (Forget the analysis-paralysis. Just start.)
-
-1. Get a one-month [Packt, or GoRails?] subscription, and shop (ruthlessly) though their Rails resources  `**<===Current===**`
-
-1. SQL Cookbook (O'Reilly)
-
-1. [The Linux Command Line](http://linuxcommand.org/tlcl.php) (No Starch) 
+1. [The Linux Command Line](http://linuxcommand.org/tlcl.php) (No Starch)  `**<===Current===**` 
 
 1. Bash Cookbook (O'Reilly)
 
-1. _Having done so twice, figure out how to turn (the process of reading a_ '`* Cookbook`' _O'Reilly text, after having engaged in a basic primer in the technology) into more of an interactive, problem-solving activity_
+1. _Explore how to turn (the process of reading a_ '`* Cookbook`' _O'Reilly text, after having engaged in a basic primer in the technology) into more of an interactive, problem-solving activity_
+
+1. SQL Cookbook (O'Reilly)
 
 1. CSS Cookbook (O'Reilly)
 
 1. Javascript Cookbook (O'Reilly)
 
 1. Json At Work (O'Reilly)
-
-1. Designing Web API's (O'Reilly)
 
 1. _Self-Regulated Learning: Beliefs, Techniques, and Illusions_ (Bjork, 2013)
 
@@ -88,11 +83,15 @@
 
 1. _Learning For Life II: The Supplier Ecosystem_ (Tyton Partners, 2014)
 
+1. Learning React Native
+
+1. Get a one-month [Packt, or GoRails?] subscription, and shop (ruthlessly) though their Rails resources
+
 ---
 
 ## Build
 
-1. PWA to shoot you a daily quote from _Other People's Lines._
+1. PWA (_or React Native app!_) to shoot you a daily quote from _Other People's Lines._
 
 1. Remove Spectre from blog; use your own damn CSS. ([Or this](https://github.com/dbohdan/classless-css); also, consider [this font?](https://public-sans.digital.gov/))
 
