@@ -2,7 +2,7 @@
 templateKey: "blog-post"
 title: Online SQL Courses (various)
 date: 2019-03-29
-description: I realized I'd been relying on very basic, stultified strategies for querying our database; given my absence of any formal SQL training, I elected to run though a few online intro courses. Here are the notes on what I'd never verbalized or formally intuited before (...yeah, `or just didn't know.)
+description: I realized I'd been relying on very basic, stultified strategies for querying our database; given my absence of any formal SQL training, I elected to run though a few online intro courses. Here are the notes on what I'd never verbalized or formally intuited before (...or just didn't know.)
 postType: "notes"
 tags:
   - website
@@ -520,3 +520,11 @@ The value it outputs for each row a number from 1 to ${the number of groups spec
 
 ---
 
+##  https://sqlbolt.com/
+
+## https://chartio.com/learn/sql/
+
+You never got to the above: by the time you'd finished `pgexercises.com`, these sites' exercises felt too basic to merit repetition.
+
+On revisitation: craft a comparative review of all four SQL sites, in terms of their instructional design and pedagogy, content sequencing, etc. First, create a rubric by which to [traverse, think through, evaluate] each.
+  
