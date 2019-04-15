@@ -1,7 +1,7 @@
 ---
 templateKey: "blog-post"
 title: SRS Task Improvements
-date: 2019-04-08
+date: 2019-04-14
 description: Ideas for how spaced-repetition systems might differently engage their users to interact with a flashcard's content.
 postType: "ideas"
 tags:

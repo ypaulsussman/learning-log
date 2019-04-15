@@ -1,6 +1,6 @@
 ## Reread, and Write Response
 
-1. Educause's 7 Things You Should Know [ ]  `**<===Current===**`
+1. Educause's 7 Things You Should Know [ ] `**<===Current===**`
 
 1. **Idea:** SMS-based Adult Literacy curriculum
 
@@ -18,8 +18,8 @@
      - “Valuable subjects change so quickly in this field (tech); this software works with an expert in that field to create a replicable, distributable, project/portfolio-based curriculum,  so you can offer courses that will get your graduates jobs.”
    - How to make lesson planning easier, faster, more certain?
    - Help teachers defend decisions with research (i.e. engage with and protect against parents & admin)
-   - UI for \[content and activity\] selection (for touchscreen access)
-   - Track \[content and activity\]-types across lessons (by week, unit, semester etc)
+   - UI for [content and activity] selection (for touchscreen access)
+   - Track [content and activity]-types across lessons (by week, unit, semester etc)
 
 1. Meetup and Event Notes [ ]
 
@@ -46,12 +46,12 @@
 
 1. Through the Language Glass [ ]
 
-1. **Idea:** Use noun project API to create "conversation starters" for video sessions (_e.g. speakers tell a story based on randomly-generated pics._) Options: 
-    
-    - timed/untimed 
-    - number of images (either choose one from three, or must integrate entire set into story?) 
-    - Image categories 
-    - Bring in various Faker-generated sentences as prompts (use e.g. quotes Classes, rather than single-word entries) https://github.com/stympy/faker
+1. **Idea:** Use noun project API to create "conversation starters" for video sessions (_e.g. speakers tell a story based on randomly-generated pics._) Options:
+
+   - timed/untimed
+   - number of images (either choose one from three, or must integrate entire set into story?)
+   - Image categories
+   - Bring in various Faker-generated sentences as prompts (use e.g. quotes Classes, rather than single-word entries) https://github.com/stympy/faker
 
 1. Words and Rules [ ]
 
@@ -61,16 +61,26 @@
 1. JavaScript: The Recent Parts
 1. Learning Javascript
 
+1. Write comparison of different sources of OER: (_yes, you'll need to build a rubric/taxonomy of some sort_)
+  - [OpenStax](https://openstax.org/about&sa=D&ust=1543096216913000) at Rice University
+  - [Open Textbook Library](http://open.umn.edu/opentextbooks/About.aspx&sa=D&ust=1543096216913000) (and network) at University of Minnesota
+  - [OpenEd](https://open.bccampus.ca/find-open-textbooks/&sa=D&ust=1543096216914000) at BCcampus (a support org for British Columbia schools)
+  - [Lumen Learning](https://lumenlearning.com/courses?&sa=D&ust=1543096216914000) (a for-profit company that uses OER to sell integrated learning analytics software)
+  - The [Open Ed Consortium](https://www.oeconsortium.org/about-oec/&sa=D&ust=1543096216915000) (global nonprofit) and [MERLOT](http://info.merlot.org/merlothelp/topic.htm%23t%3DWho_We_Are.htm&sa=D&ust=1543096216915000) (originally CSU, but now partnered with OEC?) also provide search tools (do they host/support any objects of their own, though?)
+  - [Open Washington](http://www.openwa.org/&sa=D&ust=1543096216916000) has an short, introductory course on OER use and licenses.
+  - [Creative Commons](https://creativecommons.org/about/program-areas/education-oer/education-oer-resources/&sa=D&ust=1543096216917000) has a list of search tools.
+
+
 1. Design for Developers [ ]
 
-1. Full-Stack for Frontends 01 [ ] 
+1. Full-Stack for Frontends 01 [ ]
 1. Full-Stack for Frontends 02 [ ]
 
 ---
 
 ## Read a book; build a thing
 
-1. Learning React Native `**<===Current===**` 
+1. Learning React Native `**<===Current===**`
 
 1. PWA (_or React Native app!_) to shoot you a daily quote from _Other People's Lines._
 
@@ -110,10 +120,10 @@
 
 1. _Learning For Life II: The Supplier Ecosystem_ (Tyton Partners, 2014)
 
-
 ---
 
 ## Done
+
 1. _Apps and Ideas Heap #2_ [ x ]
 1. _Computational Thinking Research (for Code Kitty)_ [ x ]
 1. _Apps and Ideas Heap #20_ [ x ]
@@ -138,7 +148,7 @@
 1. _Improving Adult Literacy Instruction_ [ x ]
 1. ~~Apps and Ideas Heap #13 [ see #19 ]~~
 1. ~~Apps and Ideas Heap #7 [ meh idea ]~~
-1. NYT's Book of Language and Linguistics [ x ] 
+1. NYT's Book of Language and Linguistics [ x ]
 1. Apps and Ideas Heap #18 [ x ]
 1. Apps and Ideas Heap #8 [ x ]
 1. Apps and Ideas Heap #15 [ identical to #17 ]
